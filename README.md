@@ -12,6 +12,7 @@ The pdfs are coming from the following sources:
 * https://github.com/veraPDF/veraPDF-corpus
 * https://www.pdfa.org/wp-content/until2016_uploads/2011/08/isartor-pdfa-2008-08-13.zip
 * https://archive.is/o/vZvxX/www.pdflib.com/fileadmin/pdflib/Bavaria/2009-04-03-Bavaria-pdfa.zip
+* https://github.com/openpreserve/format-corpus/tree/master/pdfCabinetOfHorrors
 
 There are four folders:
 * pdfsall: All the pdfs documents
