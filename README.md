@@ -14,13 +14,9 @@ The pdfs are coming from the following sources:
 * https://archive.is/o/vZvxX/www.pdflib.com/fileadmin/pdflib/Bavaria/2009-04-03-Bavaria-pdfa.zip
 * https://github.com/openpreserve/format-corpus/tree/master/pdfCabinetOfHorrors
 
-There are four folders:
-* pdfsall: All the pdfs documents
-* pdfs_10kb_tmin: PDF documents smaller than 10k and minimized with tmin to avoid duplicates
-* pdfs_30kb_tmin: PDF documents smaller than 10k and minimized with tmin to avoid duplicates
-* pdfs_100kb_tmin: PDF documents smaller than 10k and minimized with tmin to avoid duplicates
+There is a folder for each binary we've minimized for. The pdfall folder contains all of the pdfs which can be used to minimize with other binaries.
 
-The minimized has been done with the following command:
+The minimize can be done with the command below:
 ```
 afl-cmin -i pdfsfolder_10k/ -o pdfsfolder_10k_min/ -t 1000 -m 100 -- src/pdf2swf @@
 ```
