@@ -13,6 +13,7 @@ The pdfs are coming from the following sources:
 * https://www.pdfa.org/wp-content/until2016_uploads/2011/08/isartor-pdfa-2008-08-13.zip
 * https://archive.is/o/vZvxX/www.pdflib.com/fileadmin/pdflib/Bavaria/2009-04-03-Bavaria-pdfa.zip
 * https://github.com/openpreserve/format-corpus/tree/master/pdfCabinetOfHorrors
+* https://github.com/qpdf/qpdf/tree/master/qpdf/qtest/qpdf
 
 There is a folder for each binary we've minimized for. The pdfall folder contains all of the pdfs which can be used to minimize with other binaries.
 
