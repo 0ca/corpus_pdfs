@@ -1,0 +1,103 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20080527222415+02'00') /ModDate (D:20080527222415+02'00') /Producer (PDFlib Personalization Server 7.0.3p3 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1136 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:6EFFDCD1-BA22-0228-CD3F-071D0C4E9F10</xmpMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2008-05-27T22:24:15+02:00</xmp:ModifyDate>
+          <xmp:MetadataDate>2008-05-27T22:24:15+02:00</xmp:MetadataDate>
+          <xmp:CreateDate>2008-05-27T22:24:15+02:00</xmp:CreateDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+          <pdfaid:part>1</pdfaid:part>
+          <pdfaid:conformance>B</pdfaid:conformance>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>PDFlib Personalization Server 7.0.3p3 (Win32)</pdf:Producer>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-7-2-t03-fail-a) >>
+endobj
+9 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /ProcSet 14 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 15 0 R /Parent 8 0 R /Title (clause 6-7-2 Properties) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 16 0 R /Title (expected message: metadata dictionary uses stream filter) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 03 ) >>
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 17 0 R /Title (expected result: fail) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Prev 15 0 R /Title (instance a ) >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000317 00000 n 
+0000001534 00000 n 
+0000001596 00000 n 
+0000001651 00000 n 
+0000001710 00000 n 
+0000001817 00000 n 
+0000001961 00000 n 
+0000002044 00000 n 
+0000002111 00000 n 
+0000002214 00000 n 
+0000002350 00000 n 
+0000002442 00000 n 
+0000002497 00000 n 
+0000002599 00000 n 
+0000002713 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 18 /ID [<ae116b91e243e007bd76d4719409edca><b8f9798f63a847f972ce2dd63c8d674d>] >>
+startxref
+2817
+%%EOF

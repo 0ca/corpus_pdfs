@@ -1,0 +1,111 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20080312192827+01'00') /ModDate (D:20080312192827+01'00') /Producer (PDFlib Personalization Server 7.0.2p8 \(Linux-x86_64\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1143 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:377129BA-1A33-CC6B-BF54-5A573EC98E1A</xmpMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2008-03-12T19:28:27+01:00</xmp:ModifyDate>
+          <xmp:MetadataDate>2008-03-12T19:28:27+01:00</xmp:MetadataDate>
+          <xmp:CreateDate>2008-03-12T19:28:27+01:00</xmp:CreateDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+          <pdfaid:part>1</pdfaid:part>
+          <pdfaid:conformance>B</pdfaid:conformance>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>PDFlib Personalization Server 7.0.2p8 (Linux-x86_64)</pdf:Producer>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 2 /First 8 0 R /Last 9 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 10 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 11 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 12 0 R /Last 13 0 R /Next 9 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-6-1-t02-fail-d) >>
+endobj
+9 0 obj
+<< /A 14 0 R /Parent 5 0 R /Prev 8 0 R /Title (Bookmark with ResetForm action) >>
+endobj
+10 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+11 0 obj
+<< /ColorSpace << /C3 15 0 R >> /ProcSet 16 0 R >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Title (clause 6-6-1 General) >>
+endobj
+13 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 18 0 R /Title (expected message: ResetForm action not allowed in bookmark) >>
+endobj
+14 0 obj
+<< /S /ResetForm /Type /Action >>
+endobj
+15 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+16 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 19 0 R /Parent 8 0 R /Prev 12 0 R /Title (topic 02 ) >>
+endobj
+18 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 13 0 R /Parent 8 0 R /Prev 19 0 R /Title (expected result: fail) >>
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 18 0 R /Parent 8 0 R /Prev 17 0 R /Title (instance d ) >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000324 00000 n 
+0000001548 00000 n 
+0000001610 00000 n 
+0000001665 00000 n 
+0000001724 00000 n 
+0000001832 00000 n 
+0000001988 00000 n 
+0000002085 00000 n 
+0000002169 00000 n 
+0000002236 00000 n 
+0000002336 00000 n 
+0000002474 00000 n 
+0000002524 00000 n 
+0000002616 00000 n 
+0000002671 00000 n 
+0000002773 00000 n 
+0000002887 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 20 /ID [<16ba217f4278e468b7a7cb6ed18fd667><c8cdaf065ae5c08c0cca08a65173cd0c>] >>
+startxref
+2991
+%%EOF

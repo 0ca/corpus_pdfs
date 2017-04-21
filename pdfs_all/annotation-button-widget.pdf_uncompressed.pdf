@@ -1,0 +1,1864 @@
+%PDF-1.7
+%ø˜¢˛
+1 0 obj
+<< /AcroForm 5 0 R /Extensions << /ADBE << /BaseVersion /1.7 /ExtensionLevel 3 >> >> /MarkInfo << /Marked true >> /Metadata 23 0 R /Names 6 0 R /Pages 25 0 R /StructTreeRoot 27 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Type /ObjStm /Length 172 /N 1 /First 4 >>
+stream
+3 0
+<< /CreationDate (D:20161215213608+01'00') /Creator (Adobe LiveCycle Designer ES 9.0) /ModDate (D:20161215213608+01'00') /Producer (Adobe LiveCycle Designer ES 9.0) >>
+endstream
+endobj
+4 0 obj
+<< /Type /ObjStm /Length 4987 /N 18 /First 128 >>
+stream
+5 0 6 243 7 267 8 393 9 425 10 457 11 489 12 556 13 911 14 1273 15 1622 16 1893 17 2188 18 2461 19 2761 20 3036 21 3337 22 3673
+<< /DA (/Helv 0 Tf 0 g ) /DR << /Font << /Helv 70 0 R /ZaDb 71 0 R >> >> /Fields [ 65 0 R ] /XFA [ (preamble) 72 0 R (config) 73 0 R (template) 74 0 R (localeSet) 75 0 R (xmpmeta) 76 0 R (form) 77 0 R (datasets) 78 0 R (postamble) 79 0 R ] >>
+<< /JavaScript 7 0 R >>
+<< /Names [ (!ADBE::0100_VersChkStrings) 8 0 R (!ADBE::0100_VersChkVars) 9 0 R (!ADBE::0200_VersChkCode_XFACheck) 10 0 R ] >>
+<< /JS 80 0 R /S /JavaScript >>
+<< /JS 81 0 R /S /JavaScript >>
+<< /JS 82 0 R /S /JavaScript >>
+[ 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R ]
+<< /AP << /D << /1 83 0 R /Off 84 0 R >> /N << /1 85 0 R >> >> /AS /Off /DA (/ZaDb 8.00 Tf 0 g) /F 4 /FT /Btn /MK << /CA (8) >> /P 86 0 R /Parent 66 0 R /Rect [ 20.835 760.496 30.835 770.496 ] /StructParent 0 /Subtype /Widget /T <feff00530065006c0065006300740069006500760061006b006a00650031005b0030005d> /TU (Check box, unchecked) /Type /Annot /V /Off >>
+<< /AP << /D << /1 87 0 R /Off 88 0 R >> /N << /1 89 0 R >> >> /AS /Off /DA (/ZaDb 8.00 Tf 0 g) /F 68 /FT /Btn /Ff 1 /MK << /CA (8) >> /P 86 0 R /Parent 66 0 R /Rect [ 20.835 706.496 30.835 716.496 ] /StructParent 2 /Subtype /Widget /T <feff00530065006c0065006300740069006500760061006b006a00650032005b0030005d> /TU (Check box, read-only) /Type /Annot /V /Off >>
+<< /AP << /D << /1 90 0 R /Off 91 0 R >> /N << /1 92 0 R >> >> /AS /1 /DA (/ZaDb 8.00 Tf 0 g) /F 4 /FT /Btn /MK << /CA (8) >> /P 86 0 R /Parent 66 0 R /Rect [ 20.835 733.496 30.835 743.496 ] /StructParent 3 /Subtype /Widget /T <feff00530065006c0065006300740069006500760061006b006a00650033005b0030005d> /TU (Check box, checked) /Type /Annot /V /1 >>
+<< /AP << /D << /0 93 0 R /Off 94 0 R >> /N << /0 95 0 R >> >> /AS /Off /F 4 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[0].#field[0]) /P 86 0 R /Parent 67 0 R /Rect [ 20.835 625.496 30.835 635.496 ] /StructParent 4 /Subtype /Widget /Type /Annot >>
+<< /AP << /D << /1 96 0 R /Off 97 0 R >> /N << /1 98 0 R >> >> /AS /1 /DA (/ZaDb 8.00 Tf 0 g) /F 4 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[0].#field[1]) /P 86 0 R /Parent 67 0 R /Rect [ 182.835 625.496 192.835 635.496 ] /StructParent 5 /Subtype /Widget /Type /Annot >>
+<< /AP << /D << /0 99 0 R /Off 100 0 R >> /N << /0 101 0 R >> >> /AS /Off /F 4 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[1].#field[0]) /P 86 0 R /Parent 68 0 R /Rect [ 20.835 652.496 30.835 662.496 ] /StructParent 6 /Subtype /Widget /Type /Annot >>
+<< /AP << /D << /1 102 0 R /Off 103 0 R >> /N << /1 104 0 R >> >> /AS /Off /DA (/ZaDb 8.00 Tf 0 g) /F 4 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[1].#field[1]) /P 86 0 R /Parent 68 0 R /Rect [ 182.835 652.496 192.835 662.496 ] /StructParent 7 /Subtype /Widget /Type /Annot >>
+<< /AP << /D << /0 105 0 R /Off 106 0 R >> /N << /0 107 0 R >> >> /AS /Off /F 68 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[2].#field[0]) /P 86 0 R /Parent 69 0 R /Rect [ 20.835 598.496 30.835 608.496 ] /StructParent 8 /Subtype /Widget /Type /Annot >>
+<< /AP << /D << /1 108 0 R /Off 109 0 R >> /N << /1 110 0 R >> >> /AS /Off /DA (/ZaDb 8.00 Tf 0 g) /F 68 /MK << /CA (l) >> /NM (formulier1[0].#subform[0].LijstKeuzerondje[2].#field[1]) /P 86 0 R /Parent 69 0 R /Rect [ 182.835 598.496 192.835 608.496 ] /StructParent 9 /Subtype /Widget /Type /Annot >>
+<< /Ascent 952 /CapHeight 674 /CharSet (/space/comma/hyphen/C/R/a/b/c/d/e/h/i/k/l/n/o/r/s/t/u/x/y) /Descent -250 /Flags 32 /FontBBox [ -157 -250 1126 952 ] /FontFamily (Myriad Pro) /FontFile3 111 0 R /FontName /TAGHGH+MyriadPro-Regular /FontStretch /Normal /FontWeight 400 /ItalicAngle 0 /StemV 88 /Type /FontDescriptor /XHeight 484 >>
+<< /BaseFont /TAGHGH+MyriadPro-Regular /Encoding /WinAnsiEncoding /FirstChar 0 /FontDescriptor 21 0 R /LastChar 255 /Subtype /Type1 /Type /Font /Widths [ 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 500 212 230 337 497 513 792 605 188 284 284 415 596 207 307 207 343 513 513 513 513 513 513 513 513 513 513 207 207 596 596 596 406 737 612 542 580 666 492 487 646 652 239 370 542 472 804 658 689 532 689 538 493 497 647 558 846 571 541 553 284 341 284 596 500 300 482 569 448 564 501 292 559 555 234 243 469 236 834 555 549 569 563 327 396 331 551 481 736 463 471 428 284 239 284 596 282 513 282 207 513 356 1000 500 500 300 1156 493 255 894 282 553 282 282 207 207 354 354 282 500 1000 300 619 396 255 863 282 428 541 212 230 513 513 513 513 239 519 300 677 346 419 596 307 419 300 318 596 311 305 300 553 512 207 300 244 355 419 759 759 759 406 612 612 612 612 612 612 788 585 492 492 492 492 239 239 239 239 671 658 689 689 689 689 689 596 689 647 647 647 647 541 531 548 482 482 482 482 482 482 773 447 501 501 501 501 234 234 234 234 541 555 549 549 549 549 549 596 549 551 551 551 551 471 569 471 ] >>
+endstream
+endobj
+23 0 obj
+<< /Subtype /XML /Type /Metadata /Length 3690 >>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.1-c043 52.437709, 2010/08/04-17:30:07        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:MetadataDate>2016-12-15T21:36:08+01:00</xmp:MetadataDate>
+         <xmp:CreatorTool>Adobe LiveCycle Designer ES 9.0</xmp:CreatorTool>
+         <xmp:ModifyDate>2016-12-15T21:36:08+01:00</xmp:ModifyDate>
+         <xmp:CreateDate>2016-12-15T21:36:08+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe LiveCycle Designer ES 9.0</pdf:Producer>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xmpMM:DocumentID>uuid:3bc9594c-315c-40d6-8f1c-431d4bd04ffe</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:3803584c-e462-4167-bd57-b3a3c0e51fd0</xmpMM:InstanceID>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:desc="http://ns.adobe.com/xfa/promoted-desc/">
+         <desc:version rdf:parseType="Resource">
+            <rdf:value>9.0.0.2.20120627.2.874785</rdf:value>
+            <desc:ref>/template/subform[1]</desc:ref>
+         </desc:version>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstream
+endobj
+24 0 obj
+<< /Type /ObjStm /Length 50 /N 1 /First 5 >>
+stream
+25 0
+<< /Count 1 /Kids [ 86 0 R ] /Type /Pages >>
+endstream
+endobj
+26 0 obj
+<< /Type /ObjStm /Length 2268 /N 37 /First 278 >>
+stream
+27 0 28 95 29 134 30 240 31 296 32 365 33 432 34 501 35 570 36 639 37 708 38 777 39 846 40 915 41 984 42 1029 43 1075 44 1149 45 1196 46 1241 47 1286 48 1331 49 1377 50 1423 51 1468 52 1513 53 1551 54 1589 55 1634 56 1679 57 1717 58 1755 59 1793 60 1831 61 1869 62 1914 63 1952
+<< /K 28 0 R /ParentTree 29 0 R /ParentTreeNextKey 10 /RoleMap 30 0 R /Type /StructTreeRoot >>
+<< /K 44 0 R /P 27 0 R /S /Document >>
+<< /Nums [ 0 31 0 R 1 32 0 R 2 33 0 R 3 34 0 R 4 35 0 R 5 36 0 R 6 37 0 R 7 38 0 R 8 39 0 R 9 40 0 R ] >>
+<< /Draw /Div /Field /Div /Page /Part /Subform /Sect >>
+<< /K << /Obj 12 0 R /Pg 86 0 R /Type /OBJR >> /P 45 0 R /S /Form >>
+[ 60 0 R 58 0 R 59 0 R 53 0 R 52 0 R 57 0 R 56 0 R 62 0 R 63 0 R ]
+<< /K << /Obj 13 0 R /Pg 86 0 R /Type /OBJR >> /P 47 0 R /S /Form >>
+<< /K << /Obj 14 0 R /Pg 86 0 R /Type /OBJR >> /P 46 0 R /S /Form >>
+<< /K << /Obj 15 0 R /Pg 86 0 R /Type /OBJR >> /P 50 0 R /S /Form >>
+<< /K << /Obj 16 0 R /Pg 86 0 R /Type /OBJR >> /P 51 0 R /S /Form >>
+<< /K << /Obj 17 0 R /Pg 86 0 R /Type /OBJR >> /P 54 0 R /S /Form >>
+<< /K << /Obj 18 0 R /Pg 86 0 R /Type /OBJR >> /P 55 0 R /S /Form >>
+<< /K << /Obj 19 0 R /Pg 86 0 R /Type /OBJR >> /P 61 0 R /S /Form >>
+<< /K << /Obj 20 0 R /Pg 86 0 R /Type /OBJR >> /P 41 0 R /S /Form >>
+<< /K [ 63 0 R 40 0 R ] /P 42 0 R /S /Div >>
+<< /K [ 61 0 R 41 0 R ] /P 43 0 R /S /Sect >>
+<< /K [ 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 42 0 R ] /P 44 0 R /S /Sect >>
+<< /K 43 0 R /P 28 0 R /S /Page /T (Page 1) >>
+<< /K [ 60 0 R 31 0 R ] /P 43 0 R /S /Div >>
+<< /K [ 59 0 R 34 0 R ] /P 43 0 R /S /Div >>
+<< /K [ 58 0 R 33 0 R ] /P 43 0 R /S /Div >>
+<< /K [ 54 0 R 55 0 R ] /P 43 0 R /S /Sect >>
+<< /K [ 50 0 R 51 0 R ] /P 43 0 R /S /Sect >>
+<< /K [ 53 0 R 35 0 R ] /P 49 0 R /S /Div >>
+<< /K [ 52 0 R 36 0 R ] /P 49 0 R /S /Div >>
+<< /K 4 /P 51 0 R /Pg 86 0 R /S /P >>
+<< /K 3 /P 50 0 R /Pg 86 0 R /S /P >>
+<< /K [ 57 0 R 37 0 R ] /P 48 0 R /S /Div >>
+<< /K [ 56 0 R 38 0 R ] /P 48 0 R /S /Div >>
+<< /K 6 /P 55 0 R /Pg 86 0 R /S /P >>
+<< /K 5 /P 54 0 R /Pg 86 0 R /S /P >>
+<< /K 1 /P 47 0 R /Pg 86 0 R /S /P >>
+<< /K 2 /P 46 0 R /Pg 86 0 R /S /P >>
+<< /K 0 /P 45 0 R /Pg 86 0 R /S /P >>
+<< /K [ 62 0 R 39 0 R ] /P 42 0 R /S /Div >>
+<< /K 7 /P 61 0 R /Pg 86 0 R /S /P >>
+<< /K 8 /P 41 0 R /Pg 86 0 R /S /P >>
+endstream
+endobj
+64 0 obj
+<< /Type /ObjStm /Length 1062 /N 7 /First 46 >>
+stream
+65 0 66 85 67 212 68 432 69 654 70 876 71 958
+<< /Kids [ 66 0 R ] /T <feff0066006f0072006d0075006c0069006500720031005b0030005d> >>
+<< /Kids [ 12 0 R 13 0 R 14 0 R 67 0 R 68 0 R 69 0 R ] /Parent 65 0 R /T <feff00230073007500620066006f0072006d005b0030005d> >>
+<< /DA (/ZaDb 8.00 Tf 0 g) /FT /Btn /Ff 49152 /Kids [ 15 0 R 16 0 R ] /Opt [ (1) (2) ] /Parent 66 0 R /T <feff004c0069006a00730074004b00650075007a00650072006f006e0064006a0065005b0030005d> /TU (LijstKeuzerondje) /V /1 >>
+<< /DA (/ZaDb 8.00 Tf 0 g) /FT /Btn /Ff 49152 /Kids [ 17 0 R 18 0 R ] /Opt [ (1) (2) ] /Parent 66 0 R /T <feff004c0069006a00730074004b00650075007a00650072006f006e0064006a0065005b0031005d> /TU (LijstKeuzerondje) /V /Off >>
+<< /DA (/ZaDb 8.00 Tf 0 g) /FT /Btn /Ff 49153 /Kids [ 19 0 R 20 0 R ] /Opt [ (1) (2) ] /Parent 66 0 R /T <feff004c0069006a00730074004b00650075007a00650072006f006e0064006a0065005b0032005d> /TU (LijstKeuzerondje) /V /Off >>
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+<< /BaseFont /ZapfDingbats /Subtype /Type1 /Type /Font >>
+endstream
+endobj
+72 0 obj
+<< /Type /EmbeddedFile /Length 163 >>
+stream
+<?xml version="1.0" encoding="UTF-8"?>
+<xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/" timeStamp="2016-12-15T20:36:08Z" uuid="3bc9594c-315c-40d6-8f1c-431d4bd04ffe">
+endstream
+endobj
+73 0 obj
+<< /Type /EmbeddedFile /Length 1634 >>
+stream
+<config xmlns="http://www.xfa.org/schema/xci/2.8/"
+><agent name="designer"
+><!--  [0..n]  --><destination
+>pdf</destination
+><pdf
+><!--  [0..n]  --><fontInfo
+/></pdf
+></agent
+><present
+><!--  [0..n]  --><pdf
+><!--  [0..n]  --><fontInfo
+><embed
+>1</embed
+></fontInfo
+><version
+>1.7</version
+><adobeExtensionLevel
+>3</adobeExtensionLevel
+><creator
+>Adobe LiveCycle Designer ES 9.0</creator
+><producer
+>Adobe LiveCycle Designer ES 9.0</producer
+><scriptModel
+>XFA</scriptModel
+><interactive
+>1</interactive
+><tagged
+>1</tagged
+><compression
+><level
+>6</level
+><compressLogicalStructure
+>1</compressLogicalStructure
+><compressObjectStream
+>1</compressObjectStream
+></compression
+><linearized
+>1</linearized
+><silentPrint
+><addSilentPrint
+>0</addSilentPrint
+><printerName
+/></silentPrint
+><viewerPreferences
+><addViewerPreferences
+>0</addViewerPreferences
+><duplexOption
+>simplex</duplexOption
+><numberOfCopies
+>0</numberOfCopies
+><printScaling
+>appDefault</printScaling
+><pickTrayByPDFSize
+>0</pickTrayByPDFSize
+><enforce
+/></viewerPreferences
+></pdf
+><xdp
+><packets
+>*</packets
+></xdp
+><common
+><log
+><to
+>memory</to
+><mode
+>overwrite</mode
+></log
+><template
+><base
+>G://</base
+></template
+></common
+><destination
+>pdf</destination
+><output
+><to
+>uri</to
+><uri
+>G:\\Naamloos1.pdf</uri
+></output
+></present
+><acrobat
+><acrobat7
+><dynamicRender
+>forbidden</dynamicRender
+></acrobat7
+><common
+><versionControl sourceBelow="maintain"
+/><data
+><adjustData
+/><xsl
+><uri
+/></xsl
+><outputXSL
+><uri
+/></outputXSL
+></data
+><template
+><base
+>G://</base
+><relevant
+/><uri
+/></template
+></common
+><validate
+>preSubmit</validate
+></acrobat
+></config
+>endstream
+endobj
+74 0 obj
+<< /Type /EmbeddedFile /Length 6225 >>
+stream
+
+<template xmlns="http://www.xfa.org/schema/xfa-template/2.8/"
+><?formServer defaultPDFRenderFormat acrobat9.0dynamic?><subform name="formulier1" layout="tb" locale="nl_NL"
+><pageSet
+><pageArea name="Pagina1" id="Page1"
+><contentArea x="0.25in" y="0.25in" w="576pt" h="756pt"
+/><medium stock="default" short="612pt" long="792pt"
+/><?templateDesigner expand 1?></pageArea
+><?templateDesigner expand 1?></pageSet
+><subform w="576pt" h="756pt"
+><field name="Selectievakje1" w="66.675mm" h="6mm"
+><ui
+><checkButton
+><border
+><?templateDesigner StyleID apcb2?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="60.675mm"
+><para vAlign="middle"
+/><value
+><text
+>Check box, unchecked</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+></field
+><?templateDesigner expand 1?><field name="Selectievakje2" y="19.05mm" w="66.675mm" h="6mm" access="readOnly"
+><ui
+><checkButton
+><border
+><?templateDesigner StyleID apcb2?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>0</integer
+></value
+><caption placement="right" reserve="60.675mm"
+><para vAlign="middle"
+/><value
+><text
+>Check box, read-only</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+></field
+><field name="Selectievakje3" y="9.525mm" w="66.675mm" h="6mm"
+><ui
+><checkButton
+><border
+><?templateDesigner StyleID apcb2?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><value
+><integer
+>1</integer
+></value
+><caption placement="right" reserve="60.675mm"
+><para vAlign="middle"
+/><value
+><text
+>Check box, checked</text
+></value
+></caption
+><items
+><integer
+>1</integer
+><integer
+>0</integer
+><integer
+>2</integer
+></items
+></field
+><exclGroup name="LijstKeuzerondje" y="47.625mm"
+><field w="53.975mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.975mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio buton, selected</text
+></value
+></caption
+><items
+><text
+>1</text
+></items
+></field
+><field x="57.15mm" w="53.975mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.975mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio button, selected</text
+></value
+></caption
+><value
+><text
+>2</text
+></value
+><items
+><text
+>2</text
+></items
+></field
+><?templateDesigner itemValuesSpecified 1?><?templateDesigner expand 1?></exclGroup
+><exclGroup name="LijstKeuzerondje" y="38.1mm"
+><field w="53.975mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.975mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio button, unselected</text
+></value
+></caption
+><items
+><text
+>1</text
+></items
+></field
+><field x="57.15mm" w="53.975mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.975mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio button, unselected</text
+></value
+></caption
+><items
+><text
+>2</text
+></items
+></field
+><?templateDesigner expand 1?><?templateDesigner itemValuesSpecified 1?></exclGroup
+><exclGroup name="LijstKeuzerondje" y="57.15mm" access="readOnly"
+><?templateDesigner itemValuesSpecified 1?><field w="53.505mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.505mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio button, read-only</text
+></value
+></caption
+><items
+><integer
+>1</integer
+></items
+><value
+><text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"
+/></value
+></field
+><field x="57.15mm" w="53.975mm" h="6mm"
+><ui
+><checkButton shape="round"
+><border
+><?templateDesigner StyleID apcb4?><edge stroke="lowered"
+/><fill
+/></border
+></checkButton
+></ui
+><font typeface="Myriad Pro"
+/><margin leftInset="1mm" rightInset="1mm"
+/><para vAlign="middle"
+/><caption placement="right" reserve="47.975mm"
+><para vAlign="middle"
+/><value
+><text
+>Radio button, read-only</text
+></value
+></caption
+><items
+><integer
+>2</integer
+></items
+></field
+><?templateDesigner expand 1?></exclGroup
+></subform
+><proto
+/><desc
+><text name="version"
+>9.0.0.2.20120627.2.874785</text
+></desc
+><?templateDesigner expand 1?><?renderCache.subset "Myriad Pro" 0 0 ISO-8859-1 4 108 27 0001000D000E0024002C00330034004200430044004500460049004A004B004C004D004F0050005300540055005600570059005A005B ,-CKRSabcdehijklnorstuvxyz?></subform
+><?templateDesigner DefaultPreviewDynamic 1?><?templateDesigner DefaultRunAt client?><?templateDesigner Grid show:1, snap:1, units:17, color:ff8080, origin:(0,0), interval:(79375,79375)?><?templateDesigner FormTargetVersion 28?><?templateDesigner DefaultLanguage JavaScript?><?acrobat JavaScript strictScoping?><?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?><?templateDesigner Zoom 190?><?templateDesigner SaveTaggedPDF 1?><?templateDesigner SavePDFWithEmbeddedFonts 1?></template
+>endstream
+endobj
+75 0 obj
+<< /Type /EmbeddedFile /Length 2842 >>
+stream
+
+<localeSet xmlns="http://www.xfa.org/schema/xfa-locale-set/2.7/"
+><locale name="nl_NL" desc="Nederlands (Nederland)"
+><calendarSymbols name="gregorian"
+><monthNames
+><month
+>januari</month
+><month
+>februari</month
+><month
+>maart</month
+><month
+>april</month
+><month
+>mei</month
+><month
+>juni</month
+><month
+>juli</month
+><month
+>augustus</month
+><month
+>september</month
+><month
+>oktober</month
+><month
+>november</month
+><month
+>december</month
+></monthNames
+><monthNames abbr="1"
+><month
+>jan</month
+><month
+>feb</month
+><month
+>mrt</month
+><month
+>apr</month
+><month
+>mei</month
+><month
+>jun</month
+><month
+>jul</month
+><month
+>aug</month
+><month
+>sep</month
+><month
+>okt</month
+><month
+>nov</month
+><month
+>dec</month
+></monthNames
+><dayNames
+><day
+>zondag</day
+><day
+>maandag</day
+><day
+>dinsdag</day
+><day
+>woensdag</day
+><day
+>donderdag</day
+><day
+>vrijdag</day
+><day
+>zaterdag</day
+></dayNames
+><dayNames abbr="1"
+><day
+>zo</day
+><day
+>ma</day
+><day
+>di</day
+><day
+>wo</day
+><day
+>do</day
+><day
+>vr</day
+><day
+>za</day
+></dayNames
+><meridiemNames
+><meridiem
+>AM</meridiem
+><meridiem
+>PM</meridiem
+></meridiemNames
+><eraNames
+><era
+>BC</era
+><era
+>AD</era
+></eraNames
+></calendarSymbols
+><datePatterns
+><datePattern name="full"
+>EEEE D MMMM YYYY</datePattern
+><datePattern name="long"
+>D MMMM YYYY</datePattern
+><datePattern name="med"
+>D-MMM-YYYY</datePattern
+><datePattern name="short"
+>D-M-YY</datePattern
+></datePatterns
+><timePatterns
+><timePattern name="full"
+>H:MM:SS' uur' Z</timePattern
+><timePattern name="long"
+>H:MM:SS Z</timePattern
+><timePattern name="med"
+>H:MM:SS</timePattern
+><timePattern name="short"
+>H:MM</timePattern
+></timePatterns
+><dateTimeSymbols
+>GyMdkHmsSEDFwWahKzZ</dateTimeSymbols
+><numberPatterns
+><numberPattern name="numeric"
+>z,zz9.zzz</numberPattern
+><numberPattern name="currency"
+>$ z,zz9.99s</numberPattern
+><numberPattern name="percent"
+>z,zz9%</numberPattern
+></numberPatterns
+><numberSymbols
+><numberSymbol name="decimal"
+>,</numberSymbol
+><numberSymbol name="grouping"
+>.</numberSymbol
+><numberSymbol name="percent"
+>%</numberSymbol
+><numberSymbol name="minus"
+>-</numberSymbol
+><numberSymbol name="zero"
+>0</numberSymbol
+></numberSymbols
+><currencySymbols
+><currencySymbol name="symbol"
+>‚Ç¨</currencySymbol
+><currencySymbol name="isoname"
+>EUR</currencySymbol
+><currencySymbol name="decimal"
+>,</currencySymbol
+></currencySymbols
+><typefaces
+><typeface name="Myriad Pro"
+/><typeface name="Minion Pro"
+/><typeface name="Courier Std"
+/><typeface name="Adobe Pi Std"
+/><typeface name="Adobe Hebrew"
+/><typeface name="Adobe Arabic"
+/><typeface name="Adobe Thai"
+/><typeface name="Kozuka Gothic Pro-VI M"
+/><typeface name="Kozuka Mincho Pro-VI R"
+/><typeface name="Adobe Ming Std L"
+/><typeface name="Adobe Song Std L"
+/><typeface name="Adobe Myungjo Std M"
+/></typefaces
+></locale
+></localeSet
+>endstream
+endobj
+76 0 obj
+<< /Type /EmbeddedFile /Length 1146 >>
+stream
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.1-c043 52.437709, 2010/08/04-17:30:07        "
+><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+      <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about=""
+>
+         <xmp:MetadataDate
+>2016-12-15T20:36:08Z</xmp:MetadataDate
+>
+         <xmp:CreatorTool
+>Adobe LiveCycle Designer ES 9.0</xmp:CreatorTool
+>
+      </rdf:Description
+>
+      <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about=""
+>
+         <pdf:Producer
+>Adobe LiveCycle Designer ES 9.0</pdf:Producer
+>
+      </rdf:Description
+>
+      <rdf:Description xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about=""
+>
+         <xmpMM:DocumentID
+>uuid:3bc9594c-315c-40d6-8f1c-431d4bd04ffe</xmpMM:DocumentID
+>
+      </rdf:Description
+>
+      <rdf:Description xmlns:desc="http://ns.adobe.com/xfa/promoted-desc/" rdf:about=""
+>
+         <desc:version rdf:parseType="Resource"
+>
+            <rdf:value
+>9.0.0.2.20120627.2.874785</rdf:value
+>
+            <desc:ref
+>/template/subform[1]</desc:ref
+>
+         </desc:version
+>
+      </rdf:Description
+>
+   </rdf:RDF
+></x:xmpmeta
+>endstream
+endobj
+77 0 obj
+<< /Type /EmbeddedFile /Length 56 >>
+stream
+<form xmlns="http://www.xfa.org/schema/xfa-form/2.8/"
+/>endstream
+endobj
+78 0 obj
+<< /Type /EmbeddedFile /Length 321 >>
+stream
+<xfa:datasets xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+><xfa:data
+><formulier1
+><Selectievakje1
+>0</Selectievakje1
+><Selectievakje2
+>0</Selectievakje2
+><Selectievakje3
+>1</Selectievakje3
+><LijstKeuzerondje
+>2</LijstKeuzerondje
+><LijstKeuzerondje
+/><LijstKeuzerondje
+/></formulier1
+></xfa:data
+></xfa:datasets
+>endstream
+endobj
+79 0 obj
+<< /Type /EmbeddedFile /Length 11 >>
+stream
+</xdp:xdp>
+endstream
+endobj
+80 0 obj
+<< /Length 1380 >>
+stream
+if (typeof(this.ADBE) == "undefined")
+   this.ADBE = new Object();
+ADBE.LANGUAGE = "ENU";
+ADBE.Viewer_string_Title = "Adobe Acrobat";
+ADBE.Viewer_string_Update_Desc = "Adobe-update voor interactieve formulieren";
+ADBE.Reader_string_Need_New_Version_Msg = "Voor dit PDF-bestand is een nieuwere verse van Adobe Reader nodig. Klik op OK om de laatste versie te downloaden of neem contact op met uw systeembeheerder.";
+ADBE.Viewer_string_Need_New_Version_Msg_Old = "Voor deze PDF is een nieuwere versie van Acrobat nodig. Kopieer deze URL en plak deze in uw browser of neem contact op met de systeembeheerder";
+ADBE.Viewer_string_Need_New_Version_Msg = "Voor dit PDF-formulier is een nieuwere versie van Adobe Acrobat nodig. In een oudere versie wordt het formulier wel weergegeven, maar werkt het mogelijk niet goed. Sommige formulierelementen zijn wellicht helemaal niet zichtbaar. Klik op OK voor meer informatie over het verkrijgen van de nieuwste versie van Adobe Reader.";
+ADBE.Viewer_string_Need_New_Version_Msg_Updater = "Voor dit PDF-formulier is een nieuwere versie van Adobe Acrobat nodig. In een oudere versie wordt het formulier wel weergegeven, maar werkt het mogelijk niet goed. Sommige formulierelementen zijn wellicht helemaal niet zichtbaar. Als u op OK klikt terwijl er een internetverbinding beschikbaar is, wordt de nieuwste versie gedownload en geÔnstalleerd.";
+endstream
+endobj
+81 0 obj
+<< /Length 902 >>
+stream
+if (typeof(ADBE.Reader_Value_Asked) == "undefined")
+   ADBE.Reader_Value_Asked = false;
+if (typeof(ADBE.Viewer_Value_Asked) == "undefined")
+   ADBE.Viewer_Value_Asked = false;
+if (typeof(ADBE.Reader_Need_Version) == "undefined" || ADBE.Reader_Need_Version < 9.0)
+{
+   ADBE.Reader_Need_Version = 9.0;
+   ADBE.Reader_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+   ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Reader_Need_Version;
+}
+if (typeof(ADBE.Viewer_Need_Version) == "undefined" || ADBE.Viewer_Need_Version < 9.0)
+{
+   ADBE.Viewer_Need_Version = 9.0;
+   ADBE.Viewer_Value_New_Version_URL = "http://cgi.adobe.com/special/acrobat/update";
+   ADBE.SYSINFO = "?p=" + app.platform + "&v=" + app.viewerVersion + "&l=" + app.language + "&c=" + app.viewerType + "&r=" + ADBE.Viewer_Need_Version;
+}
+endstream
+endobj
+82 0 obj
+<< /Length 1363 >>
+stream
+if (typeof(xfa_installed) == "undefined" || typeof(xfa_version) == "undefined" || xfa_version < 2.8)
+{
+   if (app.viewerType == "Reader")
+   {
+      if (ADBE.Reader_Value_Asked != true)
+      {
+         if (app.viewerVersion < 9.0)
+         {
+            if (app.alert(ADBE.Reader_string_Need_New_Version_Msg, 1, 1) == 1)
+               this.getURL(ADBE.Reader_Value_New_Version_URL + ADBE.SYSINFO, false);
+            ADBE.Reader_Value_Asked = true;
+         }
+         else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1)
+            app.findComponent({cType:"Plugin", cName:"XFA", cVer:"2.8"});
+      }
+   }
+   else
+   {
+      if (ADBE.Viewer_Value_Asked != true)
+      {
+         if (app.viewerVersion < 7.0)
+            app.response({cQuestion: ADBE.Viewer_string_Need_New_Version_Msg_Old, cDefault: ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, cTitle: ADBE.Viewer_string_Title});
+		   else if (app.viewerVersion < 9.0)
+         {
+            if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg, 1, 1) == 1)
+               app.launchURL(ADBE.Viewer_Value_New_Version_URL + ADBE.SYSINFO, true);
+         }
+         else if (app.alert(ADBE.Viewer_string_Need_New_Version_Msg_Updater, 1, 1) == 1)
+            app.findComponent({cType:"Plugin", cName:"XFA", cVer:"2.8"});
+         ADBE.Viewer_Value_Asked = true;
+      }
+   }
+}
+endstream
+endobj
+83 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 77 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+84 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+85 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 51 >>
+stream
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+86 0 obj
+<< /Annots 11 0 R /Contents 112 0 R /CropBox [ 0.0 0.0 612.0 792.0 ] /MediaBox [ 0.0 0.0 612.0 792.0 ] /Parent 25 0 R /Resources << /Font << /T1_0 22 0 R >> /ProcSet [ /PDF /Text ] >> /Rotate 0 /StructParents 1 /Type /Page >>
+endobj
+87 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 77 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+88 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+89 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 51 >>
+stream
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+90 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 77 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+91 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+92 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 51 >>
+stream
+q
+1 1 8 8 re
+W
+n
+0.5 w
+2 8 m
+8 2 l
+8 8 m
+2 2 l
+s
+Q
+endstream
+endobj
+93 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+94 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+95 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+96 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+97 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+98 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+99 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+100 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+101 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+102 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+103 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+104 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+105 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+106 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+107 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+108 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 281 >>
+stream
+0.749023 g
+q
+1 0 0 1 5 5 cm
+5 0 m
+5 2.7615 2.7615 5 0 5 c
+-2.7615 5 -5 2.7615 -5 0 c
+-5 -2.7615 -2.7615 -5 0 -5 c
+2.7615 -5 5 -2.7615 5 0 c
+f
+Q
+0 g
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+109 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 26 >>
+stream
+0.749023 g
+0 0 10 10 re
+f
+endstream
+endobj
+110 0 obj
+<< /BBox [ 0.0 0.0 10.0 10.0 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 133 >>
+stream
+q
+1 0 0 1 5 5 cm
+2 0 m
+2 1.1046 1.1046 2 0 2 c
+-1.1046 2 -2 1.1046 -2 0 c
+-2 -1.1046 -1.1046 -2 0 -2 c
+1.1046 -2 2 -1.1046 2 0 c
+f
+Q
+endstream
+endobj
+111 0 obj
+<< /Subtype /Type1C /Length 2039 >>
+stream
+  TAGHGH+MyriadPro-Regular ¯¯¯˚1˚é˙˙˙L˜∆˜Â¡¡ ⁄ÁCopyright 1992, 1994, 1997, 2000, 2004 Adobe Systems Incorporated. All rights reserved. Myriad is either a registered trademark or a trademark of Adobe Systems Incorporated in the United States and/or other countries./FSType 8 def      $  3  B I L O S Y   M P m Å Œ0¢OæWä∆Ÿ!cß¸Bç‚>àãΩ¯ÏΩãΩ¯$Ωã¯à˘P¸à˜é˚≈˚>˜ì˜Ë˚ ˚¿˜>˜ì¸í¸^˜>˜ì˜>˚ì¸¯ø˜>˚ì˚>˚ì˚∑+võ˜2Ÿ˚	ß∫∑˜£‡)ÅÄBp uO˚X˜ÇÀ©˜ã©˜¬K˜ãÀÿÄ’¯π‘mwØÁ–¯•ÊzhUÄU˚7,Ù˜:˜EÙ˜2√∫{´∞°“–ótUù8˚e˚#˚"˚h˚r˜"˚˜R›Ãõõ™Æ†v˜∏Õ˜ëœ◊‚˜Ö‚◊‚˜∏›⁄à∞hü.ù7öRñwÂ}•{ÃuÈ{—lªXùé—£√∆„¿wπj©∞bNù.PKÖÉ_‚Nèö®éµÁ e4>PX.2vÄÃjv˜ã»˜ÃÆ„˜a‡º¯1˜ΩÎg˚(NPzrcüP¢≠∫òπÓåñBdÅ˚Oå#K˚	EΩFÌ–ø≠±¶é|íN⁄Ü¨â¥µ6∫ºÉäÅàÅb}bcK_e•≈È˜úÎâÕÄ—ev¯=–˜lw‘‚˜Ø‰º‘˜|`âZâj÷ºê⁄çL∞√p—˜ ˜·˜A˜&7Ô˚=SiUlâ˜ƒ4‚¸BôçóéñÕù√µ∆ÍΩ8*˚U@.KWµ»{àïäññTÄ“¯ —±‰¯'ﬁÄrjY+C–˜Ô«ﬁ˜ª¨Ä†üŒòs]òW˚2%˚˚)˚(Í(˜&Ãæúñ¢»Ä“dv¯=–˜lw±‰˜®‚º¯'˘Z˚µâ±uZÆ@˚	&)˚5å˚'Ê(˜	⁄≈¥¡•é|è7Ÿâ¨âº∂¯›4¸è}äàºJ{UcP-Z‹Ìı¡€ÊÕª]TòéÄå|ÄâÄ–˜< ˜" ±ﬂ˜ñ‡¯b˜vçïåòù‰b˜˚3˚!5˚˚&˚&‰(˜)ÿ¡úô™{ }kdÄL2@º˜âå »í±‹ÂÓ£4Täø†v¯9‘˜lw‘„˜Ä„‘„˜∏õåòêò∫ú∑≥ƒﬁ®J=˚™„˜¥˜:#≥JjlÇ|qp|ut}râ˜√3˚°†v¯xwÒ˜…˜)„Ë˜5¯x3¸x∑˘7jurmm†s´Æ†£©™u£ki†v¯xw˜äw‘‚˜4˘Z4˝Z‚˜J∏Ω˜:˚|˜ ˚i˜±˜N˜["˚#˚;}z{vzâ˚ü†v˘Zw‘„‘„˘Z3ø†v¯:”Åw‘„˜Ä„ÿ‘„˜∑öçöèñºõ∏¥ƒﬁ®J=˚´„˜¥˜:#≥H;S^^sâ∏Ü€=écåcXπÄÕ¯	Õ±Â˜πÂ˜™¯Ç˚ ,˚5˚-Ò+˜˜˜Ÿ˜G˜'-˚âIÛ¥$9˚L<75O€ıÊ∏ÎÚ˚D†v¯/ﬁÅw‘„–‘„˜ñôåöçóÕó∑π…óîãâîﬁåÉÑåÇPUbJuà∞áÎ>é^åZR ÄÕ¯
+Ã¿‡˜‡≥¢w≠º}¿˜Œ«·”_µ8™L§où≥Øß©ø∏Æzû†Àúq`òZ$KK=Q¥\„kÀs§uabmlL_]ùõp˚@Ä‘cv¯4ŒË·pË¯“1@H÷˚ú∞Rï`£pt†¨}¥≠¶ëëúáŒá~}âsZz≠«˜ô˜Œ˚˜ªÄ‘bv¯xw—„˜|„∏¯r¯x3˚ºzà{Üc{bbP<n Á˜ü3˚Ø˚=Ê`◊·øæ≤°çxê<Ÿà±ä∑æc†v˜ãw˜ïwì¯Oõ¯x˜8˚Å˚@˚ãÏ—˜û®õ•õ®çúnõpûo”˚Ó˚=˜é˜9˜~+H$zq{r{oâ{¶|£x¶FÛk˚v˘wî¯[î¯x˜F¸RêÄçÑãÜãÜàÑÇ%v^nisxqun}uÑ°B°èµö∑∞«¿∂ﬂ ˜:˜˜Ì.+˚∞hÅfÇnâÉ®±´"˜≤Äñ˘6ó˚^ñ˜/ñºñ¸tí¯Jë˚Lë¸oñ∏ë®ë†`EÇôˇ	Œ
+„„è˜c¯ãendstream
+endobj
+112 0 obj
+<< /Length 7930 >>
+stream
+1 1 1 rg
+/RelativeColorimetric ri
+20.835 760.496 10 10 re
+f
+0 0 0 rg
+q 1 0 0 1 20.835 770.496 cm
+0 0 m
+10 0 l
+9.5 -0.5 l
+0.5 -0.5 l
+0.5 -9.5 l
+0 -10 l
+h
+f
+Q
+q 1 0 0 1 30.835 760.496 cm
+0 0 m
+-10 0 l
+-9.5 0.5 l
+-0.5 0.5 l
+-0.5 9.5 l
+0 10 l
+h
+f
+Q
+0.502 0.502 0.502 rg
+q 1 0 0 1 21.335 769.996 cm
+0 0 m
+9 0 l
+8.5 -0.5 l
+0.5 -0.5 l
+0.5 -8.5 l
+0 -9 l
+h
+f
+Q
+0.831 0.816 0.784 rg
+q 1 0 0 1 30.335 760.996 cm
+0 0 m
+-9 0 l
+-8.5 0.5 l
+-0.5 0.5 l
+-0.5 8.5 l
+0 9 l
+h
+f
+Q
+BT
+/Caption <</MCID 0 >>BDC 
+0 0 0 rg
+/T1_0 1 Tf
+10 0 0 10 32.173 762.996 Tm
+(Check box, unchecked)Tj
+EMC 
+ET
+1 1 1 rg
+20.835 706.496 10 10 re
+f
+0 0 0 rg
+q 1 0 0 1 20.835 716.496 cm
+0 0 m
+10 0 l
+9.5 -0.5 l
+0.5 -0.5 l
+0.5 -9.5 l
+0 -10 l
+h
+f
+Q
+q 1 0 0 1 30.835 706.496 cm
+0 0 m
+-10 0 l
+-9.5 0.5 l
+-0.5 0.5 l
+-0.5 9.5 l
+0 10 l
+h
+f
+Q
+0.502 0.502 0.502 rg
+q 1 0 0 1 21.335 715.996 cm
+0 0 m
+9 0 l
+8.5 -0.5 l
+0.5 -0.5 l
+0.5 -8.5 l
+0 -9 l
+h
+f
+Q
+0.831 0.816 0.784 rg
+q 1 0 0 1 30.335 706.996 cm
+0 0 m
+-9 0 l
+-8.5 0.5 l
+-0.5 0.5 l
+-0.5 8.5 l
+0 9 l
+h
+f
+Q
+BT
+/Caption <</MCID 1 >>BDC 
+0 0 0 rg
+/T1_0 1 Tf
+10 0 0 10 32.173 708.996 Tm
+(Check box, read-only)Tj
+EMC 
+ET
+1 1 1 rg
+20.835 733.496 10 10 re
+f
+0 0 0 rg
+q 1 0 0 1 20.835 743.496 cm
+0 0 m
+10 0 l
+9.5 -0.5 l
+0.5 -0.5 l
+0.5 -9.5 l
+0 -10 l
+h
+f
+Q
+q 1 0 0 1 30.835 733.496 cm
+0 0 m
+-10 0 l
+-9.5 0.5 l
+-0.5 0.5 l
+-0.5 9.5 l
+0 10 l
+h
+f
+Q
+0.502 0.502 0.502 rg
+q 1 0 0 1 21.335 742.996 cm
+0 0 m
+9 0 l
+8.5 -0.5 l
+0.5 -0.5 l
+0.5 -8.5 l
+0 -9 l
+h
+f
+Q
+0.831 0.816 0.784 rg
+q 1 0 0 1 30.335 733.996 cm
+0 0 m
+-9 0 l
+-8.5 0.5 l
+-0.5 0.5 l
+-0.5 8.5 l
+0 9 l
+h
+f
+Q
+BT
+/Caption <</MCID 2 >>BDC 
+0 0 0 rg
+/T1_0 1 Tf
+10 0 0 10 32.173 735.996 Tm
+(Check box, checked)Tj
+EMC 
+ET
+q
+1 0 0 1 25.8350067 630.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 25.8350067 630.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 630.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 630.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 630.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 3 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 32.173 627.996 Tm
+(Radio buton, selected)Tj
+EMC 
+ET
+q
+1 0 0 1 187.8350067 630.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 187.8350067 630.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 630.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 630.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 630.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 4 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 194.173 627.996 Tm
+(Radio button, selected)Tj
+EMC 
+ET
+q
+1 0 0 1 25.8350067 657.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 25.8350067 657.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 657.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 657.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 657.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 5 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 32.173 654.996 Tm
+(Radio button, unselected)Tj
+EMC 
+ET
+q
+1 0 0 1 187.8350067 657.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 187.8350067 657.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 657.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 657.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 657.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 6 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 194.173 654.996 Tm
+(Radio button, unselected)Tj
+EMC 
+ET
+q
+1 0 0 1 25.8350067 603.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 25.8350067 603.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 603.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 603.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 25.8350067 603.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 7 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 32.173 600.996 Tm
+(Radio button, read-only)Tj
+EMC 
+ET
+q
+1 0 0 1 187.8350067 603.4960022 cm
+1 1 1 rg
+q 1 0 0 1 4.75 0 cm
+0 0 m
+0 2.623 -2.127 4.75 -4.75 4.75 c
+-7.373 4.75 -9.5 2.623 -9.5 0 c
+-9.5 -2.623 -7.373 -4.75 -4.75 -4.75 c
+-2.127 -4.75 0 -2.623 0 0 c
+h
+f
+Q
+Q
+q
+1 0 0 1 187.8350067 603.4960022 cm
+0.502 0.502 0.502 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.3588 3.3588 cm
+0 0 m
+-1.855 1.855 -4.863 1.855 -6.718 0 c
+-8.572 -1.855 -8.572 -4.863 -6.718 -6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 603.4960022 cm
+1 1 1 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.3587 -3.3587 cm
+0 0 m
+1.855 -1.855 4.863 -1.855 6.718 0 c
+8.572 1.855 8.572 4.863 6.718 6.718 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 603.4960022 cm
+0.831 0.816 0.784 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 -3.0052 -3.0052 cm
+0 0 m
+1.66 -1.66 4.351 -1.66 6.01 0 c
+7.67 1.66 7.67 4.351 6.01 6.01 c
+S
+Q
+Q
+q
+1 0 0 1 187.8350067 603.4960022 cm
+0.251 0.251 0.251 RG
+0 i 0.5 w 2 J 
+q 1 0 0 1 3.0052 3.0052 cm
+0 0 m
+-1.66 1.66 -4.351 1.66 -6.01 0 c
+-7.67 -1.66 -7.67 -4.351 -6.01 -6.01 c
+S
+Q
+Q
+BT
+/Caption <</MCID 8 >>BDC 
+/T1_0 1 Tf
+10 0 0 10 194.173 600.996 Tm
+(Radio button, read-only)Tj
+EMC 
+ET
+endstream
+endobj
+113 0 obj
+<< /Type /XRef /Length 456 /W [ 1 2 1 ] /Info 3 0 R /Root 1 0 R /Size 114 /ID [<e78a5be5fcf11a47a3624166a69cdd42><2679e5c188a9cd556b2f3a316bfa1b12>] >>
+stream
+       Â   ﬂ            	 
+       ¨ $h   $Ë            	 
+                        ! " # $.  @  @ @ @ @ @ @2é 3x :" Rª ^ bﬂ c] dÂ e6 jŒ ná t u uÛ vÂ w◊ x„ yº zÆ {∫ |ì }Ö ^ Ä7 Å| ÉU Ñ. Ös áL à& âl ãF å  çf è@ ê ë` ì: î ïZ ùó º∆ 
+endstream
+endobj
+startxref
+48326
+%%EOF

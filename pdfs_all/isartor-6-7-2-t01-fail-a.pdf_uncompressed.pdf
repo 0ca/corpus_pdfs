@@ -1,0 +1,77 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /OpenAction 3 0 R /Outlines 4 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 5 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071102151401+01'00') /Producer (PDFlib Personalization Server 7.0.2 \(Win32\)) >>
+endobj
+3 0 obj
+<< /D [ 6 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+4 0 obj
+<< /Count 1 /First 7 0 R /Last 7 0 R >>
+endobj
+5 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+6 0 obj
+<< /Contents 8 0 R /MediaBox [ 0 0 595 842 ] /Parent 5 0 R /Resources 9 0 R /Type /Page >>
+endobj
+7 0 obj
+<< /Count 5 /Dest [ 6 0 R /Fit ] /First 10 0 R /Last 11 0 R /Parent 4 0 R /Title (PDF/A test suite: isartor-6-7-2-t01-fail-a) >>
+endobj
+8 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+9 0 obj
+<< /ColorSpace << /C3 12 0 R >> /ProcSet 13 0 R >>
+endobj
+10 0 obj
+<< /Dest [ 6 0 R /Fit ] /Next 14 0 R /Parent 7 0 R /Title (clause 6-7-2 Properties) >>
+endobj
+11 0 obj
+<< /Dest [ 6 0 R /Fit ] /Parent 7 0 R /Prev 15 0 R /Title (expected message: Metadata key missing in catalog) >>
+endobj
+12 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+13 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+14 0 obj
+<< /Dest [ 6 0 R /Fit ] /Next 16 0 R /Parent 7 0 R /Prev 10 0 R /Title (topic 01 ) >>
+endobj
+15 0 obj
+<< /Dest [ 6 0 R /Fit ] /Next 11 0 R /Parent 7 0 R /Prev 16 0 R /Title (expected result: fail) >>
+endobj
+16 0 obj
+<< /Dest [ 6 0 R /Fit ] /Next 15 0 R /Parent 7 0 R /Prev 14 0 R /Title (instance a ) >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000145 00000 n 
+0000000264 00000 n 
+0000000326 00000 n 
+0000000381 00000 n 
+0000000440 00000 n 
+0000000546 00000 n 
+0000000690 00000 n 
+0000000773 00000 n 
+0000000839 00000 n 
+0000000942 00000 n 
+0000001071 00000 n 
+0000001163 00000 n 
+0000001218 00000 n 
+0000001320 00000 n 
+0000001434 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 17 /ID [<5071d234c9d3c193aae75a2563f281a2><88804f979985045c28c7df836f1ed594>] >>
+startxref
+1538
+%%EOF

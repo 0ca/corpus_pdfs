@@ -1,0 +1,35 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /OpenAction 2 0 R /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /JS (this.print\({bUI:true,bSilent:false,bShrinkToFit:true}\);) /S /JavaScript /Type /Action >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+4 0 obj
+<< /Contents 5 0 R /MediaBox [ 0 0 400 200 ] /Parent 3 0 R /Resources 6 0 R /Type /Page >>
+endobj
+5 0 obj
+<< /Length 58 >>
+stream
+BT/F1 20 Tf 70 88 Td(Should trigger a print action.) Tj ETendstream
+endobj
+6 0 obj
+<< /Font << /F1 << /BaseFont /Arial /Subtype /Type1 /Type /Font >> >> >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000082 00000 n 
+0000000196 00000 n 
+0000000255 00000 n 
+0000000361 00000 n 
+0000000468 00000 n 
+trailer << /Root 1 0 R /Size 7 /ID [<a379b44eb0957bb3979a7c376fa1baa9><a379b44eb0957bb3979a7c376fa1baa9>] >>
+startxref
+556
+%%EOF

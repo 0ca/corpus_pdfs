@@ -1,0 +1,62 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents [ 4 0 R ] /MediaBox [ 0 0 200 50 ] /Parent 2 0 R /Resources << /ColorSpace 5 0 R /Font 6 0 R >> /Rotate 0 /Type /Page /pdftk_PageNum 1 >>
+endobj
+4 0 obj
+<< /Length 94 >>
+stream
+/R14 CS
+1 SCN
+/R14 cs
+1 scn
+BT
+/F1 12 Tf
+10 20 TD
+(Issue 5470 - the text should be red) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /R14 7 0 R >>
+endobj
+6 0 obj
+<< /F1 8 0 R >>
+endobj
+7 0 obj
+[ /Separation /PANTONE#20485#20M /DeviceRGB 9 0 R ]
+endobj
+8 0 obj
+<< /BaseFont /Arial /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 10 0 R /LastChar 255 /Name /F1 /Subtype /TrueType /Type /Font >>
+endobj
+9 0 obj
+<< /Domain [ 0 1 ] /FunctionType 4 /Range [ 0 1 0 1 0 1 ] /Length 90 >>
+stream
+{dup 0 ge {dup 1 sub abs 0.005 lt {pop 0.934 0.1935 0.1406 -5 } if } if 0 ge {1 0 0 } if }endstream
+endobj
+10 0 obj
+<< /Ascent 728 /CapHeight 500 /Descent 210 /Flags 32 /FontBBox [ -665 -325 2000 1006 ] /FontName /Arial /ItalicAngle 0 /StemV 0 /Type /FontDescriptor >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000123 00000 n 
+0000000289 00000 n 
+0000000432 00000 n 
+0000000464 00000 n 
+0000000495 00000 n 
+0000000562 00000 n 
+0000000719 00000 n 
+0000000913 00000 n 
+trailer << /Root 1 0 R /Size 11 /ID [<683428a7012eeffe6c3cd8adadb2d2dd><683428a7012eeffe6c3cd8adadb2d2dd>] >>
+startxref
+1082
+%%EOF

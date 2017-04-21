@@ -1,0 +1,108 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Metadata 2 0 R /Outlines 3 0 R /PageMode /UseOutlines /Pages 4 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Subtype /XML /Type /Metadata /Length 870 >>
+stream
+<?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-04-11T17:19:21+01:00" xmp:ModifyDate="2016-04-11T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>endstream
+endobj
+3 0 obj
+<< /Count 1 /First 5 0 R /Last 5 0 R /Type /Outlines >>
+endobj
+4 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+5 0 obj
+<< /Count 5 /First 7 0 R /Last 8 0 R /Parent 3 0 R /Title (veraPDF test suite: 6-2-10-t04-fail-b) >>
+endobj
+6 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 4 0 R /Resources << /Font << /F1 10 0 R >> /ProcSet [ /PDF ] >> /Type /Page >>
+endobj
+7 0 obj
+<< /Next 11 0 R /Parent 5 0 R /Title (clause 6-2-10) >>
+endobj
+8 0 obj
+<< /Parent 5 0 R /Prev 12 0 R /Title (expected message: A Type3 font uses an ExtGState, which contains the /CA key with value 0.5 and is used for rendering on the page. The page blending color space is not defined; the document contains no GTS_PDFA1 OutputIntent) >>
+endobj
+9 0 obj
+<< /Length 39 >>
+stream
+BT
+/F1 12 Tf
+50 685 Td
+(bcbc) Tj
+ETendstream
+endobj
+10 0 obj
+<< /CharProcs 13 0 R /Encoding 14 0 R /FirstChar 97 /FontBBox [ 0 0 750 750 ] /FontMatrix [ 0.001 0 0 0.001 0 0 ] /LastChar 99 /Name /F0 /Resources << /ExtGState << /GS0 << /CA 0.5 >> >> >> /Subtype /Type3 /Type /Font /Widths [ 1000 800 800 ] >>
+endobj
+11 0 obj
+<< /Next 15 0 R /Parent 5 0 R /Prev 7 0 R /Title (topic 04) >>
+endobj
+12 0 obj
+<< /Next 8 0 R /Parent 5 0 R /Prev 15 0 R /Title (expected result: fail) >>
+endobj
+13 0 obj
+<< /square 16 0 R /striangle 17 0 R /triangle 18 0 R >>
+endobj
+14 0 obj
+<< /Differences [ 97 /square /triangle /striangle ] /Type /Encoding >>
+endobj
+15 0 obj
+<< /Next 12 0 R /Parent 5 0 R /Prev 11 0 R /Title (instance b) >>
+endobj
+16 0 obj
+<< /BBox [ 0 0 1000 1000 ] /Resources << /ExtGState << /GS0 << /CA 0.5 >> >> >> /Subtype /Form /Type /XObject /Length 35 >>
+stream
+1000 0 d0
+/GS0 gs
+0 0 750 750 re
+Sendstream
+endobj
+17 0 obj
+<< /BBox [ 0 0 1000 1000 ] /Resources << /ExtGState << /GS0 << /CA 0.5 >> >> >> /Subtype /Form /Type /XObject /Length 44 >>
+stream
+800 0 d0
+/GS0 gs
+0 750 m
+750 750 l
+375 0 l
+Sendstream
+endobj
+18 0 obj
+<< /BBox [ 0 0 1000 1000 ] /Resources << /ExtGState << /GS0 << /CA 0.5 >> >> >> /Subtype /Form /Type /XObject /Length 46 >>
+stream
+800 0 d0
+/GS0 gs
+0 0 m
+375 750 l
+750 0 l
+Sendstream
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000000015 00000 n 
+0000000119 00000 n 
+0000001069 00000 n 
+0000001140 00000 n 
+0000001199 00000 n 
+0000001315 00000 n 
+0000001462 00000 n 
+0000001533 00000 n 
+0000001815 00000 n 
+0000001903 00000 n 
+0000002165 00000 n 
+0000002244 00000 n 
+0000002336 00000 n 
+0000002408 00000 n 
+0000002495 00000 n 
+0000002577 00000 n 
+0000002769 00000 n 
+0000002970 00000 n 
+trailer << /Root 1 0 R /Size 19 /ID [<4f21c15395da7d89c9ca9ac9b6a982bc><a7975d1bc814c6171293d52ef69c90c9>] >>
+startxref
+3173
+%%EOF

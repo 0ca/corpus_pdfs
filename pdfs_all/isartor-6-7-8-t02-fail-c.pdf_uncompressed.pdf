@@ -1,0 +1,128 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20080118165919+01'00') /ModDate (D:20080118165919+01'00') /Producer (PDFlib Personalization Server 7.0.2p5 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 2549 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:603BD92F-6AD6-B900-4E38-13331E1079AD</xmpMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2008-01-18T16:59:19+01:00</xmp:ModifyDate>
+          <xmp:MetadataDate>2008-01-18T16:59:19+01:00</xmp:MetadataDate>
+          <xmp:CreateDate>2008-01-18T16:59:19+01:00</xmp:CreateDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaExtension="http://www.aiim.org/pdfa/ns/extension/" xmlns:pdfaSchema="http://www.aiim.org/pdfa/ns/schema#" xmlns:pdfaProperty="http://www.aiim.org/pdfa/ns/property#">
+          <pdfaExtension:schemas>
+            <rdf:Seq>
+              <rdf:li rdf:parseType="Resource">
+<pdfaSchema:schema>ACME E-Mail Schema</pdfaSchema:schema>
+<pdfaSchema:namespaceURI>http://www.acme.com/ns/email/1/</pdfaSchema:namespaceURI>
+<pdfaSchema:prefix>acmeemail</pdfaSchema:prefix>
+<pdfaSchema:property>
+                 <rdf:Seq>
+                    <rdf:li rdf:parseType="Resource">
+                      <pdfaProperty:name>Delivery-Date</pdfaProperty:name>
+                      <pdfaProperty:valueType>Date</pdfaProperty:valueType>
+                      <pdfaProperty:category>internal</pdfaProperty:category>
+                      <pdfaProperty:description>date of email delivery</pdfaProperty:description>
+                    </rdf:li>
+                  </rdf:Seq>
+                </pdfaSchema:property><pdfaSchema:valueType><rdf:Seq></rdf:Seq></pdfaSchema:valueType>
+
+              </rdf:li>
+            </rdf:Seq>
+          </pdfaExtension:schemas>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:acmeemail="http://www.acme.com/ns/email/1/">
+          <acmeemail:Delivery-Date>2007-11-09T09:55:36+01:00</acmeemail:Delivery-Date>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+          <pdfaid:part>1</pdfaid:part>
+          <pdfaid:conformance>B</pdfaid:conformance>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>PDFlib Personalization Server 7.0.2p5 (Win32)</pdf:Producer>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-7-8-t02-fail-c) >>
+endobj
+9 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /ProcSet 14 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 15 0 R /Parent 8 0 R /Title (clause 6-7-8 Properties) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 16 0 R /Title (expected message: wrong value type for 'pdfaExtension:schemas') >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 02 ) >>
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 17 0 R /Title (expected result: fail) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Prev 15 0 R /Title (instance c ) >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000317 00000 n 
+0000002947 00000 n 
+0000003009 00000 n 
+0000003064 00000 n 
+0000003123 00000 n 
+0000003230 00000 n 
+0000003374 00000 n 
+0000003457 00000 n 
+0000003524 00000 n 
+0000003627 00000 n 
+0000003769 00000 n 
+0000003861 00000 n 
+0000003916 00000 n 
+0000004018 00000 n 
+0000004132 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 18 /ID [<f66e4229982b0651d5299e9322b068f8><8ace5c29aa50712b4428cc9d7d0ca61f>] >>
+startxref
+4236
+%%EOF

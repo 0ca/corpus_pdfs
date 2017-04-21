@@ -1,0 +1,52 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /CropBox [ 5 0 R 6 0 R 7 0 R 8 0 R ] /MediaBox [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Parent 2 0 R /Resources << /Font << /F1 9 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 74 >>
+stream
+BT
+10 20 TD
+/F1 12 Tf
+(MediaBox and CropBox with indirect objects.) Tj
+ET
+endstream
+endobj
+5 0 obj
+0
+endobj
+6 0 obj
+0
+endobj
+7 0 obj
+250
+endobj
+8 0 obj
+50
+endobj
+9 0 obj
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000123 00000 n 
+0000000300 00000 n 
+0000000423 00000 n 
+0000000440 00000 n 
+0000000457 00000 n 
+0000000476 00000 n 
+0000000494 00000 n 
+trailer << /Root 1 0 R /Size 10 /ID [<67ccf1ea5f541cd5716e4352b9fb7748><67ccf1ea5f541cd5716e4352b9fb7748>] >>
+startxref
+593
+%%EOF

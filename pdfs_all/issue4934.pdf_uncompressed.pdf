@@ -1,0 +1,101 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 200 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 45 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+(\223AaBbCc\224) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /Impact /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 6 0 R /LastChar 148 /Subtype /TrueType /ToUnicode 7 0 R /Type /Font /Widths [ 176 0 0 0 0 0 0 0 0 0 0 0 168 0 0 0 536 0 502 0 500 0 542 0 0 0 0 0 0 0 0 0 0 508 552 554 553 416 0 0 555 288 331 0 380 717 542 546 502 0 539 517 461 547 0 0 0 0 0 0 0 0 0 0 0 504 520 495 0 511 0 519 524 274 0 0 274 0 523 511 519 0 358 471 305 522 437 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 345 345 ] >>
+endobj
+6 0 obj
+<< /Ascent 1168 /CapHeight 791 /Descent -331 /Flags 32 /FontBBox [ -129 -331 1261 1168 ] /FontFamily (Impact) /FontName /Impact /FontStretch /Normal /FontWeight 400 /ItalicAngle 0 /StemV 204 /Type /FontDescriptor /XHeight 648 >>
+endobj
+7 0 obj
+<< /Length 816 >>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+41 beginbfchar
+<20> <0020>
+<2C> <002C>
+<30> <0030>
+<32> <0032>
+<34> <0034>
+<36> <0036>
+<41> <0061>
+<42> <0062>
+<43> <0063>
+<44> <0064>
+<45> <0065>
+<48> <0068>
+<49> <0069>
+<4A> <004A>
+<4C> <006C>
+<4D> <006D>
+<4E> <006E>
+<4F> <004F>
+<50> <0050>
+<52> <0072>
+<53> <0073>
+<54> <0074>
+<55> <0075>
+<61> <0061>
+<62> <0062>
+<63> <0063>
+<65> <0065>
+<67> <0067>
+<68> <0068>
+<69> <0069>
+<6C> <006C>
+<6E> <006E>
+<6F> <006F>
+<70> <0070>
+<72> <0072>
+<73> <0073>
+<74> <0074>
+<75> <0075>
+<76> <0076>
+<93> <201C>
+<94> <201D>
+endbfchar
+endcmap CMapName currentdict /CMap defineresource pop end end
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000250 00000 n 
+0000000344 00000 n 
+0000000836 00000 n 
+0000001080 00000 n 
+trailer << /Root 1 0 R /Size 8 /ID [<fedadb8346856eeedeeaf9f2627b06ce><fedadb8346856eeedeeaf9f2627b06ce>] >>
+startxref
+1946
+%%EOF

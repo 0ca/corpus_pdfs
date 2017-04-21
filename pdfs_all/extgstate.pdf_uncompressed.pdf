@@ -1,0 +1,61 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog /Version /1.4 >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 612 792 ] /Parent 2 0 R /Resources 5 0 R /Type /Page >>
+endobj
+4 0 obj
+<< /Length 93 >>
+stream
+ /F0 12 Tf
+/F1 12 Tf
+/GS1 gs
+BT
+100 700 Td
+(I should be courier!) Tj
+ET
+50 600 m
+400 600 l
+S
+endstream
+endobj
+5 0 obj
+<< /ExtGState 6 0 R /Font 7 0 R /XObject << >> >>
+endobj
+6 0 obj
+<< /GS1 8 0 R >>
+endobj
+7 0 obj
+<< /F0 9 0 R /F1 10 0 R >>
+endobj
+8 0 obj
+<< /D [ [ 0.0917000026 183.3300018311 ] 0 ] /Font [ 9 0 R 36 ] /LC 1 /LJ 2 /LW 10 /ML 0.3000000119 /Type /ExtGState >>
+endobj
+9 0 obj
+<< /BaseFont /Courier /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+10 0 obj
+<< /BaseFont /Times-Italic /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000078 00000 n 
+0000000137 00000 n 
+0000000243 00000 n 
+0000000385 00000 n 
+0000000450 00000 n 
+0000000482 00000 n 
+0000000524 00000 n 
+0000000658 00000 n 
+0000000753 00000 n 
+trailer << /Root 1 0 R /Size 11 /ID [<fce2529acce848a953bdb5d497d71c36><93cd4ce11c38dd5bcda25682aac20fb1>] >>
+startxref
+854
+%%EOF

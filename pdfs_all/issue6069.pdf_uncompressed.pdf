@@ -1,0 +1,28 @@
+%PDF-1.1
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 400 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 << /BaseFont /Arial /Subtype /Type1 /Type /Font >> >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 85 >>
+stream
+BT/F1 14 Tf 20 20 Td(Missing value for startxref and junk before magic header) Tj ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000295 00000 n 
+trailer << /Root 1 0 R /Size 5 /ID [<bbf0381ec1e88efdd34e7f2b265d81bf><bbf0381ec1e88efdd34e7f2b265d81bf>] >>
+startxref
+429
+%%EOF

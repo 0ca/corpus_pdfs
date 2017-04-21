@@ -1,0 +1,136 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071102190410+01'00') /ModDate (D:20071102190410+01'00') /Producer (PDFlib Personalization Server 7.0.2 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1167 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                                                                                      
+        <xmpMM:DocumentID>uuid:18F232AC-8DA8-7334-8E3C-9045A1E1AAC5</xmpMM:DocumentID>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:ModifyDate>2007-11-02T19:04:10+01:00</xmp:ModifyDate>
+        <xmp:MetadataDate>2007-11-02T19:04:10+01:00</xmp:MetadataDate>
+        <xmp:CreateDate>2007-11-02T19:04:10+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+        <pdfaid:part>1</pdfaid:part>
+        <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFlib Personalization Server 7.0.2 (Win32)</pdf:Producer>
+      </rdf:Description>
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-3-4-t01-fail-h) >>
+endobj
+9 0 obj
+<< /Length 93 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+/Pattern CS/P0 SCN
+/Pattern cs/P0 scn
+100 500 200 100 re
+f
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /Pattern << /P0 14 0 R >> /ProcSet 15 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Title (clause 6-3-4 Embedded font programs) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 17 0 R /Title (expected message: font 'Arial' for tiling pattern not embedded) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+<< /BBox [ 0 0 16.008 24 ] /PaintType 1 /PatternType 1 /Resources 18 0 R /TilingType 1 /XStep 16.008 /YStep 24 /Length 73 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+q
+BT
+/F0 24 Tf
+24 TL
+0 0 Td
+(A)Tj
+ET
+Q
+endstream
+endobj
+15 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 19 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 01 ) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 19 0 R /Title (expected result: fail) >>
+endobj
+18 0 obj
+<< /ColorSpace << /C3 13 0 R >> /Font << /F0 20 0 R >> /ProcSet 15 0 R >>
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 16 0 R /Title (instance h ) >>
+endobj
+20 0 obj
+<< /BaseFont /ArialMT /Encoding /WinAnsiEncoding /FirstChar 0 /FontDescriptor 21 0 R /LastChar 255 /Subtype /TrueType /Type /Font /Widths [ 750 750 278 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 750 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 750 556 750 222 556 333 1000 556 556 333 1000 667 333 1000 750 611 750 750 222 222 333 333 350 556 1000 333 1000 500 333 944 750 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500 ] >>
+endobj
+21 0 obj
+<< /Ascent 728 /CapHeight 677 /Descent -210 /Flags 32 /FontBBox [ -665 -325 2000 1006 ] /FontName /Arial /ItalicAngle 0 /StemV 88 /Type /FontDescriptor /XHeight 480 >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000315 00000 n 
+0000001563 00000 n 
+0000001625 00000 n 
+0000001680 00000 n 
+0000001739 00000 n 
+0000001846 00000 n 
+0000001990 00000 n 
+0000002132 00000 n 
+0000002225 00000 n 
+0000002340 00000 n 
+0000002482 00000 n 
+0000002574 00000 n 
+0000002805 00000 n 
+0000002860 00000 n 
+0000002962 00000 n 
+0000003076 00000 n 
+0000003166 00000 n 
+0000003270 00000 n 
+0000004462 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 22 /ID [<5d8dd6c8e5cbf6da53c0cf2b1ac7ea2b><a634a66307e6e677dee1777c8b674be2>] >>
+startxref
+4646
+%%EOF

@@ -1,0 +1,74 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 200 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 75 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+[(l)-26(\222)-10(i)-21(m)-29(p)-27(ay)-3(\351)] TJ
+ETendstream
+endobj
+5 0 obj
+<< /BaseFont /SSHIDR+Optima-Bold /Encoding /WinAnsiEncoding /FirstChar 97 /FontDescriptor 6 0 R /LastChar 233 /Subtype /Type1 /ToUnicode 7 0 R /Type /Font /Widths [ 500 0 0 0 0 0 0 0 278 0 0 278 833 0 0 556 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 ] >>
+endobj
+6 0 obj
+<< /Ascent 963 /CapHeight 681 /Descent -264 /Flags 32 /FontBBox [ -96 -264 1000 963 ] /FontFamily (Optima) /FontFile3 8 0 R /FontName /SSHIDR+Optima-Bold /FontStretch /Normal /FontWeight 700 /ItalicAngle 0 /StemV 140 /Type /FontDescriptor /XHeight 480 >>
+endobj
+7 0 obj
+<< /Length 434 >>
+stream
+/CIDInit /ProcSet findresource begin
+12 dict begin
+begincmap
+/CIDSystemInfo
+<< /Registry (Adobe)
+/Ordering (UCS) /Supplement 0 >> def
+/CMapName /Adobe-Identity-UCS def
+/CMapType 2 def
+1 begincodespacerange
+<0000> <FFFF>
+endcodespacerange
+9 beginbfchar
+<61> <0061>
+<69> <0069>
+<6C> <006C>
+<6D> <006D>
+<70> <0070>
+<79> <0079>
+<92> <2019>
+<E9> <00E9>
+<0020> <0020>
+endbfchar
+endcmap CMapName currentdict /CMap defineresource pop end end
+endstream
+endobj
+8 0 obj
+<< /Subtype /Type1C /Length 0 >>
+stream
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000250 00000 n 
+0000000374 00000 n 
+0000000849 00000 n 
+0000001119 00000 n 
+0000001603 00000 n 
+trailer << /Root 1 0 R /Size 9 /ID [<d30c8d33b538615a8a6cad6be43266b2><d30c8d33b538615a8a6cad6be43266b2>] >>
+startxref
+1668
+%%EOF

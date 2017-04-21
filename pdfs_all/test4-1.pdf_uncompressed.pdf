@@ -1,0 +1,60 @@
+%PDF-1.3
+%¿÷¢þ
+1 0 obj
+<< /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /A 4 0 R /B 5 0 R /Subject 6 0 R /Title 7 0 R >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 8 0 R ] /Type /Pages >>
+endobj
+4 0 obj
+[ 1 2 3 ]
+endobj
+5 0 obj
+<< /A 4 0 R /B (B) >>
+endobj
+6 0 obj
+(Subject)
+endobj
+7 0 obj
+(Some Title Is Here)
+endobj
+8 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 3 0 R /Resources << /Font << /F1 10 0 R >> /ProcSet 11 0 R >> /Type /Page >>
+endobj
+9 0 obj
+<< /Length 44 >>
+stream
+BT
+  /F1 24 Tf
+  72 720 Td
+  (Potato) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+11 0 obj
+[ /PDF /Text ]
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000131 00000 n 
+0000000190 00000 n 
+0000000215 00000 n 
+0000000252 00000 n 
+0000000277 00000 n 
+0000000313 00000 n 
+0000000458 00000 n 
+0000000551 00000 n 
+0000000659 00000 n 
+trailer << /QTest 2 0 R /Root 1 0 R /Size 12 /ID [<c61bd35bada064f61e0a56aa9588064e><998a3ed7d42a312770f9ac2cb9bd421e>] >>
+startxref
+690
+%%EOF

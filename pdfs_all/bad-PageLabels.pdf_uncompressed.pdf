@@ -1,0 +1,44 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /PageLabels 2 0 R /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Nums [ 0 4 0 R ] >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+endobj
+4 0 obj
+<< /P <feff0058> /S /D /St 3 >>
+endobj
+5 0 obj
+<< /Contents 6 0 R /MediaBox [ 0 0 200 50 ] /Parent 3 0 R /Resources << /Font << /F1 7 0 R >> >> /Type /Page >>
+endobj
+6 0 obj
+<< /Length 65 >>
+stream
+BT
+10 20 TD
+/F1 12 Tf
+(PDF document with bad Page Labels.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000015 00000 n 
+0000000082 00000 n 
+0000000121 00000 n 
+0000000180 00000 n 
+0000000227 00000 n 
+0000000354 00000 n 
+0000000468 00000 n 
+trailer << /Root 1 0 R /Size 8 /ID [<2f16839e279adba7f295736547d0a9f2><2f16839e279adba7f295736547d0a9f2>] >>
+startxref
+567
+%%EOF

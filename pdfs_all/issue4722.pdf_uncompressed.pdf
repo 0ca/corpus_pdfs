@@ -1,0 +1,52 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 200 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 200 50 ] /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 74 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+<00270028003600260035002C00330037002C00320031>Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /CenturyGothic,Bold /DescendantFonts 6 0 R /Encoding /Identity-H /Subtype /Type0 /Type /Font >>
+endobj
+6 0 obj
+[ 7 0 R ]
+endobj
+7 0 obj
+<< /BaseFont /CenturyGothic,Bold /CIDSystemInfo 8 0 R /DW 1000 /FontDescriptor 9 0 R /Subtype /CIDFontType2 /Type /Font /W [ 3 [ 280 ] 17 [ 280 ] 36 [ 740 580 780 700 520 ] 44 [ 280 ] 48 [ 900 740 840 560 840 580 520 420 640 ] 60 [ 620 ] ] >>
+endobj
+8 0 obj
+<< /Ordering (Identity) /Registry (Adobe) /Supplement 0 >>
+endobj
+9 0 obj
+<< /Ascent 1122 /CapHeight 718 /Descent -307 /Flags 4 /FontBBox [ -115 -307 1260 1122 ] /FontFamily (Century Gothic) /FontName /CenturyGothic,Bold /FontStretch /Normal /FontWeight 700 /ItalicAngle 0 /StemV 132 /Type /FontDescriptor /XHeight 531 >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000275 00000 n 
+0000000398 00000 n 
+0000000522 00000 n 
+0000000547 00000 n 
+0000000805 00000 n 
+0000000879 00000 n 
+trailer << /Root 1 0 R /Size 10 /ID [<773ee0b3fb90a689fd9998abe53eac17><773ee0b3fb90a689fd9998abe53eac17>] >>
+startxref
+1142
+%%EOF

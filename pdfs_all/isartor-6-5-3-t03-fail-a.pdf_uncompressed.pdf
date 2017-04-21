@@ -1,0 +1,138 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /Names 4 0 R /OpenAction [ 5 0 R /Fit ] /Outlines 6 0 R /PageMode /UseOutlines /Pages 7 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20070921002111+02'00') /Creator (callas software gmbh, PDFEngine V. 2.0.001) /ModDate (D:20071031232332+01'00') /Producer (Acrobat Distiller 8.1.0 \(Macintosh\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 3311 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Public XMP Toolkit Core 4.0">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:ModifyDate>2007-10-31T23:23:32+01:00</xap:ModifyDate>
+         <xap:CreateDate>2007-09-21T00:21:11+02:00</xap:CreateDate>
+         <xap:MetadataDate>2007-10-31T23:23:32+01:00</xap:MetadataDate>
+         <xap:CreatorTool>callas software gmbh, PDFEngine V. 2.0.001</xap:CreatorTool>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Acrobat Distiller 8.1.0 (Macintosh)</pdf:Producer>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:32e69d02-d28f-0142-b071-dfa8e6679476</xapMM:DocumentID>
+      </rdf:Description>
+
+      <rdf:Description rdf:about=""
+            xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+         <pdfaid:part>1</pdfaid:part>
+         <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstream
+endobj
+4 0 obj
+<< >>
+endobj
+5 0 obj
+<< /Annots 8 0 R /Contents 9 0 R /CropBox [ 0 0 595 842 ] /MediaBox [ 0 0 595 842 ] /Parent 7 0 R /Resources << >> /Rotate 0 /Type /Page >>
+endobj
+6 0 obj
+<< /Count 6 /First 10 0 R /Last 10 0 R >>
+endobj
+7 0 obj
+<< /Count 1 /Kids [ 5 0 R ] /Type /Pages >>
+endobj
+8 0 obj
+[ 11 0 R 12 0 R ]
+endobj
+9 0 obj
+<< /Length 0 >>
+stream
+endstream
+endobj
+10 0 obj
+<< /Count 6 /Dest [ 5 0 R /Fit ] /First 13 0 R /Last 14 0 R /Parent 6 0 R /Title (PDF/A test suite: isartor-6-5-3-t03-fail-a) >>
+endobj
+11 0 obj
+<< /AP << /N 15 0 R >> /BS 16 0 R /C [ 1 0 0 ] /CreationDate (D:20071031223035+01'00') /F 4 /M (D:20071031225503+01'00') /NM (0a401e29-4da7-9c45-8152-073ecff961ed) /P 5 0 R /Popup 12 0 R /RD [ 5 5 5 5 ] /Rect [ 141.535004 260.109009 452.744995 583.02002 ] /Subj (Oval) /Subtype /Circle /T (olaf) /Type /Annot >>
+endobj
+12 0 obj
+<< /F 28 /Open false /Parent 11 0 R /Rect [ 595 508.15799 775 628.15802 ] /Subtype /Popup /Type /Annot >>
+endobj
+13 0 obj
+<< /Dest [ 5 0 R /XYZ null null null ] /Next 17 0 R /Parent 10 0 R /Title (clause 6-5-3 Annotation dictionaries) >>
+endobj
+14 0 obj
+<< /Dest [ 5 0 R /XYZ null null null ] /Parent 10 0 R /Prev 18 0 R /Title (expected message: C entry present but no OutputIntent present) >>
+endobj
+15 0 obj
+<< /BBox [ 141.535004 260.109009 452.744995 583.02002 ] /FormType 1 /Matrix [ 1 0 0 1 -141.535004 -260.109009 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 0 >>
+stream
+endstream
+endobj
+16 0 obj
+<< /W 10 >>
+endobj
+17 0 obj
+<< /Dest [ 5 0 R /XYZ null null null ] /Next 19 0 R /Parent 10 0 R /Prev 13 0 R /Title (topic 03) >>
+endobj
+18 0 obj
+<< /Dest [ 5 0 R /XYZ null null null ] /Next 14 0 R /Parent 10 0 R /Prev 19 0 R /Title (expected result: fail) >>
+endobj
+19 0 obj
+<< /Dest [ 5 0 R /XYZ null null null ] /Next 18 0 R /Parent 10 0 R /Prev 17 0 R /Title (instance a) >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000159 00000 n 
+0000000359 00000 n 
+0000003751 00000 n 
+0000003772 00000 n 
+0000003927 00000 n 
+0000003984 00000 n 
+0000004043 00000 n 
+0000004076 00000 n 
+0000004124 00000 n 
+0000004269 00000 n 
+0000004597 00000 n 
+0000004719 00000 n 
+0000004851 00000 n 
+0000005008 00000 n 
+0000005231 00000 n 
+0000005259 00000 n 
+0000005376 00000 n 
+0000005506 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 20 /ID [<331bc89f34902dab6c56fcc5e6501ddb><8d40aa1f96ba656b46559b2a1a5c1bfe>] >>
+startxref
+5625
+%%EOF

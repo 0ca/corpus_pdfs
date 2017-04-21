@@ -1,0 +1,119 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /Names << >> /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20080312192644+01'00') /ModDate (D:20080312192644+01'00') /Producer (PDFlib Personalization Server 7.0.2p8 \(Linux-x86_64\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1143 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:7AFBB025-5A67-F53D-4AC5-EFAFD121E2EC</xmpMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2008-03-12T19:26:44+01:00</xmp:ModifyDate>
+          <xmp:MetadataDate>2008-03-12T19:26:44+01:00</xmp:MetadataDate>
+          <xmp:CreateDate>2008-03-12T19:26:44+01:00</xmp:CreateDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+          <pdfaid:part>1</pdfaid:part>
+          <pdfaid:conformance>B</pdfaid:conformance>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>PDFlib Personalization Server 7.0.2p8 (Linux-x86_64)</pdf:Producer>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 2 /First 8 0 R /Last 9 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Annots 10 0 R /Contents 11 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 12 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 13 0 R /Last 14 0 R /Next 9 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-6-1-t02-fail-c) >>
+endobj
+9 0 obj
+<< /A 15 0 R /Parent 5 0 R /Prev 8 0 R /Title (Bookmark with Movie action) >>
+endobj
+10 0 obj
+[ 16 0 R ]
+endobj
+11 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+12 0 obj
+<< /ColorSpace << /C3 17 0 R >> /ProcSet 18 0 R >>
+endobj
+13 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 19 0 R /Parent 8 0 R /Title (clause 6-6-1 General) >>
+endobj
+14 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 20 0 R /Title (expected message: Movie action not allowed in bookmark) >>
+endobj
+15 0 obj
+<< /Annotation 16 0 R /S /Movie /Type /Action >>
+endobj
+16 0 obj
+<< /Contents (Movie) /F 28 /Movie << /F << /F (ski.avi) /Type /Filespec >> >> /NM (Kurt) /P 7 0 R /Rect [ 40 700 60 730 ] /Subtype /Movie /Type /Annot >>
+endobj
+17 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+18 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 21 0 R /Parent 8 0 R /Prev 13 0 R /Title (topic 02 ) >>
+endobj
+20 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 14 0 R /Parent 8 0 R /Prev 21 0 R /Title (expected result: fail) >>
+endobj
+21 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 20 0 R /Parent 8 0 R /Prev 19 0 R /Title (instance c ) >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000174 00000 n 
+0000000337 00000 n 
+0000001561 00000 n 
+0000001623 00000 n 
+0000001678 00000 n 
+0000001737 00000 n 
+0000001860 00000 n 
+0000002016 00000 n 
+0000002109 00000 n 
+0000002136 00000 n 
+0000002220 00000 n 
+0000002287 00000 n 
+0000002387 00000 n 
+0000002521 00000 n 
+0000002586 00000 n 
+0000002756 00000 n 
+0000002848 00000 n 
+0000002903 00000 n 
+0000003005 00000 n 
+0000003119 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 22 /ID [<5f72619d1ec949f9b0c8f7c0110223d4><4b095594caac74e938ef6fe00d06bf95>] >>
+startxref
+3223
+%%EOF

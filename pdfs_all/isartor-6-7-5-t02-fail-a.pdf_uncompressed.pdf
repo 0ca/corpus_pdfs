@@ -1,0 +1,104 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071102220300+01'00') /ModDate (D:20071102220300+01'00') /Producer (PDFlib Personalization Server 7.0.2 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1184 >>
+stream
+<?xpacket encoding="UTF-8" begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                                                                                      
+        <xmpMM:DocumentID>uuid:6319485B-5BED-67B6-66B7-748CEC7A83BC</xmpMM:DocumentID>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:ModifyDate>2007-11-02T22:03:00+01:00</xmp:ModifyDate>
+        <xmp:MetadataDate>2007-11-02T22:03:00+01:00</xmp:MetadataDate>
+        <xmp:CreateDate>2007-11-02T22:03:00+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+        <pdfaid:part>1</pdfaid:part>
+        <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFlib Personalization Server 7.0.2 (Win32)</pdf:Producer>
+      </rdf:Description>
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-7-5-t02-fail-a) >>
+endobj
+9 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /ProcSet 14 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 15 0 R /Parent 8 0 R /Title (clause 6-7-5 XMP header) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 16 0 R /Title (expected message: 'encoding' attribute not allowed in XMP metadata) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 02 ) >>
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 17 0 R /Title (expected result: fail) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Prev 15 0 R /Title (instance a ) >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000315 00000 n 
+0000001580 00000 n 
+0000001642 00000 n 
+0000001697 00000 n 
+0000001756 00000 n 
+0000001863 00000 n 
+0000002007 00000 n 
+0000002090 00000 n 
+0000002157 00000 n 
+0000002260 00000 n 
+0000002406 00000 n 
+0000002498 00000 n 
+0000002553 00000 n 
+0000002655 00000 n 
+0000002769 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 18 /ID [<61d0108fda7e6fbeda5656b512078e0f><0569269f3ced66346ef3e418192c338b>] >>
+startxref
+2873
+%%EOF

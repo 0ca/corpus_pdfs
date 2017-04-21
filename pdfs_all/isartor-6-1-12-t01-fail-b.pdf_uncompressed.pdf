@@ -1,0 +1,104 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071228150711+01'00') /ModDate (D:20071228150711+01'00') /Producer (PDFlib Personalization Server 7.0.2p4 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1185 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                                                                                      
+        <xmpMM:DocumentID>uuid:068176F4-B7A0-6EA9-BA20-A6010ECC236E</xmpMM:DocumentID>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:ModifyDate>2007-12-28T15:07:11+01:00</xmp:ModifyDate>
+        <xmp:MetadataDate>2007-12-28T15:07:11+01:00</xmp:MetadataDate>
+        <xmp:CreateDate>2007-12-28T15:07:11+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+        <pdfaid:part>1</pdfaid:part>
+        <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFlib Personalization Server 7.0.2p4 (Win32)</pdf:Producer>
+      </rdf:Description>
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-1-12-t01-fail-b) >>
+endobj
+9 0 obj
+<< /Length 294 >>
+stream
+/C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003 CS 0 0 0 SCN
+/C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003 cs 0 0 0 scn
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000003 13 0 R >> /ProcSet 14 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 15 0 R /Parent 8 0 R /Title (clause 6-1-12 Implementation limits) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 16 0 R /Title (expected message: name with more than 127 bytes) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+15 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 01 ) >>
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 17 0 R /Title (expected result: fail) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Prev 15 0 R /Title (instance b ) >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000317 00000 n 
+0000001583 00000 n 
+0000001645 00000 n 
+0000001700 00000 n 
+0000001759 00000 n 
+0000001866 00000 n 
+0000002011 00000 n 
+0000002355 00000 n 
+0000002552 00000 n 
+0000002667 00000 n 
+0000002794 00000 n 
+0000002886 00000 n 
+0000002941 00000 n 
+0000003043 00000 n 
+0000003157 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 18 /ID [<054f237a20a208e07ac037f3060602b6><ce0795431a763f779b4abd1ab7b8b162>] >>
+startxref
+3261
+%%EOF

@@ -1,0 +1,58 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Annots 4 0 R /Contents 5 0 R /MediaBox [ 0 0 450 250 ] /Parent 2 0 R /Resources << /Font << /F1 6 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+[ 7 0 R 8 0 R ]
+endobj
+5 0 obj
+<< /Length 116 >>
+stream
+BT
+20 200 TD
+/F1 12 Tf
+(PR 7352 - a Popup annotation that should inherit the annotation flags of the parent.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+<< /AP 9 0 R /C [ 1 0 0 ] /Contents (This Popup annotation, which by itself isn't viewable, should fallback to inherit the annotation flags of the parent annotation.) /F 28 /M (D:20160525124025) /Open true /Popup 8 0 R /Rect [ 117 154 135 176 ] /Subtype /Text /T (Popup annotation) /Type /Annot >>
+endobj
+8 0 obj
+<< /F 25 /Open true /Parent 7 0 R /Rect [ 117 30 365 176 ] /Subtype /Popup /Type /Annot >>
+endobj
+9 0 obj
+<< /N 10 0 R >>
+endobj
+10 0 obj
+<< /BBox [ 0 0 18 22 ] /FormType 1 /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 387 >>
+stream
+q 0.5 g 0.75 G 0 i 4 M 2.0938 18.2158 m 2.0938 0.5 l 12.0962 0.5 l 17.1577 5.5615 l 17.1577 18.2158 l 2.0938 18.2158 l h B 1 0 0 rg 0 G 0.5 19.8096 m 0.5 2.0938 l 10.5024 2.0938 l 15.564 7.1553 l 15.564 19.8096 l 0.5 19.8096 l h B 10.46 2.1338 m 10.46 7.167 l 15.5225 7.208 l S 4.0537 15.9824 m 12.0537 15.9824 l S 4.0537 12.9824 m 12.0537 12.9824 l S 4.0537 9.9824 m 8.9912 9.9824 l S Qendstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000123 00000 n 
+0000000265 00000 n 
+0000000296 00000 n 
+0000000462 00000 n 
+0000000561 00000 n 
+0000000874 00000 n 
+0000000980 00000 n 
+0000001011 00000 n 
+trailer << /Root 1 0 R /Size 11 /ID [<be847209ced640fa36ca0ac9d869cc38><be847209ced640fa36ca0ac9d869cc38>] >>
+startxref
+1546
+%%EOF

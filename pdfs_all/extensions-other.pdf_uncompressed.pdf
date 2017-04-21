@@ -1,0 +1,40 @@
+%PDF-1.5
+%¿÷¢þ
+1 0 obj
+<< /Extensions << /Potato << /BaseVersion /3.14159 /ExtensionLevel 16059 >> >> /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 612 792 ] /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> /ProcSet 6 0 R >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 44 >>
+stream
+BT
+  /F1 24 Tf
+  72 720 Td
+  (Potato) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+[ /PDF /Text ]
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000140 00000 n 
+0000000199 00000 n 
+0000000342 00000 n 
+0000000435 00000 n 
+0000000542 00000 n 
+trailer << /Root 1 0 R /Size 7 /ID [<369e89600ee1a6c4c7e73533610180c2><27e944c98763459bb5093d381ec7e598>] >>
+startxref
+572
+%%EOF

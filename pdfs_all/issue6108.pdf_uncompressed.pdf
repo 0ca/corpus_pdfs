@@ -1,0 +1,27 @@
+%PDF-1.0
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 400 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /Parent 2 0 R /Resources << /Font << /F1 << /BaseFont /Arial /Subtype /Type1 /Type /Font >> >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 98 >>
+stream
+BT/F1 12 Tf 20 20 Td (ASCIIHexDecode filter, small Length, size diff is more than 135 bytes) Tj ETendstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000295 00000 n 
+trailer << /Root 1 0 R /Size 5 /ID [<dff74728727e19cc6ab4df44a0582b61><dff74728727e19cc6ab4df44a0582b61>] >>
+startxref
+442
+%%EOF

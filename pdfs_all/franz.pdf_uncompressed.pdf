@@ -1,0 +1,48 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 200 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 200 50 ] /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 42 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+(Hello World) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding 6 0 R /Subtype /Type1 /Type /Font >>
+endobj
+6 0 obj
+<< /Differences [ 0 /.notdef 1 /dotaccent /fi /fl /fraction /hungarumlaut /Lslash /lslash /ogonek /ring 10 /.notdef 11 /breve /minus 13 /.notdef 14 /Zcaron /zcaron /caron /dotlessi /dotlessj /ff /ffi /ffl 22 /.notdef 30 /grave /quotesingle /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quoteright /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /quoteleft /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde 127 /.notdef 7 0 R /Euro 129 /.notdef 130 /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE 141 /.notdef 147 /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe 8 0 R /.notdef 159 /Ydieresis 160 /.notdef 161 /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /hyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+endobj
+7 0 obj
+128
+endobj
+8 0 obj
+157
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000275 00000 n 
+0000000366 00000 n 
+0000000457 00000 n 
+0000002513 00000 n 
+0000002532 00000 n 
+trailer << /Root 1 0 R /Size 9 /ID [<af0ea5f8116f7c424dc6599c52a63635><af0ea5f8116f7c424dc6599c52a63635>] >>
+startxref
+2551
+%%EOF

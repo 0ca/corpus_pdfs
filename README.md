@@ -17,6 +17,11 @@ The pdfs are coming from the following sources:
 
 There is a folder for each binary we've minimized for. The pdfall folder contains all of the pdfs which can be used to minimize with other binaries.
 
+The pdfs_all folder also contains the uncompressed pdfs obtained with:
+```
+find . -type f -exec qpdf --stream-data=uncompress {} {}_uncompressed.pdf \;
+```
+
 The minimize can be done with the command below:
 ```
 afl-cmin -i pdfsfolder_10k/ -o pdfsfolder_10k_min/ -t 1000 -m 100 -- src/pdf2swf @@

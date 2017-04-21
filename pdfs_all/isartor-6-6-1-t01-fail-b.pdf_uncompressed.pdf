@@ -1,0 +1,115 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20080312185015+01'00') /ModDate (D:20080312185015+01'00') /Producer (PDFlib Personalization Server 7.0.2p8 \(Linux-x86_64\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1143 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+          <xmpMM:DocumentID>uuid:938BD27D-A717-8EE6-CB8B-6E287700492E</xmpMM:DocumentID>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+          <xmp:ModifyDate>2008-03-12T18:50:15+01:00</xmp:ModifyDate>
+          <xmp:MetadataDate>2008-03-12T18:50:15+01:00</xmp:MetadataDate>
+          <xmp:CreateDate>2008-03-12T18:50:15+01:00</xmp:CreateDate>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+          <pdfaid:part>1</pdfaid:part>
+          <pdfaid:conformance>B</pdfaid:conformance>
+        </rdf:Description>
+        <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+          <pdf:Producer>PDFlib Personalization Server 7.0.2p8 (Linux-x86_64)</pdf:Producer>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Annots 9 0 R /Contents 10 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 11 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 12 0 R /Last 13 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-6-1-t01-fail-b) >>
+endobj
+9 0 obj
+[ 14 0 R ]
+endobj
+10 0 obj
+<< /Length 34 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+endstream
+endobj
+11 0 obj
+<< /ColorSpace << /C3 15 0 R >> /ProcSet 16 0 R >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Title (clause 6-6-1 General) >>
+endobj
+13 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 18 0 R /Title (expected message: Sound action not allowed in annotation) >>
+endobj
+14 0 obj
+<< /A 19 0 R /BS << /S /S /W 2 >> /Border [ 0 0 2 ] /Contents (Sound action) /F 28 /P 7 0 R /Rect [ 40 700 60 730 ] /Subtype /Link /Type /Annot >>
+endobj
+15 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+16 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 20 0 R /Parent 8 0 R /Prev 12 0 R /Title (topic 01 ) >>
+endobj
+18 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 13 0 R /Parent 8 0 R /Prev 20 0 R /Title (expected result: fail) >>
+endobj
+19 0 obj
+<< /S /Sound /Type /Action >>
+endobj
+20 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 18 0 R /Parent 8 0 R /Prev 17 0 R /Title (instance b ) >>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000324 00000 n 
+0000001548 00000 n 
+0000001610 00000 n 
+0000001665 00000 n 
+0000001724 00000 n 
+0000001846 00000 n 
+0000001990 00000 n 
+0000002016 00000 n 
+0000002100 00000 n 
+0000002167 00000 n 
+0000002267 00000 n 
+0000002403 00000 n 
+0000002566 00000 n 
+0000002658 00000 n 
+0000002713 00000 n 
+0000002815 00000 n 
+0000002929 00000 n 
+0000002975 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 21 /ID [<105aa0c747c75ded28a89421c28541a4><bd0a8a46a15e569f7397ade54780ff26>] >>
+startxref
+3079
+%%EOF

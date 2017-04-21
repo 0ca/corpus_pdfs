@@ -1,0 +1,2891 @@
+%PDF-1.6
+%ø˜¢˛
+1 0 obj
+<< /AcroForm 5 0 R /Metadata 24 0 R /Names 6 0 R /Pages 26 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Type /ObjStm /Length 196 /N 1 /First 4 >>
+stream
+3 0
+<< /Author (XEP R&D Team) /CreationDate (D:20010222035230Z) /Creator (XEP 2.21) /ModDate (D:20140903215258+02'00') /Producer (PDFlib 3.02 \(JDK 1.2/Linux 2.2.16-3\)) /Title (A XEP Example) >>
+endstream
+endobj
+4 0 obj
+<< /Type /ObjStm /Length 4570 /N 19 /First 139 >>
+stream
+5 0 6 143 7 160 8 315 9 406 10 986 11 1087 12 1178 13 2475 14 2559 15 3870 16 3989 17 4044 18 4104 19 4161 20 4219 21 4277 22 4360 23 4418
+<< /DA (/Helv 0 Tf 0 g ) /DR << /Encoding << /PDFDocEncoding 34 0 R >> /Font << /Cour 30 0 R /Helv 31 0 R /ZaDb 32 0 R >> >> /Fields 29 0 R >>
+<< /AP 27 0 R >>
+<< /A << /S /URI /URI (http://www.renderx.com/) >> /BS << /Type /Border >> /Border [ 0 0 0 ] /C [ 0 0 0 ] /Rect [ 0 0 0 0 ] /Subtype /Link /Type /Annot >>
+<< /F 28 /Open false /Rect [ 576.0 663.671 756.0 783.671 ] /Subtype /Popup /Type /Annot >>
+<< /AP << /N 35 0 R >> /C [ 1.0 1.0 0.0 ] /Contents (Unmarked angett av Jonas) /CreationDate (D:20140903214901+02'00') /F 30 /M (D:20140903214902+02'00') /NM (9641bfd4-d8eb-47c8-aaef-5d37db39e8d2) /Name /Comment /P 36 0 R /Popup 10 0 R /RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.8" xfa:spec="2.0.2" ><p>Unmarked angett av Jonas</p></body>) /Rect [ 100.0 82.0 118.0 100.0 ] /State (Unmarked) /StateModel (Marked) /Subj (Anteckning) /Subtype /Text /T (Jonas) /Type /Annot >>
+<< /F 30 /Open false /Parent 9 0 R /Rect [ 576.0 -20.0 756.0 100.0 ] /Subtype /Popup /Type /Annot >>
+<< /F 28 /Open false /Rect [ 576.0 659.141 756.0 779.141 ] /Subtype /Popup /Type /Annot >>
+<< /AP << /N 37 0 R >> /BS 23 0 R /Contents (Originial document can be found at: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo\rand: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf) /CreationDate (D:20140903215020+02'00') /DA (0 G 0 g 0 Tc 0 Tw 100 Tz 13.8 TL 0 Ts 0 Tr /Cour 10 Tf) /DS (font: Helv 10.0pt;font-stretch:Normal; text-align:left; color:#FF0000 ) /F 4 /IT /FreeTextTypewriter /M (D:20140903215224+02'00') /NM (3551ef94-1db7-454a-96b8-f66c85ae1fb3) /P 36 0 R /RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.8" xfa:spec="2.0.2"  style="font-size:10.0pt;text-align:left;color:#FF0000;font-weight:normal;font-style:normal;font-family:Helv;font-stretch:normal"><p dir="ltr"><span style="line-height:13.8pt;font-family:Helvetica">Originial document can be found at: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo&#13;</span></p><p dir="ltr"><span style="line-height:13.8pt;font-family:Helvetica">and: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf</span></p></body>) /Rect [ 40.7661 761.345 537.508 788.955 ] /Subj (Maskinskriven text) /Subtype /FreeText /T (Jonas) /Type /Annot >>
+<< /BaseFont /Helvetica /Encoding 14 0 R /Name /Helv /Subtype /Type1 /Type /Font >>
+<< /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+<< /Font << /F0 16 0 R /F1 17 0 R /F2 18 0 R /F3 19 0 R /F4 20 0 R /F5 21 0 R /F6 22 0 R >> /ProcSet [ /PDF /Text ] >>
+<< /BaseFont /Helvetica /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Helvetica-Bold /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Times-Roman /Subtype /Type1 /Type /Font >>
+<< /BaseFont /ZapfDingbats /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Courier-Bold /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Times-Bold /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Times-Italic /Subtype /Type1 /Type /Font >>
+<< /W 0.0 >>
+endstream
+endobj
+24 0 obj
+<< /Subtype /XML /Type /Metadata /Length 3455 >>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c005 78.147326, 2012/08/23-13:03:03        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>XEP R&amp;D Team</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">A XEP Example</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmp:CreateDate>2001-02-22T03:52:30</xmp:CreateDate>
+         <xmp:CreatorTool>XEP 2.21</xmp:CreatorTool>
+         <xmp:ModifyDate>2014-09-03T21:52:58+02:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2014-09-03T21:52:58+02:00</xmp:MetadataDate>
+         <pdf:Producer>PDFlib 3.02 (JDK 1.2/Linux 2.2.16-3)</pdf:Producer>
+         <xmpMM:DocumentID>uuid:b4df9a3a-df22-49db-9a50-4432f53ac88e</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:ff94be5c-644c-4e13-a669-5572041ef784</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstream
+endobj
+25 0 obj
+<< /Type /ObjStm /Length 210 /N 2 /First 11 >>
+stream
+26 0 27 52
+<< /Count 2 /Kids [ 36 0 R 38 0 R ] /Type /Pages >>
+<< /Names [ <feff007e00690063006f006e002b0043006f006d006d0065006e0074002b003200350035003a003200350035003a0030002d005300560045002d0030> 35 0 R ] >>
+endstream
+endobj
+28 0 obj
+<< /Type /ObjStm /Length 2900 /N 6 /First 38 >>
+stream
+29 0 30 4 31 86 32 170 33 240 34 1551
+[ ]
+<< /BaseFont /Courier /Encoding 34 0 R /Name /Cour /Subtype /Type1 /Type /Font >>
+<< /BaseFont /Helvetica /Encoding 33 0 R /Name /Helv /Subtype /Type1 /Type /Font >>
+<< /BaseFont /ZapfDingbats /Name /ZaDb /Subtype /Type1 /Type /Font >>
+<< /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+<< /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+endstream
+endobj
+35 0 obj
+<< /BBox [ 0.0 0.0 18.0 18.0 ] /Resources << /ExtGState << /GS0 << /AIS false /BM /Normal /CA 0.6 /Type /ExtGState /ca 0.6 >> >> >> /Subtype /Form /Type /XObject /Length 928 >>
+stream
+q 1 1 1 rg 0 i 1 w 4 M 1 j 0 J []0 d /GS0 gs 1 0 0 1 9 5.0908 cm 7.74 12.616 m -7.74 12.616 l -8.274 12.616 -8.707 12.184 -8.707 11.649 c -8.707 -3.831 l -8.707 -4.365 -8.274 -4.798 -7.74 -4.798 c 7.74 -4.798 l 8.274 -4.798 8.707 -4.365 8.707 -3.831 c 8.707 11.649 l 8.707 12.184 8.274 12.616 7.74 12.616 c h f Q 0 G 1 1 0 rg 0 i 0.60 w 4 M 1 j 0 J []0 d  1 1 0 rg 0 G 0 i 0.59 w 4 M 1 j 0 J []0 d  1 0 0 1 9 5.0908 cm 0 0 m -0.142 0 -0.28 0.008 -0.418 0.015 c -2.199 -1.969 -5.555 -2.242 -4.642 -1.42 c -4.024 -0.862 -3.916 0.111 -3.954 0.916 c -5.658 1.795 -6.772 3.222 -6.772 4.839 c -6.772 7.509 -3.74 9.674 0 9.674 c 3.74 9.674 6.772 7.509 6.772 4.839 c 6.772 2.167 3.74 0 0 0 c 7.74 12.616 m -7.74 12.616 l -8.274 12.616 -8.707 12.184 -8.707 11.649 c -8.707 -3.831 l -8.707 -4.365 -8.274 -4.798 -7.74 -4.798 c 7.74 -4.798 l 8.274 -4.798 8.707 -4.365 8.707 -3.831 c 8.707 11.649 l 8.707 12.184 8.274 12.616 7.74 12.616 c b endstream
+endobj
+36 0 obj
+<< /Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents [ 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R 45 0 R 46 0 R ] /CropBox [ 0 0 576 792 ] /MediaBox [ 0 0 576 792 ] /Parent 26 0 R /Resources 15 0 R /Rotate 0 /Type /Page >>
+endobj
+37 0 obj
+<< /BBox [ 40.7661 761.345 537.508 788.955 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 -40.7661 -761.345 ] /Resources << /Font << /Helv 13 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 495 >>
+stream
+0 w
+40.7661 761.3452 496.7422 27.61 re
+n
+q
+1 0 0 1 0 0 cm
+40.7661 761.3452 496.7422 27.61 re
+W
+n
+0 g
+1 w
+BT
+/Helv 10 Tf
+1 0 0 rg
+40.766 779.259 Td
+(Originial ) Tj
+39.458 0 Td
+(document ) Tj
+46.694 0 Td
+(can ) Tj
+18.902 0 Td
+(be ) Tj
+13.901 0 Td
+(found ) Tj
+27.803 0 Td
+(at: ) Tj
+13.896 0 Td
+(http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo ) Tj
+-160.654 -13.8 Td
+(and: ) Tj
+22.241 0 Td
+(http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf) Tj
+ET
+Q
+endstream
+endobj
+38 0 obj
+<< /Annots [ 48 0 R 49 0 R 50 0 R ] /Contents [ 53 0 R ] /CropBox [ 0 0 576 792 ] /MediaBox [ 0 0 576 792 ] /Parent 26 0 R /Resources 51 0 R /Rotate 0 /Type /Page >>
+endobj
+39 0 obj
+<< /Length 3113 >>
+stream
+0.502 G
+0.502 g
+50.65 741.3 m
+525.3 741.3 l
+525.6 741.6 l
+50.4 741.6 l
+h
+f
+50.4 50.4 m
+525.6 50.4 l
+525.3 50.65 l
+50.65 50.65 l
+h
+f
+50.65 50.65 m
+50.65 741.3 l
+50.4 741.6 l
+50.4 50.4 l
+h
+f
+525.6 50.4 m
+525.6 741.6 l
+525.3 741.3 l
+525.3 50.65 l
+h
+f
+q
+0.314 0.159 m
+0.314 5.925 l
+3.14 5.925 l
+3.14 0.159 l
+h
+W n
+BT
+/F0 12 Tf
+1 0 0 1 3.141 5.926 Tm
+(200102210754)Tj
+ET
+Q
+0.7529 G
+0.7529 g
+56.65 695.8 m
+56.65 735.3 l
+198.9 735.3 l
+198.9 695.8 l
+h
+f
+0 G
+0 g
+BT
+/F1 14 Tf
+1 0 0 1 69.41 718.8 Tm
+(Character Sets –)Tj
+1 0 0 1 81.1 702 Tm
+(Zapf Dingbats)Tj
+/F2 11 Tf
+1 0 0 1 56.65 679.4 Tm
+(This document tests glyph)Tj
+1 0 0 1 56.65 677.2 Tm
+11 TL
+-0.039 0(repertory for ZapfDingbats font.)"
+0 Tw
+1 0 0 1 56.65 653 Tm
+(It also lists Unicode values used)Tj
+1 0 0 1 56.65 650.8 Tm
+11 TL
+-0.183 0(to access respective glyphs from)"
+0 Tw
+1 0 0 1 56.65 626.6 Tm
+(XML documents.)Tj
+/F3 11 Tf
+1 0 0 1 63.29 601.4 Tm
+(!)Tj
+/F2 11 Tf
+1 0 0 1 86.65 601.4 Tm
+(a1 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 601.4 Tm
+(x2701)Tj
+/F2 11 Tf
+1 0 0 1 136.4 601.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.36 588.2 Tm
+(")Tj
+/F2 11 Tf
+1 0 0 1 86.65 588.2 Tm
+(a2 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 588.2 Tm
+(x2702)Tj
+/F2 11 Tf
+1 0 0 1 136.4 588.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.29 575 Tm
+(#)Tj
+/F2 11 Tf
+1 0 0 1 86.65 575 Tm
+(a202 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 575 Tm
+(x2703)Tj
+/F2 11 Tf
+1 0 0 1 147.4 575 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.26 561.8 Tm
+($)Tj
+/F2 11 Tf
+1 0 0 1 86.65 561.8 Tm
+(a3 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 561.8 Tm
+(x2704)Tj
+/F2 11 Tf
+1 0 0 1 136.4 561.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.69 548.6 Tm
+(%)Tj
+/F2 11 Tf
+1 0 0 1 86.65 548.6 Tm
+(a4 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 548.6 Tm
+(x260E)Tj
+/F2 11 Tf
+1 0 0 1 136.4 548.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.31 535.4 Tm
+(&)Tj
+/F2 11 Tf
+1 0 0 1 86.65 535.4 Tm
+(a5 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 535.4 Tm
+(x2706)Tj
+/F2 11 Tf
+1 0 0 1 136.4 535.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.31 522.2 Tm
+(')Tj
+/F2 11 Tf
+1 0 0 1 86.65 522.2 Tm
+(a119 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 522.2 Tm
+(x2707)Tj
+/F2 11 Tf
+1 0 0 1 147.4 522.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.3 509 Tm
+(\()Tj
+/F2 11 Tf
+1 0 0 1 86.65 509 Tm
+(a118 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 509 Tm
+(x2708)Tj
+/F2 11 Tf
+1 0 0 1 147.4 509 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.86 495.8 Tm
+(\))Tj
+/F2 11 Tf
+1 0 0 1 86.65 495.8 Tm
+(a117 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 495.8 Tm
+(x2709)Tj
+/F2 11 Tf
+1 0 0 1 147.4 495.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.37 482.6 Tm
+(*)Tj
+/F2 11 Tf
+1 0 0 1 86.65 482.6 Tm
+(a11 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 482.6 Tm
+(x261B)Tj
+/F2 11 Tf
+1 0 0 1 141.9 482.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.49 469.4 Tm
+(+)Tj
+/F2 11 Tf
+1 0 0 1 86.65 469.4 Tm
+(a12 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 469.4 Tm
+(x261E)Tj
+/F2 11 Tf
+1 0 0 1 141.9 469.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.63 456.2 Tm
+(,)Tj
+/F2 11 Tf
+1 0 0 1 86.65 456.2 Tm
+(a13 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 456.2 Tm
+(x270C)Tj
+/F2 11 Tf
+1 0 0 1 141.9 456.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.95 443 Tm
+(-)Tj
+/F2 11 Tf
+1 0 0 1 86.65 443 Tm
+(a14 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 443 Tm
+(x270D)Tj
+/F2 11 Tf
+1 0 0 1 141.9 443 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.64 429.8 Tm
+(.)Tj
+/F2 11 Tf
+1 0 0 1 86.65 429.8 Tm
+(a15 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 429.8 Tm
+(x270E)Tj
+/F2 11 Tf
+ endstream
+endobj
+40 0 obj
+<< /Length 3109 >>
+stream
+1 0 0 1 141.9 429.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.52 416.6 Tm
+(/)Tj
+/F2 11 Tf
+1 0 0 1 86.65 416.6 Tm
+(a16 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 416.6 Tm
+(x270F)Tj
+/F2 11 Tf
+1 0 0 1 141.9 416.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.64 403.4 Tm
+(0)Tj
+/F2 11 Tf
+1 0 0 1 86.65 403.4 Tm
+(a105 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 403.4 Tm
+(x2710)Tj
+/F2 11 Tf
+1 0 0 1 147.4 403.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.45 390.2 Tm
+(1)Tj
+/F2 11 Tf
+1 0 0 1 86.65 390.2 Tm
+(a17 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 390.2 Tm
+(x2711)Tj
+/F2 11 Tf
+1 0 0 1 141.9 390.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.29 377 Tm
+(2)Tj
+/F2 11 Tf
+1 0 0 1 86.65 377 Tm
+(a18 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 377 Tm
+(x2712)Tj
+/F2 11 Tf
+1 0 0 1 141.9 377 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.5 363.8 Tm
+(3)Tj
+/F2 11 Tf
+1 0 0 1 86.65 363.8 Tm
+(a19 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 363.8 Tm
+(x2713)Tj
+/F2 11 Tf
+1 0 0 1 141.9 363.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64 350.6 Tm
+(4)Tj
+/F2 11 Tf
+1 0 0 1 86.65 350.6 Tm
+(a20 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 350.6 Tm
+(x2714)Tj
+/F2 11 Tf
+1 0 0 1 141.9 350.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.46 337.4 Tm
+(5)Tj
+/F2 11 Tf
+1 0 0 1 86.65 337.4 Tm
+(a21 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 337.4 Tm
+(x2715)Tj
+/F2 11 Tf
+1 0 0 1 141.9 337.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.46 324.2 Tm
+(6)Tj
+/F2 11 Tf
+1 0 0 1 86.65 324.2 Tm
+(a22 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 324.2 Tm
+(x2716)Tj
+/F2 11 Tf
+1 0 0 1 141.9 324.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.51 311 Tm
+(7)Tj
+/F2 11 Tf
+1 0 0 1 86.65 311 Tm
+(a23 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 311 Tm
+(x2717)Tj
+/F2 11 Tf
+1 0 0 1 141.9 311 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.93 297.8 Tm
+(8)Tj
+/F2 11 Tf
+1 0 0 1 86.65 297.8 Tm
+(a24 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 297.8 Tm
+(x2718)Tj
+/F2 11 Tf
+1 0 0 1 141.9 297.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.45 284.6 Tm
+(9)Tj
+/F2 11 Tf
+1 0 0 1 86.65 284.6 Tm
+(a25 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 284.6 Tm
+(x2719)Tj
+/F2 11 Tf
+1 0 0 1 141.9 284.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.47 271.4 Tm
+(:)Tj
+/F2 11 Tf
+1 0 0 1 86.65 271.4 Tm
+(a26 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 271.4 Tm
+(x271A)Tj
+/F2 11 Tf
+1 0 0 1 141.9 271.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.47 258.2 Tm
+(;)Tj
+/F2 11 Tf
+1 0 0 1 86.65 258.2 Tm
+(a27 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 258.2 Tm
+(x271B)Tj
+/F2 11 Tf
+1 0 0 1 141.9 258.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.5 245 Tm
+(<)Tj
+/F2 11 Tf
+1 0 0 1 86.65 245 Tm
+(a28 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 245 Tm
+(x271C)Tj
+/F2 11 Tf
+1 0 0 1 141.9 245 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.93 231.8 Tm
+(=)Tj
+/F2 11 Tf
+1 0 0 1 86.65 231.8 Tm
+(a6 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 231.8 Tm
+(x271D)Tj
+/F2 11 Tf
+1 0 0 1 136.4 231.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.61 218.6 Tm
+(>)Tj
+/F2 11 Tf
+1 0 0 1 86.65 218.6 Tm
+(a7 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 218.6 Tm
+(x271E)Tj
+/F2 11 Tf
+1 0 0 1 136.4 218.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.7 205.4 Tm
+(?)Tj
+/F2 11 Tf
+1 0 0 1 86.65 205.4 Tm
+(a8 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 205.4 Tm
+(x271F)Tj
+/F2 11 Tf
+1 0 0 1 136.4 205.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.48 192.2 Tm
+(@)Tj
+/F2 11 Tf
+1 0 0 1 86.65 192.2 Tm
+(a9 [)Tj
+/F4 11 Tf
+1 0 0 1 103.4 192.2 Tm
+(x2720)Tj
+/F2 11 Tf
+1 0 0 1 136.4 192.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.84 179 Tm
+(A)Tj
+/F2 11 Tf
+1 0 0 1 86.65 179 Tm
+(a10 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 179 Tm
+(x2721)Tj
+/F2 11 Tf
+1 0 0 1 141.9 179 Tm
+(])Tj
+/F3  endstream
+endobj
+41 0 obj
+<< /Length 3120 >>
+stream
+11 Tf
+1 0 0 1 64.33 165.8 Tm
+(B)Tj
+/F2 11 Tf
+1 0 0 1 86.65 165.8 Tm
+(a29 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 165.8 Tm
+(x2722)Tj
+/F2 11 Tf
+1 0 0 1 141.9 165.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.32 152.6 Tm
+(C)Tj
+/F2 11 Tf
+1 0 0 1 86.65 152.6 Tm
+(a30 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 152.6 Tm
+(x2723)Tj
+/F2 11 Tf
+1 0 0 1 141.9 152.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.32 139.4 Tm
+(D)Tj
+/F2 11 Tf
+1 0 0 1 86.65 139.4 Tm
+(a31 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 139.4 Tm
+(x2724)Tj
+/F2 11 Tf
+1 0 0 1 141.9 139.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.31 126.2 Tm
+(E)Tj
+/F2 11 Tf
+1 0 0 1 86.65 126.2 Tm
+(a32 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 126.2 Tm
+(x2725)Tj
+/F2 11 Tf
+1 0 0 1 141.9 126.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.29 113 Tm
+(F)Tj
+/F2 11 Tf
+1 0 0 1 86.65 113 Tm
+(a33 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 113 Tm
+(x2726)Tj
+/F2 11 Tf
+1 0 0 1 141.9 113 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.28 99.83 Tm
+(G)Tj
+/F2 11 Tf
+1 0 0 1 86.65 99.81 Tm
+(a34 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 99.81 Tm
+(x2727)Tj
+/F2 11 Tf
+1 0 0 1 141.9 99.81 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.16 86.63 Tm
+(H)Tj
+/F2 11 Tf
+1 0 0 1 86.65 86.61 Tm
+(a35 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 86.61 Tm
+(x2605)Tj
+/F2 11 Tf
+1 0 0 1 141.9 86.61 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.12 73.43 Tm
+(I)Tj
+/F2 11 Tf
+1 0 0 1 86.65 73.41 Tm
+(a36 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 73.41 Tm
+(x2729)Tj
+/F2 11 Tf
+1 0 0 1 141.9 73.41 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.31 60.23 Tm
+(J)Tj
+/F2 11 Tf
+1 0 0 1 86.65 60.21 Tm
+(a37 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 60.21 Tm
+(x272A)Tj
+/F2 11 Tf
+1 0 0 1 141.9 60.21 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.3 725 Tm
+(K)Tj
+/F2 11 Tf
+1 0 0 1 246.9 725 Tm
+(a38 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 725 Tm
+(x272B)Tj
+/F2 11 Tf
+1 0 0 1 302.2 725 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.4 711.8 Tm
+(L)Tj
+/F2 11 Tf
+1 0 0 1 246.9 711.8 Tm
+(a39 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 711.8 Tm
+(x272C)Tj
+/F2 11 Tf
+1 0 0 1 302.2 711.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.3 698.6 Tm
+(M)Tj
+/F2 11 Tf
+1 0 0 1 246.9 698.6 Tm
+(a40 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 698.6 Tm
+(x272D)Tj
+/F2 11 Tf
+1 0 0 1 302.2 698.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.4 685.4 Tm
+(N)Tj
+/F2 11 Tf
+1 0 0 1 246.9 685.4 Tm
+(a41 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 685.4 Tm
+(x272E)Tj
+/F2 11 Tf
+1 0 0 1 302.2 685.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.3 672.2 Tm
+(O)Tj
+/F2 11 Tf
+1 0 0 1 246.9 672.2 Tm
+(a42 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 672.2 Tm
+(x272F)Tj
+/F2 11 Tf
+1 0 0 1 302.2 672.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 223.8 659 Tm
+(P)Tj
+/F2 11 Tf
+1 0 0 1 246.9 659 Tm
+(a43 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 659 Tm
+(x2730)Tj
+/F2 11 Tf
+1 0 0 1 302.2 659 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.8 645.8 Tm
+(Q)Tj
+/F2 11 Tf
+1 0 0 1 246.9 645.8 Tm
+(a44 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 645.8 Tm
+(x2731)Tj
+/F2 11 Tf
+1 0 0 1 302.2 645.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.9 632.6 Tm
+(R)Tj
+/F2 11 Tf
+1 0 0 1 246.9 632.6 Tm
+(a45 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 632.6 Tm
+(x2732)Tj
+/F2 11 Tf
+1 0 0 1 302.2 632.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.8 619.4 Tm
+(S)Tj
+/F2 11 Tf
+1 0 0 1 246.9 619.4 Tm
+(a46 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 619.4 Tm
+(x2733)Tj
+/F2 11 Tf
+1 0 0 1 302.2 619.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 606.2 Tm
+(T)Tj
+/F2 11 Tf
+1 0 0 1 246.9 606.2 Tm
+(a47 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 606.2 Tm
+(x2734)Tj
+/F2 11 Tf
+1 0 0 1 302.2 606.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 593 Tm
+ endstream
+endobj
+42 0 obj
+<< /Length 3119 >>
+stream
+(U)Tj
+/F2 11 Tf
+1 0 0 1 246.9 593 Tm
+(a48 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 593 Tm
+(x2735)Tj
+/F2 11 Tf
+1 0 0 1 302.2 593 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.1 579.8 Tm
+(V)Tj
+/F2 11 Tf
+1 0 0 1 246.9 579.8 Tm
+(a49 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 579.8 Tm
+(x2736)Tj
+/F2 11 Tf
+1 0 0 1 302.2 579.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.6 566.6 Tm
+(W)Tj
+/F2 11 Tf
+1 0 0 1 246.9 566.6 Tm
+(a50 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 566.6 Tm
+(x2737)Tj
+/F2 11 Tf
+1 0 0 1 302.2 566.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 553.4 Tm
+(X)Tj
+/F2 11 Tf
+1 0 0 1 246.9 553.4 Tm
+(a51 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 553.4 Tm
+(x2738)Tj
+/F2 11 Tf
+1 0 0 1 302.2 553.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 540.2 Tm
+(Y)Tj
+/F2 11 Tf
+1 0 0 1 246.9 540.2 Tm
+(a52 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 540.2 Tm
+(x2739)Tj
+/F2 11 Tf
+1 0 0 1 302.2 540.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 527 Tm
+(Z)Tj
+/F2 11 Tf
+1 0 0 1 246.9 527 Tm
+(a53 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 527 Tm
+(x273A)Tj
+/F2 11 Tf
+1 0 0 1 302.2 527 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225 513.8 Tm
+([)Tj
+/F2 11 Tf
+1 0 0 1 246.9 513.8 Tm
+(a54 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 513.8 Tm
+(x273B)Tj
+/F2 11 Tf
+1 0 0 1 302.2 513.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225 500.6 Tm
+(\\)Tj
+/F2 11 Tf
+1 0 0 1 246.9 500.6 Tm
+(a55 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 500.6 Tm
+(x273C)Tj
+/F2 11 Tf
+1 0 0 1 302.2 500.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.1 487.4 Tm
+(])Tj
+/F2 11 Tf
+1 0 0 1 246.9 487.4 Tm
+(a56 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 487.4 Tm
+(x273D)Tj
+/F2 11 Tf
+1 0 0 1 302.2 487.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225 474.2 Tm
+(^)Tj
+/F2 11 Tf
+1 0 0 1 246.9 474.2 Tm
+(a57 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 474.2 Tm
+(x273E)Tj
+/F2 11 Tf
+1 0 0 1 302.2 474.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.3 461 Tm
+(_)Tj
+/F2 11 Tf
+1 0 0 1 246.9 461 Tm
+(a58 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 461 Tm
+(x273F)Tj
+/F2 11 Tf
+1 0 0 1 302.2 461 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.4 447.8 Tm
+(`)Tj
+/F2 11 Tf
+1 0 0 1 246.9 447.8 Tm
+(a59 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 447.8 Tm
+(x2740)Tj
+/F2 11 Tf
+1 0 0 1 302.2 447.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 434.6 Tm
+(a)Tj
+/F2 11 Tf
+1 0 0 1 246.9 434.6 Tm
+(a60 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 434.6 Tm
+(x2741)Tj
+/F2 11 Tf
+1 0 0 1 302.2 434.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 421.4 Tm
+(b)Tj
+/F2 11 Tf
+1 0 0 1 246.9 421.4 Tm
+(a61 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 421.4 Tm
+(x2742)Tj
+/F2 11 Tf
+1 0 0 1 302.2 421.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225 408.2 Tm
+(c)Tj
+/F2 11 Tf
+1 0 0 1 246.9 408.2 Tm
+(a62 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 408.2 Tm
+(x2743)Tj
+/F2 11 Tf
+1 0 0 1 302.2 408.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.1 395 Tm
+(d)Tj
+/F2 11 Tf
+1 0 0 1 246.9 395 Tm
+(a63 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 395 Tm
+(x2744)Tj
+/F2 11 Tf
+1 0 0 1 302.2 395 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.1 381.8 Tm
+(e)Tj
+/F2 11 Tf
+1 0 0 1 246.9 381.8 Tm
+(a64 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 381.8 Tm
+(x2745)Tj
+/F2 11 Tf
+1 0 0 1 302.2 381.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.1 368.6 Tm
+(f)Tj
+/F2 11 Tf
+1 0 0 1 246.9 368.6 Tm
+(a65 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 368.6 Tm
+(x2746)Tj
+/F2 11 Tf
+1 0 0 1 302.2 368.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.6 355.4 Tm
+(g)Tj
+/F2 11 Tf
+1 0 0 1 246.9 355.4 Tm
+(a66 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 355.4 Tm
+(x2747)Tj
+/F2 11 Tf
+1 0 0 1 302.2 355.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.6 342.2 Tm
+(h)Tj
+/F2 11 Tf
+1 0 0 1 246.9 342.2 Tm
+ endstream
+endobj
+43 0 obj
+<< /Length 3124 >>
+stream
+(a67 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 342.2 Tm
+(x2748)Tj
+/F2 11 Tf
+1 0 0 1 302.2 342.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225 329 Tm
+(i)Tj
+/F2 11 Tf
+1 0 0 1 246.9 329 Tm
+(a68 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 329 Tm
+(x2749)Tj
+/F2 11 Tf
+1 0 0 1 302.2 329 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 315.8 Tm
+(j)Tj
+/F2 11 Tf
+1 0 0 1 246.9 315.8 Tm
+(a69 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 315.8 Tm
+(x274A)Tj
+/F2 11 Tf
+1 0 0 1 302.2 315.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.6 302.6 Tm
+(k)Tj
+/F2 11 Tf
+1 0 0 1 246.9 302.6 Tm
+(a70 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 302.6 Tm
+(x274B)Tj
+/F2 11 Tf
+1 0 0 1 302.2 302.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 289.4 Tm
+(l)Tj
+/F2 11 Tf
+1 0 0 1 246.9 289.4 Tm
+(a71 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 289.4 Tm
+(x25CF)Tj
+/F2 11 Tf
+1 0 0 1 302.2 289.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.1 276.2 Tm
+(m)Tj
+/F2 11 Tf
+1 0 0 1 246.9 276.2 Tm
+(a72 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 276.2 Tm
+(x274D)Tj
+/F2 11 Tf
+1 0 0 1 302.2 276.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 263 Tm
+(n)Tj
+/F2 11 Tf
+1 0 0 1 246.9 263 Tm
+(a73 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 263 Tm
+(x25A0)Tj
+/F2 11 Tf
+1 0 0 1 302.2 263 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 249.8 Tm
+(o)Tj
+/F2 11 Tf
+1 0 0 1 246.9 249.8 Tm
+(a74 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 249.8 Tm
+(x274F)Tj
+/F2 11 Tf
+1 0 0 1 302.2 249.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 236.6 Tm
+(p)Tj
+/F2 11 Tf
+1 0 0 1 246.9 236.6 Tm
+(a203 [)Tj
+/F4 11 Tf
+1 0 0 1 274.7 236.6 Tm
+(x2750)Tj
+/F2 11 Tf
+1 0 0 1 307.7 236.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 223.4 Tm
+(q)Tj
+/F2 11 Tf
+1 0 0 1 246.9 223.4 Tm
+(a75 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 223.4 Tm
+(x2751)Tj
+/F2 11 Tf
+1 0 0 1 302.2 223.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.7 210.2 Tm
+(r)Tj
+/F2 11 Tf
+1 0 0 1 246.9 210.2 Tm
+(a204 [)Tj
+/F4 11 Tf
+1 0 0 1 274.7 210.2 Tm
+(x2752)Tj
+/F2 11 Tf
+1 0 0 1 307.7 210.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224 197 Tm
+(s)Tj
+/F2 11 Tf
+1 0 0 1 246.9 197 Tm
+(a76 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 197 Tm
+(x25B2)Tj
+/F2 11 Tf
+1 0 0 1 302.2 197 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224 183.8 Tm
+(t)Tj
+/F2 11 Tf
+1 0 0 1 246.9 183.8 Tm
+(a77 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 183.8 Tm
+(x25BC)Tj
+/F2 11 Tf
+1 0 0 1 302.2 183.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.5 170.6 Tm
+(u)Tj
+/F2 11 Tf
+1 0 0 1 246.9 170.6 Tm
+(a78 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 170.6 Tm
+(x25C6)Tj
+/F2 11 Tf
+1 0 0 1 302.2 170.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 224.6 157.4 Tm
+(v)Tj
+/F2 11 Tf
+1 0 0 1 246.9 157.4 Tm
+(a79 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 157.4 Tm
+(x2756)Tj
+/F2 11 Tf
+1 0 0 1 302.2 157.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.5 144.2 Tm
+(w)Tj
+/F2 11 Tf
+1 0 0 1 246.9 144.2 Tm
+(a81 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 144.2 Tm
+(x25D7)Tj
+/F2 11 Tf
+1 0 0 1 302.2 144.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 228.1 131 Tm
+(x)Tj
+/F2 11 Tf
+1 0 0 1 246.9 131 Tm
+(a82 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 131 Tm
+(x2758)Tj
+/F2 11 Tf
+1 0 0 1 302.2 131 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 227.4 117.8 Tm
+(y)Tj
+/F2 11 Tf
+1 0 0 1 246.9 117.8 Tm
+(a83 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 117.8 Tm
+(x2759)Tj
+/F2 11 Tf
+1 0 0 1 302.2 117.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.6 104.6 Tm
+(z)Tj
+/F2 11 Tf
+1 0 0 1 246.9 104.6 Tm
+(a84 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 104.6 Tm
+(x275A)Tj
+/F2 11 Tf
+1 0 0 1 302.2 104.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.7 91.43 Tm
+({)Tj
+/F2 11 Tf
+1 0 0 1 246.9 91.41 Tm
+(a97 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 91.41 Tm
+ endstream
+endobj
+44 0 obj
+<< /Length 3112 >>
+stream
+(x275B)Tj
+/F2 11 Tf
+1 0 0 1 302.2 91.41 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.7 78.23 Tm
+(|)Tj
+/F2 11 Tf
+1 0 0 1 246.9 78.21 Tm
+(a98 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 78.21 Tm
+(x275C)Tj
+/F2 11 Tf
+1 0 0 1 302.2 78.21 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 225.2 65.03 Tm
+(})Tj
+/F2 11 Tf
+1 0 0 1 246.9 65.01 Tm
+(a99 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 65.01 Tm
+(x275D)Tj
+/F2 11 Tf
+1 0 0 1 302.2 65.01 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.4 725 Tm
+(~)Tj
+/F2 11 Tf
+1 0 0 1 407.1 725 Tm
+(a100 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 725 Tm
+(x275E)Tj
+/F2 11 Tf
+1 0 0 1 467.9 725 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.1 711.8 Tm
+(°)Tj
+/F2 11 Tf
+1 0 0 1 407.1 711.8 Tm
+(a101 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 711.8 Tm
+(x2761)Tj
+/F2 11 Tf
+1 0 0 1 467.9 711.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 386.1 698.6 Tm
+(¢)Tj
+/F2 11 Tf
+1 0 0 1 407.1 698.6 Tm
+(a102 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 698.6 Tm
+(x2762)Tj
+/F2 11 Tf
+1 0 0 1 467.9 698.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 386.1 685.4 Tm
+(£)Tj
+/F2 11 Tf
+1 0 0 1 407.1 685.4 Tm
+(a103 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 685.4 Tm
+(x2763)Tj
+/F2 11 Tf
+1 0 0 1 467.9 685.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.1 672.2 Tm
+(§)Tj
+/F2 11 Tf
+1 0 0 1 407.1 672.2 Tm
+(a104 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 672.2 Tm
+(x2764)Tj
+/F2 11 Tf
+1 0 0 1 467.9 672.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.4 659 Tm
+(•)Tj
+/F2 11 Tf
+1 0 0 1 407.1 659 Tm
+(a106 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 659 Tm
+(x2765)Tj
+/F2 11 Tf
+1 0 0 1 467.9 659 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.9 645.8 Tm
+(¶)Tj
+/F2 11 Tf
+1 0 0 1 407.1 645.8 Tm
+(a107 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 645.8 Tm
+(x2766)Tj
+/F2 11 Tf
+1 0 0 1 467.9 645.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.9 632.6 Tm
+(ß)Tj
+/F2 11 Tf
+1 0 0 1 407.1 632.6 Tm
+(a108 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 632.6 Tm
+(x2767)Tj
+/F2 11 Tf
+1 0 0 1 467.9 632.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 619.4 Tm
+(®)Tj
+/F2 11 Tf
+1 0 0 1 407.1 619.4 Tm
+(a112 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 619.4 Tm
+(x2663)Tj
+/F2 11 Tf
+1 0 0 1 467.9 619.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.8 606.2 Tm
+(©)Tj
+/F2 11 Tf
+1 0 0 1 407.1 606.2 Tm
+(a111 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 606.2 Tm
+(x2666)Tj
+/F2 11 Tf
+1 0 0 1 467.9 606.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.3 593 Tm
+(™)Tj
+/F2 11 Tf
+1 0 0 1 407.1 593 Tm
+(a110 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 593 Tm
+(x2665)Tj
+/F2 11 Tf
+1 0 0 1 467.9 593 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 385.7 579.8 Tm
+(´)Tj
+/F2 11 Tf
+1 0 0 1 407.1 579.8 Tm
+(a109 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 579.8 Tm
+(x2660)Tj
+/F2 11 Tf
+1 0 0 1 467.9 579.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 566.6 Tm
+(¨)Tj
+/F2 11 Tf
+1 0 0 1 407.1 566.6 Tm
+(a120 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 566.6 Tm
+(x2460)Tj
+/F2 11 Tf
+1 0 0 1 467.9 566.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 553.4 Tm
+(≠)Tj
+/F2 11 Tf
+1 0 0 1 407.1 553.4 Tm
+(a121 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 553.4 Tm
+(x2461)Tj
+/F2 11 Tf
+1 0 0 1 467.9 553.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 540.2 Tm
+(Æ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 540.2 Tm
+(a122 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 540.2 Tm
+(x2462)Tj
+/F2 11 Tf
+1 0 0 1 467.9 540.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 527 Tm
+(Ø)Tj
+/F2 11 Tf
+1 0 0 1 407.1 527 Tm
+(a123 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 527 Tm
+(x2463)Tj
+/F2 11 Tf
+1 0 0 1 467.9 527 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 513.8 Tm
+(∞)Tj
+/F2 11 Tf
+1 0 0 1 407.1 513.8 Tm
+(a124 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 513.8 Tm
+(x2464)Tj
+ endstream
+endobj
+45 0 obj
+<< /Length 3110 >>
+stream
+/F2 11 Tf
+1 0 0 1 467.9 513.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 500.6 Tm
+(±)Tj
+/F2 11 Tf
+1 0 0 1 407.1 500.6 Tm
+(a125 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 500.6 Tm
+(x2465)Tj
+/F2 11 Tf
+1 0 0 1 467.9 500.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 487.4 Tm
+(≤)Tj
+/F2 11 Tf
+1 0 0 1 407.1 487.4 Tm
+(a126 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 487.4 Tm
+(x2466)Tj
+/F2 11 Tf
+1 0 0 1 467.9 487.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 474.2 Tm
+(≥)Tj
+/F2 11 Tf
+1 0 0 1 407.1 474.2 Tm
+(a127 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 474.2 Tm
+(x2467)Tj
+/F2 11 Tf
+1 0 0 1 467.9 474.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 461 Tm
+(¥)Tj
+/F2 11 Tf
+1 0 0 1 407.1 461 Tm
+(a128 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 461 Tm
+(x2468)Tj
+/F2 11 Tf
+1 0 0 1 467.9 461 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 447.8 Tm
+(µ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 447.8 Tm
+(a129 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 447.8 Tm
+(x2469)Tj
+/F2 11 Tf
+1 0 0 1 467.9 447.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 434.6 Tm
+(∂)Tj
+/F2 11 Tf
+1 0 0 1 407.1 434.6 Tm
+(a130 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 434.6 Tm
+(x2776)Tj
+/F2 11 Tf
+1 0 0 1 467.9 434.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 421.4 Tm
+(∑)Tj
+/F2 11 Tf
+1 0 0 1 407.1 421.4 Tm
+(a131 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 421.4 Tm
+(x2777)Tj
+/F2 11 Tf
+1 0 0 1 467.9 421.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 408.2 Tm
+(∏)Tj
+/F2 11 Tf
+1 0 0 1 407.1 408.2 Tm
+(a132 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 408.2 Tm
+(x2778)Tj
+/F2 11 Tf
+1 0 0 1 467.9 408.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 395 Tm
+(π)Tj
+/F2 11 Tf
+1 0 0 1 407.1 395 Tm
+(a133 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 395 Tm
+(x2779)Tj
+/F2 11 Tf
+1 0 0 1 467.9 395 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 381.8 Tm
+(∫)Tj
+/F2 11 Tf
+1 0 0 1 407.1 381.8 Tm
+(a134 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 381.8 Tm
+(x277A)Tj
+/F2 11 Tf
+1 0 0 1 467.9 381.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 368.6 Tm
+(ª)Tj
+/F2 11 Tf
+1 0 0 1 407.1 368.6 Tm
+(a135 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 368.6 Tm
+(x277B)Tj
+/F2 11 Tf
+1 0 0 1 467.9 368.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 355.4 Tm
+(º)Tj
+/F2 11 Tf
+1 0 0 1 407.1 355.4 Tm
+(a136 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 355.4 Tm
+(x277C)Tj
+/F2 11 Tf
+1 0 0 1 467.9 355.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 342.2 Tm
+(Ω)Tj
+/F2 11 Tf
+1 0 0 1 407.1 342.2 Tm
+(a137 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 342.2 Tm
+(x277D)Tj
+/F2 11 Tf
+1 0 0 1 467.9 342.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 329 Tm
+(æ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 329 Tm
+(a138 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 329 Tm
+(x277E)Tj
+/F2 11 Tf
+1 0 0 1 467.9 329 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 315.8 Tm
+(ø)Tj
+/F2 11 Tf
+1 0 0 1 407.1 315.8 Tm
+(a139 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 315.8 Tm
+(x277F)Tj
+/F2 11 Tf
+1 0 0 1 467.9 315.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 302.6 Tm
+(¿)Tj
+/F2 11 Tf
+1 0 0 1 407.1 302.6 Tm
+(a140 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 302.6 Tm
+(x2780)Tj
+/F2 11 Tf
+1 0 0 1 467.9 302.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 289.4 Tm
+(¡)Tj
+/F2 11 Tf
+1 0 0 1 407.1 289.4 Tm
+(a141 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 289.4 Tm
+(x2781)Tj
+/F2 11 Tf
+1 0 0 1 467.9 289.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 276.2 Tm
+(¬)Tj
+/F2 11 Tf
+1 0 0 1 407.1 276.2 Tm
+(a142 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 276.2 Tm
+(x2782)Tj
+/F2 11 Tf
+1 0 0 1 467.9 276.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 263 Tm
+(√)Tj
+/F2 11 Tf
+1 0 0 1 407.1 263 Tm
+(a143 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 263 Tm
+(x2783)Tj
+/F2  endstream
+endobj
+46 0 obj
+<< /Length 3061 >>
+stream
+11 Tf
+1 0 0 1 467.9 263 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 249.8 Tm
+(ƒ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 249.8 Tm
+(a144 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 249.8 Tm
+(x2784)Tj
+/F2 11 Tf
+1 0 0 1 467.9 249.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 236.6 Tm
+(≈)Tj
+/F2 11 Tf
+1 0 0 1 407.1 236.6 Tm
+(a145 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 236.6 Tm
+(x2785)Tj
+/F2 11 Tf
+1 0 0 1 467.9 236.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 223.4 Tm
+(∆)Tj
+/F2 11 Tf
+1 0 0 1 407.1 223.4 Tm
+(a146 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 223.4 Tm
+(x2786)Tj
+/F2 11 Tf
+1 0 0 1 467.9 223.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 210.2 Tm
+(«)Tj
+/F2 11 Tf
+1 0 0 1 407.1 210.2 Tm
+(a147 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 210.2 Tm
+(x2787)Tj
+/F2 11 Tf
+1 0 0 1 467.9 210.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 197 Tm
+(»)Tj
+/F2 11 Tf
+1 0 0 1 407.1 197 Tm
+(a148 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 197 Tm
+(x2788)Tj
+/F2 11 Tf
+1 0 0 1 467.9 197 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 183.8 Tm
+(…)Tj
+/F2 11 Tf
+1 0 0 1 407.1 183.8 Tm
+(a149 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 183.8 Tm
+(x2789)Tj
+/F2 11 Tf
+1 0 0 1 467.9 183.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 170.6 Tm
+( )Tj
+/F2 11 Tf
+1 0 0 1 407.1 170.6 Tm
+(a150 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 170.6 Tm
+(x278A)Tj
+/F2 11 Tf
+1 0 0 1 467.9 170.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 157.4 Tm
+(À)Tj
+/F2 11 Tf
+1 0 0 1 407.1 157.4 Tm
+(a151 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 157.4 Tm
+(x278B)Tj
+/F2 11 Tf
+1 0 0 1 467.9 157.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 144.2 Tm
+(Ã)Tj
+/F2 11 Tf
+1 0 0 1 407.1 144.2 Tm
+(a152 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 144.2 Tm
+(x278C)Tj
+/F2 11 Tf
+1 0 0 1 467.9 144.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 131 Tm
+(Õ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 131 Tm
+(a153 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 131 Tm
+(x278D)Tj
+/F2 11 Tf
+1 0 0 1 467.9 131 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 117.8 Tm
+(Œ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 117.8 Tm
+(a154 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 117.8 Tm
+(x278E)Tj
+/F2 11 Tf
+1 0 0 1 467.9 117.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 104.6 Tm
+(œ)Tj
+/F2 11 Tf
+1 0 0 1 407.1 104.6 Tm
+(a155 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 104.6 Tm
+(x278F)Tj
+/F2 11 Tf
+1 0 0 1 467.9 104.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 91.43 Tm
+(–)Tj
+/F2 11 Tf
+1 0 0 1 407.1 91.41 Tm
+(a156 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 91.41 Tm
+(x2790)Tj
+/F2 11 Tf
+1 0 0 1 467.9 91.41 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 78.23 Tm
+(—)Tj
+/F2 11 Tf
+1 0 0 1 407.1 78.21 Tm
+(a157 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 78.21 Tm
+(x2791)Tj
+/F2 11 Tf
+1 0 0 1 467.9 78.21 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 384.8 65.03 Tm
+(“)Tj
+/F2 11 Tf
+1 0 0 1 407.1 65.01 Tm
+(a158 [)Tj
+/F4 11 Tf
+1 0 0 1 434.9 65.01 Tm
+(x2792)Tj
+/F2 11 Tf
+1 0 0 1 467.9 65.01 Tm
+(])Tj
+/F5 9 Tf
+1 0 0 1 50.4 35.77 Tm
+(© )Tj
+0 0 0.7529 rg
+0 0 0.7529 RG
+1 0 0 1 59.37 35.77 Tm
+(Render)Tj
+ET
+q
+0.45 w
+59.37 34.87 m
+87.87 34.87 l
+S
+Q
+0.7529 0 0 rg
+0.7529 0 0 RG
+BT
+1 0 0 1 87.87 35.77 Tm
+(X)Tj
+ET
+q
+0.45 w
+87.87 34.87 m
+94.36 34.87 l
+S
+Q
+0 G
+0 g
+BT
+1 0 0 1 94.36 35.77 Tm
+( 2000)Tj
+0.3765 G
+0.3765 g
+/F6 9 Tf
+1 0 0 1 400.1 36 Tm
+(XSL Formatting Objects Test Suite)Tj
+ET
+1 0 0 1 0 -26.4 cm
+0 G
+0 g
+BT
+/F1 10 Tf
+1 0 0 1 50.4 776.3 Tm
+(Character Sets – Zapf Dingbats)Tj
+/F0 10 Tf
+1 0 0 1 493.9 776.5 Tm
+(Page )Tj
+1 0 0 1 520 776.5 Tm
+(1)Tj
+ET
+1 0 0 1 0 26.4 cm
+ endstream
+endobj
+47 0 obj
+<< /Type /ObjStm /Length 1724 /N 5 /First 36 >>
+stream
+48 0 49 171 50 1465 51 1556 52 1675
+<< /A << /S /URI /URI (http://www.renderx.com/) >> /BS << /Type /Border >> /Border [ 0 0 0 ] /C [ 0 0 0 ] /Rect [ 59.37 33.81 94.36 44.19 ] /Subtype /Link /Type /Annot >>
+<< /AP << /N 54 0 R >> /BS 52 0 R /Contents (Originial document can be found at: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo\rand: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf) /CreationDate (D:20140903215130+02'00') /DA (0 G 0 g 0 Tc 0 Tw 100 Tz 13.8 TL 0 Ts 0 Tr /Cour 10 Tf) /DS (font: Helv 10.0pt;font-stretch:Normal; text-align:left; color:#FF0000 ) /F 4 /IT /FreeTextTypewriter /M (D:20140903215254+02'00') /NM (e303b90e-03b4-4a24-9b3f-d8b655f4d58f) /P 38 0 R /RC (<?xml version="1.0"?><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.8" xfa:spec="2.0.2"  style="font-size:10.0pt;text-align:left;color:#FF0000;font-weight:normal;font-style:normal;font-family:Helv;font-stretch:normal"><p dir="ltr"><span style="line-height:13.8pt;font-family:Helvetica">Originial document can be found at: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo&#13;</span></p><p dir="ltr"><span style="line-height:13.8pt;font-family:Helvetica">and: http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf</span></p></body>) /Rect [ 43.7858 762.1 532.376 789.71 ] /Subj (Maskinskriven text) /Subtype /FreeText /T (Jonas) /Type /Annot >>
+<< /F 28 /Open false /Rect [ 576.0 -109.375 756.0 10.625 ] /Subtype /Popup /Type /Annot >>
+<< /Font << /F0 16 0 R /F1 17 0 R /F2 18 0 R /F3 19 0 R /F4 20 0 R /F5 21 0 R /F6 22 0 R >> /ProcSet [ /PDF /Text ] >>
+<< /W 0.0 >>
+endstream
+endobj
+53 0 obj
+<< /Length 10234 >>
+stream
+0.502 G
+0.502 g
+50.65 741.3 m
+525.3 741.3 l
+525.6 741.6 l
+50.4 741.6 l
+h
+f
+50.4 50.4 m
+525.6 50.4 l
+525.3 50.65 l
+50.65 50.65 l
+h
+f
+50.65 50.65 m
+50.65 741.3 l
+50.4 741.6 l
+50.4 50.4 l
+h
+f
+525.6 50.4 m
+525.6 741.6 l
+525.3 741.3 l
+525.3 50.65 l
+h
+f
+q
+0.314 0.159 m
+0.314 5.925 l
+3.14 5.925 l
+3.14 0.159 l
+h
+W n
+BT
+/F0 12 Tf
+1 0 0 1 3.141 5.926 Tm
+(200102210754)Tj
+ET
+Q
+0 G
+0 g
+BT
+/F3 11 Tf
+1 0 0 1 64.32 725 Tm
+(”)Tj
+/F2 11 Tf
+1 0 0 1 86.65 725 Tm
+(a159 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 725 Tm
+(x2793)Tj
+/F2 11 Tf
+1 0 0 1 147.4 725 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.73 711.8 Tm
+(‘)Tj
+/F2 11 Tf
+1 0 0 1 86.65 711.8 Tm
+(a160 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 711.8 Tm
+(x2794)Tj
+/F2 11 Tf
+1 0 0 1 147.4 711.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.04 698.6 Tm
+(’)Tj
+/F2 11 Tf
+1 0 0 1 86.65 698.6 Tm
+(a161 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 698.6 Tm
+(x2192)Tj
+/F2 11 Tf
+1 0 0 1 147.4 698.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.06 685.4 Tm
+(÷)Tj
+/F2 11 Tf
+1 0 0 1 86.65 685.4 Tm
+(a163 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 685.4 Tm
+(x2194)Tj
+/F2 11 Tf
+1 0 0 1 147.4 685.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.13 672.2 Tm
+(◊)Tj
+/F2 11 Tf
+1 0 0 1 86.65 672.2 Tm
+(a164 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 672.2 Tm
+(x2195)Tj
+/F2 11 Tf
+1 0 0 1 147.4 672.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.54 659 Tm
+(ÿ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 659 Tm
+(a196 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 659 Tm
+(x2798)Tj
+/F2 11 Tf
+1 0 0 1 147.4 659 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.57 645.8 Tm
+(Ÿ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 645.8 Tm
+(a165 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 645.8 Tm
+(x2799)Tj
+/F2 11 Tf
+1 0 0 1 147.4 645.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.54 632.6 Tm
+(⁄)Tj
+/F2 11 Tf
+1 0 0 1 86.65 632.6 Tm
+(a192 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 632.6 Tm
+(x279A)Tj
+/F2 11 Tf
+1 0 0 1 147.4 632.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.6 619.4 Tm
+(€)Tj
+/F2 11 Tf
+1 0 0 1 86.65 619.4 Tm
+(a166 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 619.4 Tm
+(x279B)Tj
+/F2 11 Tf
+1 0 0 1 147.4 619.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.55 606.2 Tm
+(‹)Tj
+/F2 11 Tf
+1 0 0 1 86.65 606.2 Tm
+(a167 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 606.2 Tm
+(x279C)Tj
+/F2 11 Tf
+1 0 0 1 147.4 606.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.55 593 Tm
+(›)Tj
+/F2 11 Tf
+1 0 0 1 86.65 593 Tm
+(a168 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 593 Tm
+(x279D)Tj
+/F2 11 Tf
+1 0 0 1 147.4 593 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.55 579.8 Tm
+(ﬁ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 579.8 Tm
+(a169 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 579.8 Tm
+(x279E)Tj
+/F2 11 Tf
+1 0 0 1 147.4 579.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.06 566.6 Tm
+(ﬂ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 566.6 Tm
+(a170 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 566.6 Tm
+(x279F)Tj
+/F2 11 Tf
+1 0 0 1 147.4 566.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.85 553.4 Tm
+(‡)Tj
+/F2 11 Tf
+1 0 0 1 86.65 553.4 Tm
+(a171 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 553.4 Tm
+(x27A0)Tj
+/F2 11 Tf
+1 0 0 1 147.4 553.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.1 540.2 Tm
+(·)Tj
+/F2 11 Tf
+1 0 0 1 86.65 540.2 Tm
+(a172 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 540.2 Tm
+(x27A1)Tj
+/F2 11 Tf
+1 0 0 1 147.4 540.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.57 527 Tm
+(‚)Tj
+/F2 11 Tf
+1 0 0 1 86.65 527 Tm
+(a173 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 527 Tm
+(x27A2)Tj
+/F2 11 Tf
+1 0 0 1 147.4 527 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.57 513.8 Tm
+(„)Tj
+/F2 11 Tf
+1 0 0 1 86.65 513.8 Tm
+(a162 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 513.8 Tm
+(x27A3)Tj
+/F2 11 Tf
+1 0 0 1 147.4 513.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.61 500.6 Tm
+(‰)Tj
+/F2 11 Tf
+1 0 0 1 86.65 500.6 Tm
+(a174 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 500.6 Tm
+(x27A4)Tj
+/F2 11 Tf
+1 0 0 1 147.4 500.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.53 487.4 Tm
+(Â)Tj
+/F2 11 Tf
+1 0 0 1 86.65 487.4 Tm
+(a175 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 487.4 Tm
+(x27A5)Tj
+/F2 11 Tf
+1 0 0 1 147.4 487.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.53 474.2 Tm
+(Ê)Tj
+/F2 11 Tf
+1 0 0 1 86.65 474.2 Tm
+(a176 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 474.2 Tm
+(x27A6)Tj
+/F2 11 Tf
+1 0 0 1 147.4 474.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.1 461 Tm
+(Á)Tj
+/F2 11 Tf
+1 0 0 1 86.65 461 Tm
+(a177 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 461 Tm
+(x27A7)Tj
+/F2 11 Tf
+1 0 0 1 147.4 461 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.79 447.8 Tm
+(Ë)Tj
+/F2 11 Tf
+1 0 0 1 86.65 447.8 Tm
+(a178 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 447.8 Tm
+(x27A8)Tj
+/F2 11 Tf
+1 0 0 1 147.4 447.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.05 434.6 Tm
+(È)Tj
+/F2 11 Tf
+1 0 0 1 86.65 434.6 Tm
+(a179 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 434.6 Tm
+(x27A9)Tj
+/F2 11 Tf
+1 0 0 1 147.4 434.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.05 421.4 Tm
+(Í)Tj
+/F2 11 Tf
+1 0 0 1 86.65 421.4 Tm
+(a193 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 421.4 Tm
+(x27AA)Tj
+/F2 11 Tf
+1 0 0 1 147.4 421.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.88 408.2 Tm
+(Î)Tj
+/F2 11 Tf
+1 0 0 1 86.65 408.2 Tm
+(a180 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 408.2 Tm
+(x27AB)Tj
+/F2 11 Tf
+1 0 0 1 147.4 408.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.88 395 Tm
+(Ï)Tj
+/F2 11 Tf
+1 0 0 1 86.65 395 Tm
+(a199 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 395 Tm
+(x27AC)Tj
+/F2 11 Tf
+1 0 0 1 147.4 395 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.82 381.8 Tm
+(Ì)Tj
+/F2 11 Tf
+1 0 0 1 86.65 381.8 Tm
+(a181 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 381.8 Tm
+(x27AD)Tj
+/F2 11 Tf
+1 0 0 1 147.4 381.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.82 368.6 Tm
+(Ó)Tj
+/F2 11 Tf
+1 0 0 1 86.65 368.6 Tm
+(a200 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 368.6 Tm
+(x27AE)Tj
+/F2 11 Tf
+1 0 0 1 147.4 368.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.84 355.4 Tm
+(Ô)Tj
+/F2 11 Tf
+1 0 0 1 86.65 355.4 Tm
+(a182 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 355.4 Tm
+(x27AF)Tj
+/F2 11 Tf
+1 0 0 1 147.4 355.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.84 342.2 Tm
+(Ò)Tj
+/F2 11 Tf
+1 0 0 1 86.65 342.2 Tm
+(a201 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 342.2 Tm
+(x27B1)Tj
+/F2 11 Tf
+1 0 0 1 147.4 342.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.47 329 Tm
+(Ú)Tj
+/F2 11 Tf
+1 0 0 1 86.65 329 Tm
+(a183 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 329 Tm
+(x27B2)Tj
+/F2 11 Tf
+1 0 0 1 147.4 329 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.45 315.8 Tm
+(Û)Tj
+/F2 11 Tf
+1 0 0 1 86.65 315.8 Tm
+(a184 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 315.8 Tm
+(x27B3)Tj
+/F2 11 Tf
+1 0 0 1 147.4 315.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.41 302.6 Tm
+(Ù)Tj
+/F2 11 Tf
+1 0 0 1 86.65 302.6 Tm
+(a197 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 302.6 Tm
+(x27B4)Tj
+/F2 11 Tf
+1 0 0 1 147.4 302.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.89 289.4 Tm
+(ı)Tj
+/F2 11 Tf
+1 0 0 1 86.65 289.4 Tm
+(a185 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 289.4 Tm
+(x27B5)Tj
+/F2 11 Tf
+1 0 0 1 147.4 289.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.41 276.2 Tm
+(ˆ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 276.2 Tm
+(a194 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 276.2 Tm
+(x27B6)Tj
+/F2 11 Tf
+1 0 0 1 147.4 276.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.77 263 Tm
+(˜)Tj
+/F2 11 Tf
+1 0 0 1 86.65 263 Tm
+(a198 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 263 Tm
+(x27B7)Tj
+/F2 11 Tf
+1 0 0 1 147.4 263 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.33 249.8 Tm
+(¯)Tj
+/F2 11 Tf
+1 0 0 1 86.65 249.8 Tm
+(a186 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 249.8 Tm
+(x27B8)Tj
+/F2 11 Tf
+1 0 0 1 147.4 249.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.77 236.6 Tm
+(˘)Tj
+/F2 11 Tf
+1 0 0 1 86.65 236.6 Tm
+(a195 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 236.6 Tm
+(x27B9)Tj
+/F2 11 Tf
+1 0 0 1 147.4 236.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 64.08 223.4 Tm
+(˙)Tj
+/F2 11 Tf
+1 0 0 1 86.65 223.4 Tm
+(a187 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 223.4 Tm
+(x27BA)Tj
+/F2 11 Tf
+1 0 0 1 147.4 223.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.85 210.2 Tm
+(˚)Tj
+/F2 11 Tf
+1 0 0 1 86.65 210.2 Tm
+(a188 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 210.2 Tm
+(x27BB)Tj
+/F2 11 Tf
+1 0 0 1 147.4 210.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.55 197 Tm
+(¸)Tj
+/F2 11 Tf
+1 0 0 1 86.65 197 Tm
+(a189 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 197 Tm
+(x27BC)Tj
+/F2 11 Tf
+1 0 0 1 147.4 197 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.31 183.8 Tm
+(˝)Tj
+/F2 11 Tf
+1 0 0 1 86.65 183.8 Tm
+(a190 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 183.8 Tm
+(x27BD)Tj
+/F2 11 Tf
+1 0 0 1 147.4 183.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 63.6 170.6 Tm
+(˛)Tj
+/F2 11 Tf
+1 0 0 1 86.65 170.6 Tm
+(a191 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 170.6 Tm
+(x27BE)Tj
+/F2 11 Tf
+1 0 0 1 147.4 170.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.5 157.4 Tm
+(Ä)Tj
+/F2 11 Tf
+1 0 0 1 86.65 157.4 Tm
+(a89 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 157.4 Tm
+(xF8D7)Tj
+/F2 11 Tf
+1 0 0 1 141.9 157.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.5 144.2 Tm
+(Å)Tj
+/F2 11 Tf
+1 0 0 1 86.65 144.2 Tm
+(a90 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 144.2 Tm
+(xF8D8)Tj
+/F2 11 Tf
+1 0 0 1 141.9 144.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.91 131 Tm
+(Ç)Tj
+/F2 11 Tf
+1 0 0 1 86.65 131 Tm
+(a93 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 131 Tm
+(xF8D9)Tj
+/F2 11 Tf
+1 0 0 1 141.9 131 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 66.91 117.8 Tm
+(É)Tj
+/F2 11 Tf
+1 0 0 1 86.65 117.8 Tm
+(a94 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 117.8 Tm
+(xF8DA)Tj
+/F2 11 Tf
+1 0 0 1 141.9 117.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 67.13 104.6 Tm
+(Ñ)Tj
+/F2 11 Tf
+1 0 0 1 86.65 104.6 Tm
+(a91 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 104.6 Tm
+(xF8DB)Tj
+/F2 11 Tf
+1 0 0 1 141.9 104.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 67.13 91.43 Tm
+(Ö)Tj
+/F2 11 Tf
+1 0 0 1 86.65 91.41 Tm
+(a92 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 91.41 Tm
+(xF8DC)Tj
+/F2 11 Tf
+1 0 0 1 141.9 91.41 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.85 78.23 Tm
+(Ü)Tj
+/F2 11 Tf
+1 0 0 1 86.65 78.21 Tm
+(a205 [)Tj
+/F4 11 Tf
+1 0 0 1 114.4 78.21 Tm
+(xF8DD)Tj
+/F2 11 Tf
+1 0 0 1 147.4 78.21 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 65.85 65.03 Tm
+(á)Tj
+/F2 11 Tf
+1 0 0 1 86.65 65.01 Tm
+(a85 [)Tj
+/F4 11 Tf
+1 0 0 1 108.9 65.01 Tm
+(xF8DE)Tj
+/F2 11 Tf
+1 0 0 1 141.9 65.01 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.6 725 Tm
+(à)Tj
+/F2 11 Tf
+1 0 0 1 246.9 725 Tm
+(a206 [)Tj
+/F4 11 Tf
+1 0 0 1 274.7 725 Tm
+(xF8DF)Tj
+/F2 11 Tf
+1 0 0 1 307.7 725 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 226.6 711.8 Tm
+(â)Tj
+/F2 11 Tf
+1 0 0 1 246.9 711.8 Tm
+(a86 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 711.8 Tm
+(xF8E0)Tj
+/F2 11 Tf
+1 0 0 1 302.2 711.8 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 227.6 698.6 Tm
+(ä)Tj
+/F2 11 Tf
+1 0 0 1 246.9 698.6 Tm
+(a87 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 698.6 Tm
+(xF8E1)Tj
+/F2 11 Tf
+1 0 0 1 302.2 698.6 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 227.6 685.4 Tm
+(ã)Tj
+/F2 11 Tf
+1 0 0 1 246.9 685.4 Tm
+(a88 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 685.4 Tm
+(xF8E2)Tj
+/F2 11 Tf
+1 0 0 1 302.2 685.4 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 227 672.2 Tm
+(å)Tj
+/F2 11 Tf
+1 0 0 1 246.9 672.2 Tm
+(a95 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 672.2 Tm
+(xF8E3)Tj
+/F2 11 Tf
+1 0 0 1 302.2 672.2 Tm
+(])Tj
+/F3 11 Tf
+1 0 0 1 227 659 Tm
+(ç)Tj
+/F2 11 Tf
+1 0 0 1 246.9 659 Tm
+(a96 [)Tj
+/F4 11 Tf
+1 0 0 1 269.2 659 Tm
+(xF8E4)Tj
+/F2 11 Tf
+1 0 0 1 302.2 659 Tm
+(])Tj
+/F5 9 Tf
+1 0 0 1 50.4 35.77 Tm
+(© )Tj
+0 0 0.7529 rg
+0 0 0.7529 RG
+1 0 0 1 59.37 35.77 Tm
+(Render)Tj
+ET
+q
+0.45 w
+59.37 34.87 m
+87.87 34.87 l
+S
+Q
+0.7529 0 0 rg
+0.7529 0 0 RG
+BT
+1 0 0 1 87.87 35.77 Tm
+(X)Tj
+ET
+q
+0.45 w
+87.87 34.87 m
+94.36 34.87 l
+S
+Q
+0 G
+0 g
+BT
+1 0 0 1 94.36 35.77 Tm
+( 2000)Tj
+0.3765 G
+0.3765 g
+/F6 9 Tf
+1 0 0 1 400.1 36 Tm
+(XSL Formatting Objects Test Suite)Tj
+ET
+1 0 0 1 0 -26.4 cm
+0 G
+0 g
+BT
+/F1 10 Tf
+1 0 0 1 50.4 776.3 Tm
+(Character Sets – Zapf Dingbats)Tj
+/F0 10 Tf
+1 0 0 1 493.9 776.5 Tm
+(Page )Tj
+1 0 0 1 520 776.5 Tm
+(2)Tj
+ET
+1 0 0 1 0 26.4 cm
+endstream
+endobj
+54 0 obj
+<< /BBox [ 43.7858 762.1 532.376 789.71 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 -43.7858 -762.1 ] /Resources << /Font << /Helv 13 0 R >> /ProcSet [ /PDF /Text ] >> /Subtype /Form /Type /XObject /Length 491 >>
+stream
+0 w
+43.7858 762.1001 488.59 27.61 re
+n
+q
+1 0 0 1 0 0 cm
+43.7858 762.1001 488.59 27.61 re
+W
+n
+0 g
+1 w
+BT
+/Helv 10 Tf
+1 0 0 rg
+43.786 780.014 Td
+(Originial ) Tj
+39.458 0 Td
+(document ) Tj
+46.694 0 Td
+(can ) Tj
+18.902 0 Td
+(be ) Tj
+13.901 0 Td
+(found ) Tj
+27.803 0 Td
+(at: ) Tj
+13.896 0 Td
+(http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.fo ) Tj
+-160.654 -13.8 Td
+(and: ) Tj
+22.241 0 Td
+(http://www.w3.org/Style/XSL/TestSuite/contrib/XEP/Tests/zapf-dingbats.pdf) Tj
+ET
+Q
+endstream
+endobj
+55 0 obj
+<< /Type /XRef /Length 224 /W [ 1 2 1 ] /Info 3 0 R /Root 1 0 R /Size 56 /ID [<1de2c94392fe1a44be791aebd715e11e><00cbac788c5fb3e0634635bf323ba421>] >>
+stream
+       o   Å            	 
+        ≠ !~    "†        .E 2∑ 3∞ 6ñ 7L C© P \f h… u1 Åç çÁ ö  /  / / / /° …L Ã) 
+endstream
+endobj
+startxref
+52265
+%%EOF

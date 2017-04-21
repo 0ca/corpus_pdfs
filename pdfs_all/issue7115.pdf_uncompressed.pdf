@@ -1,0 +1,57 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Annots [ 4 0 R ] /Contents 5 0 R /MediaBox [ 0 0 200 50 ] /Parent 2 0 R /Resources << /Font << /F1 6 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /A << /S /URI /Type /Action /URI (http://www.example.com) >> /Border [ 0 0 1 ] /C [ 0 1 0 ] /Rect [ 7 0 R 8 0 R 9 0 R 10 0 R ] /Subtype /Link /Type /Annot >>
+endobj
+5 0 obj
+<< /Length 55 >>
+stream
+1 0 0 rg
+BT
+10 20 TD
+/F1 20 Tf
+(www.example.com) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /BaseFont /Times-Roman /Encoding /WinAnsiEncoding /Subtype /Type1 /Type /Font >>
+endobj
+7 0 obj
+5
+endobj
+8 0 obj
+10
+endobj
+9 0 obj
+170
+endobj
+10 0 obj
+40
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000123 00000 n 
+0000000268 00000 n 
+0000000444 00000 n 
+0000000548 00000 n 
+0000000647 00000 n 
+0000000664 00000 n 
+0000000682 00000 n 
+0000000701 00000 n 
+trailer << /Root 1 0 R /Size 11 /ID [<1e1286ce36f904737883018e41c5854a><1e1286ce36f904737883018e41c5854a>] >>
+startxref
+720
+%%EOF

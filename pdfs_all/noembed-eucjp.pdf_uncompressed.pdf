@@ -1,0 +1,47 @@
+%PDF-1.2
+%¿÷¢þ
+1 0 obj
+<< /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Author (vyv03354) /CreationDate (D:20130116) /Title (Jaoanese noembed test PDF) >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /MediaBox [ 0 0 595 842 ] /Type /Pages >>
+endobj
+4 0 obj
+<< /Contents 5 0 R /Parent 3 0 R /Resources 6 0 R /Type /Page >>
+endobj
+5 0 obj
+<< /Length 62 >>
+stream
+BT /Font1 24 Tf 1 0 0 1 72 770 Tm <A4A2A4A4A4A6A4A8A4AA> Tj ETendstream
+endobj
+6 0 obj
+<< /Font << /Font1 7 0 R >> /ProcSet [ /PDF /text ] >>
+endobj
+7 0 obj
+<< /BaseFont /MS-Gothic /DescendantFonts [ 8 0 R ] /Encoding /EUC-H /Subtype /Type0 /Type /Font >>
+endobj
+8 0 obj
+<< /BaseFont /MS-Gothic /CIDSystemInfo << /Ordering (Japan1) /Registry (Adobe) /Supplement 2 >> /DW 1000 /FontDescriptor 9 0 R /Subtype /CIDFontType2 /Type /Font /W [ 231 389 500 631 631 500 ] /WinCharSet 128 >>
+endobj
+9 0 obj
+<< /Ascent 853 /AvgWidth 507 /CapHeight 853 /Descent -147 /Flags 39 /FontBBox [ -150 -147 1100 853 ] /FontName /MS-Gothic /ItalicAngle 0 /Leading 0 /MaxWidth 1000 /MissingWidth 507 /StemH 92 /StemV 92 /Style << /Panose <0805020b0609000000000000> >> /Type /FontDescriptor /XHeight 597 >>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000166 00000 n 
+0000000251 00000 n 
+0000000331 00000 n 
+0000000442 00000 n 
+0000000512 00000 n 
+0000000626 00000 n 
+0000000853 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 10 /ID [<09f0536a36153c16f626028f2cdcfd86><09f0536a36153c16f626028f2cdcfd86>] >>
+startxref
+1155
+%%EOF
