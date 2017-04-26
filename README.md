@@ -23,7 +23,7 @@ find . -type f -exec qpdf --stream-data=uncompress {} {}_uncompressed.pdf \;
 ```
 
 The redo the corpus (for a different software or because we have more pdfs), it is necessary to follow the next steps:
-````
+```
 rm -rf pdfs_all_* &&
 mkdir pdfs_all_10k &&
 mkdir pdfs_all_100k &&
@@ -42,6 +42,7 @@ afl-cmin -t 1000 -m 100 -i pdfs_all_100k/ -o corpus_pdfs/poppler/100k_min/ -- po
 afl-cmin -t 1000 -m 100 -i pdfs_all_1M/ -o corpus_pdfs/poppler/1M_min/ -- poppler-latest/utils/pdftocairo @@ &&
 afl-cmin -t 1000 -m 100 -i pdfs_all_10M/ -o corpus_pdfs/poppler/10M_min/ -- poppler-latest/utils/pdftocairo @@
 ```
+
 It's very important to do first the size filtering and then the corpus minimization.
 
 The idea is to skip all the pdfs taking more than 1 second to be processed or more than 100MB of memory.
