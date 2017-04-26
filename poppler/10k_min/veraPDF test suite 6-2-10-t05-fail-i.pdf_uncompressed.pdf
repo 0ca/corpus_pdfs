@@ -1,0 +1,110 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /AcroForm 2 0 R /Metadata 3 0 R /Outlines 4 0 R /OutputIntents [ ] /PageMode /UseOutlines /Pages 5 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /DA (/Helv 0 Tf 0 g ) /DR << /Encoding << /PDFDocEncoding 6 0 R >> /Font << /HeBo 7 0 R /Helv 8 0 R /ZaDb 9 0 R >> >> /Fields [ 10 0 R ] >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 870 >>
+stream
+<?xpacket begin='ï»¿' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-04-10T17:19:21+01:00" xmp:ModifyDate="2016-04-10T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>endstream
+endobj
+4 0 obj
+<< /Count 1 /First 11 0 R /Last 11 0 R /Type /Outlines >>
+endobj
+5 0 obj
+<< /Count 1 /Kids [ 12 0 R ] /Type /Pages >>
+endobj
+6 0 obj
+<< /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+endobj
+7 0 obj
+<< /BaseFont /Helvetica-Bold /Encoding 6 0 R /Name /HeBo /Subtype /Type1 /Type /Font >>
+endobj
+8 0 obj
+<< /BaseFont /Helvetica /Encoding 6 0 R /Name /Helv /Subtype /Type1 /Type /Font >>
+endobj
+9 0 obj
+<< /BaseFont /ZapfDingbats /Name /ZaDb /Subtype /Type1 /Type /Font >>
+endobj
+10 0 obj
+<< /AP << /N << /Off 13 0 R /On 14 0 R >> >> /AS /On /DA (/HeBo 12 Tf 0 g) /F 4 /FT /Btn /Ff 65536 /MK << /BG [ 0.75293 ] >> /P 12 0 R /Rect [ 31.9371 416.754 86.9108 469.634 ] /Subtype /Widget /T (Button) /Type /Annot >>
+endobj
+11 0 obj
+<< /Count 5 /First 15 0 R /Last 16 0 R /Parent 4 0 R /Title (veraPDF test suite: 6-2-10-t05-fail-i) >>
+endobj
+12 0 obj
+<< /Annots [ 10 0 R ] /Contents 17 0 R /CropBox [ 0 0 500 500 ] /MediaBox [ 0 0 500 500 ] /Parent 5 0 R /ProcSet [ /PDF /Text ] /Resources << >> /Type /Page >>
+endobj
+13 0 obj
+<< /BBox [ 0.0 0.0 54.9737 52.8795 ] /FormType 1 /Group 18 0 R /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 43 >>
+stream
+q
+0.0 0.8 0.9 rg
+0 0 54.9737 52.8795 re
+f
+Qendstream
+endobj
+14 0 obj
+<< /BBox [ 0.0 0.0 54.9737 52.8795 ] /FormType 1 /Matrix [ 1.0 0.0 0.0 1.0 0.0 0.0 ] /Resources << /ProcSet [ /PDF ] >> /Subtype /Form /Type /XObject /Length 44 >>
+stream
+q
+0.0 0.8 0.9 rg
+0 0 54.9737 52.8795 re
+f
+Qendstream
+endobj
+15 0 obj
+<< /Next 19 0 R /Parent 11 0 R /Title (clause 6-2-10) >>
+endobj
+16 0 obj
+<< /Parent 11 0 R /Prev 20 0 R /Title (expected message: Transparency group is defined for the appereance stream of a Widget annotation, but is missing in the parent Page object; the document contains no GTS_PDFA1 OutputIntent) >>
+endobj
+17 0 obj
+<< /Length 3 >>
+stream
+q
+Qendstream
+endobj
+18 0 obj
+<< /CS /DeviceRGB /S /Transparency >>
+endobj
+19 0 obj
+<< /Next 21 0 R /Parent 11 0 R /Prev 15 0 R /Title (topic 05) >>
+endobj
+20 0 obj
+<< /Next 16 0 R /Parent 11 0 R /Prev 21 0 R /Title (expected result: fail) >>
+endobj
+21 0 obj
+<< /Next 20 0 R /Parent 11 0 R /Prev 19 0 R /Title (instance i) >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000154 00000 n 
+0000000312 00000 n 
+0000001262 00000 n 
+0000001335 00000 n 
+0000001395 00000 n 
+0000002721 00000 n 
+0000002824 00000 n 
+0000002922 00000 n 
+0000003007 00000 n 
+0000003245 00000 n 
+0000003364 00000 n 
+0000003540 00000 n 
+0000003794 00000 n 
+0000004035 00000 n 
+0000004108 00000 n 
+0000004355 00000 n 
+0000004407 00000 n 
+0000004461 00000 n 
+0000004542 00000 n 
+0000004636 00000 n 
+trailer << /Root 1 0 R /Size 22 /ID [<d6cf927dcf82444068eb69af5914f807><cf08c3aacbd11fe9190095c9dbbb4b71>] >>
+startxref
+4719
+%%EOF

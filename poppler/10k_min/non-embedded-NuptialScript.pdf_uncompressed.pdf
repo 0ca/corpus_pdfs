@@ -1,0 +1,40 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 350 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 350 50 ] /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 82 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+(Non-embedded NuptialScript font - should be italic.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /NuptialScript /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 6 0 R /LastChar 244 /Subtype /Type1 /Type /Font /Widths [ 166 333 333 333 333 667 611 222 389 389 333 600 222 333 222 278 333 333 333 333 333 333 333 333 333 333 222 222 600 600 600 333 800 722 778 611 667 556 611 611 778 500 444 778 611 833 778 556 667 500 667 556 500 722 556 667 611 611 667 444 278 444 600 500 222 389 389 333 389 333 222 389 444 222 222 389 222 556 389 333 389 389 333 278 222 389 333 444 333 389 333 389 222 389 600 0 0 0 0 0 0 0 0 0 222 0 0 0 0 0 0 0 0 0 0 0 389 0 0 0 0 0 0 0 0 0 0 0 166 0 333 333 0 0 0 0 0 800 0 0 0 333 0 0 0 600 0 0 222 389 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 389 0 0 0 0 0 0 0 333 333 333 0 0 0 0 0 0 0 0 0 333 ] >>
+endobj
+6 0 obj
+<< /Ascent 590 /CapHeight 604 /Descent -219 /Flags 98 /FontBBox [ -216 -295 1000 842 ] /FontName /NuptialScript /ItalicAngle -21 /StemH 56 /StemV 56 /Type /FontDescriptor /XHeight 280 >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000148 00000 n 
+0000000275 00000 n 
+0000000406 00000 n 
+0000001215 00000 n 
+trailer << /Root 1 0 R /Size 7 /ID [<72c8fd58f982203634fd52a31415614e><72c8fd58f982203634fd52a31415614e>] >>
+startxref
+1417
+%%EOF

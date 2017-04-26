@@ -1,0 +1,69 @@
+%PDF-1.6
+%¿÷¢þ
+1 0 obj
+<< /PageLayout /SinglePage /PageMode /UseNone /Pages 3 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Author (Sean Hayes, M.D.) /CreationDate (D:20120119000000Z) /Creator (Tracker's PDF-Tools) /Keywords (arg,xml,pdf,Normal,Example,98700004) /ModDate (D:20150604180807Z) /Producer (3-Heights\(TM\) PDF Producer 4.4.43.3 \(http://www.pdf-tools.com\)) /Subject (Normal, Example) /Title (Aden Mibi \(same\)) >>
+endobj
+3 0 obj
+<< /Count 1 /Kids [ 4 0 R ] /Type /Pages >>
+endobj
+4 0 obj
+<< /Annots [ ] /ArtBox [ 41.3203 35.8755 755.999 576.125 ] /Contents 5 0 R /CropBox [ 0 0 612 792 ] /MediaBox [ 0 0 612 792 ] /Parent 3 0 R /Resources << /ColorSpace << /CS0 6 0 R >> /Pattern << /P0 7 0 R >> >> /Rotate 0 /Type /Page >>
+endobj
+5 0 obj
+<< /Length 148 >>
+stream
+/CS0 cs
+/P0 scn
+0 0 0 RG
+0.73 w
+q
+0.998997 0 0 1.00002 -18.0817 26.5012 cm
+q
+1 0 0 1 526.5 546 cm
+0 0 m
+-13.5 0 l
+-13.5 13.5 l
+0 13.5 l
+0 0 l
+b
+Q
+Q
+endstream
+endobj
+6 0 obj
+[ 8 0 R ]
+endobj
+7 0 obj
+<< /BBox [ 0 0 4 4 ] /PaintType 1 /PatternType 1 /Resources << /ProcSet [ /PDF ] >> /TilingType 1 /Type /Pattern /XStep 4 /YStep 4 /Length 144 >>
+stream
+0 G
+0.25 w
+0 0 m %% Construct diagonal path
+4 4 l s
+-1 3 m %% Construct diagonal path
+1 5 l s
+3 -1 m %% Construct diagonal path
+5 1 l s
+endstream
+endobj
+8 0 obj
+/Pattern
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000107 00000 n 
+0000000431 00000 n 
+0000000490 00000 n 
+0000000741 00000 n 
+0000000939 00000 n 
+0000000964 00000 n 
+0000001286 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 9 /ID [<cc88758096fec6ac6b503c0b8128b45f><7f0aa303c4b89b209307bb595a6881ea>] >>
+startxref
+1310
+%%EOF

@@ -22,9 +22,26 @@ The pdfs_all folder also contains the uncompressed pdfs obtained with:
 find . -type f -exec qpdf --stream-data=uncompress {} {}_uncompressed.pdf \;
 ```
 
-The minimize can be done with the command below:
+The redo the corpus (for a different software or because we have more pdfs), it is necessary to follow the next steps:
+````
+rm -rf pdfs_all_* &&
+mkdir pdfs_all_10k &&
+mkdir pdfs_all_100k &&
+mkdir pdfs_all_1M &&
+mkdir pdfs_all_10M &&
+find corpus_pdfs/pdfs_all/ -size -10k  -exec cp "{}" pdfs_all_10k/ \; &&
+find corpus_pdfs/pdfs_all/ -size -100k -size +10k -exec cp "{}" pdfs_all_100k/ \; &&
+find corpus_pdfs/pdfs_all/ -size -1000k -size +100k -exec cp "{}" pdfs_all_1M/ \; &&
+find corpus_pdfs/pdfs_all/ -size -10000k -size +1000k -exec cp "{}" pdfs_all_10M/ \; &&
+rm -rf corpus_pdfs/poppler/10k_min/ &&
+rm -rf corpus_pdfs/poppler/100k_min/ &&
+rm -rf corpus_pdfs/poppler/1M_min/ &&
+rm -rf corpus_pdfs/poppler/10M_min/ &&
+afl-cmin -t 1000 -m 100 -i pdfs_all_10k/ -o corpus_pdfs/poppler/10k_min/ -- poppler-latest/utils/pdftocairo @@ &&
+afl-cmin -t 1000 -m 100 -i pdfs_all_100k/ -o corpus_pdfs/poppler/100k_min/ -- poppler-latest/utils/pdftocairo @@ &&
+afl-cmin -t 1000 -m 100 -i pdfs_all_1M/ -o corpus_pdfs/poppler/1M_min/ -- poppler-latest/utils/pdftocairo @@ &&
+afl-cmin -t 1000 -m 100 -i pdfs_all_10M/ -o corpus_pdfs/poppler/10M_min/ -- poppler-latest/utils/pdftocairo @@
 ```
-afl-cmin -i pdfsfolder_10k/ -o pdfsfolder_10k_min/ -t 1000 -m 100 -- src/pdf2swf @@
-```
+It's very important to do first the size filtering and then the corpus minimization.
 
 The idea is to skip all the pdfs taking more than 1 second to be processed or more than 100MB of memory.
