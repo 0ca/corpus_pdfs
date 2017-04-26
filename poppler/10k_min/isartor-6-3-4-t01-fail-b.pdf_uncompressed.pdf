@@ -1,0 +1,121 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071102185502+01'00') /ModDate (D:20071102185502+01'00') /Producer (PDFlib Personalization Server 7.0.2 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1167 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                                                                                      
+        <xmpMM:DocumentID>uuid:0F1BE8C0-09DA-B509-B9FC-F400BF5BEF6D</xmpMM:DocumentID>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:ModifyDate>2007-11-02T18:55:02+01:00</xmp:ModifyDate>
+        <xmp:MetadataDate>2007-11-02T18:55:02+01:00</xmp:MetadataDate>
+        <xmp:CreateDate>2007-11-02T18:55:02+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+        <pdfaid:part>1</pdfaid:part>
+        <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFlib Personalization Server 7.0.2 (Win32)</pdf:Producer>
+      </rdf:Description>
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-3-4-t01-fail-b) >>
+endobj
+9 0 obj
+<< /Length 133 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+q
+1 0 0 1 50 700 cm
+BT
+/F0 24 Tf
+24 TL
+0 0 Td
+(text with unembedded PostScript Type 1 font)Tj
+ET
+Q
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /Font << /F0 14 0 R >> /ProcSet 15 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Title (clause 6-3-4 Embedded font programs) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 17 0 R /Title (expected message: PostScript Type 1 font 'LuciduxSans-Oblique' not embedded) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+<< /BaseFont /LuciduxSans-Oblique /Encoding /WinAnsiEncoding /FirstChar 0 /FontDescriptor 18 0 R /LastChar 255 /Subtype /Type1 /Type /Font /Widths [ 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 278 556 278 278 278 278 278 278 278 333 278 667 278 1000 278 611 278 278 278 278 278 278 278 278 278 333 278 500 278 944 278 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 333 400 584 333 333 333 556 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 222 222 222 222 602 556 556 556 556 556 556 584 611 556 556 556 556 500 556 500 ] >>
+endobj
+15 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 19 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 01 ) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 19 0 R /Title (expected result: fail) >>
+endobj
+18 0 obj
+<< /Ascent 771 /CapHeight 723 /Descent -193 /Flags 96 /FontBBox [ -114 -211 1095 993 ] /FontName /LuciduxSans-Oblique /ItalicAngle -11 /StemV 88 /Type /FontDescriptor /XHeight 530 >>
+endobj
+19 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 16 0 R /Title (instance b ) >>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000315 00000 n 
+0000001563 00000 n 
+0000001625 00000 n 
+0000001680 00000 n 
+0000001739 00000 n 
+0000001846 00000 n 
+0000001990 00000 n 
+0000002173 00000 n 
+0000002263 00000 n 
+0000002378 00000 n 
+0000002533 00000 n 
+0000002625 00000 n 
+0000003822 00000 n 
+0000003877 00000 n 
+0000003979 00000 n 
+0000004093 00000 n 
+0000004292 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 20 /ID [<3700bf7411222514dc0dc1aea80c1457><375f1fafa6a85665a8de70f402a8f6f1>] >>
+startxref
+4396
+%%EOF

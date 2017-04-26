@@ -1,0 +1,71 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 2 0 R /Outlines 3 0 R /PageMode /UseOutlines /Pages 4 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Subtype /XML /Type /Metadata /Length 867 >>
+stream
+<?xpacket begin='' id='W5M0MpCehiHzreSzNTczkc9d'?><x:xmpmeta xmlns:x="adobe:ns:meta/">  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">    <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">      <dc:creator>        <rdf:Seq>          <rdf:li>veraPDF Consortium</rdf:li>        </rdf:Seq>      </dc:creator>    </rdf:Description>    <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="" xmp:CreatorTool="veraPDF Test Builder" xmp:CreateDate="2016-01-25T17:19:21+01:00" xmp:ModifyDate="2016-01-25T17:19:21+01:00"/>    <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="" pdf:Producer="veraPDF Test Builder 1.0 "/>    <rdf:Description xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/" rdf:about="" pdfaid:part="2" pdfaid:conformance="B"/>  </rdf:RDF></x:xmpmeta><?xpacket end='w'?>endstream
+endobj
+3 0 obj
+<< /Count 1 /First 5 0 R /Last 5 0 R /Type /Outlines >>
+endobj
+4 0 obj
+<< /Count 1 /Kids [ 6 0 R ] /Type /Pages >>
+endobj
+5 0 obj
+<< /Count 5 /First 7 0 R /Last 8 0 R /Parent 3 0 R /Title (veraPDF test suite: 6-2-4-3-t01-fail-g) >>
+endobj
+6 0 obj
+<< /Contents 9 0 R /CropBox [ 0 0 500 500 ] /MediaBox [ 0 0 500 500 ] /Parent 4 0 R /ProcSet [ /PDF /Text ] /Resources << /Shading << /SH0 10 0 R >> >> /Type /Page >>
+endobj
+7 0 obj
+<< /Next 11 0 R /Parent 5 0 R /Title (clause 6-2-4-3) >>
+endobj
+8 0 obj
+<< /Parent 5 0 R /Prev 12 0 R /Title (expected message: DeviceRGB colour space is used in shading; Document doesn't contain GTS_PDFA1 OutputIntent) >>
+endobj
+9 0 obj
+<< /Length 11 >>
+stream
+q
+/SH0 sh
+Qendstream
+endobj
+10 0 obj
+<< /ColorSpace /DeviceRGB /Coords [ 250 250 80 250 250 100 ] /Function 13 0 R /ShadingType 3 >>
+endobj
+11 0 obj
+<< /Next 14 0 R /Parent 5 0 R /Prev 7 0 R /Title (topic 01) >>
+endobj
+12 0 obj
+<< /Next 8 0 R /Parent 5 0 R /Prev 14 0 R /Title (expected result: fail) >>
+endobj
+13 0 obj
+<< /C0 [ 0.6 0.8 0.8 ] /C1 [ 0 0.8 0.8 ] /Domain [ 0 1 ] /FunctionType 2 /N 1 >>
+endobj
+14 0 obj
+<< /Next 12 0 R /Parent 5 0 R /Prev 11 0 R /Title (instance g) >>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000119 00000 n 
+0000001066 00000 n 
+0000001137 00000 n 
+0000001196 00000 n 
+0000001313 00000 n 
+0000001495 00000 n 
+0000001567 00000 n 
+0000001733 00000 n 
+0000001793 00000 n 
+0000001905 00000 n 
+0000001984 00000 n 
+0000002076 00000 n 
+0000002173 00000 n 
+trailer << /Root 1 0 R /Size 15 /ID [<d6cf927dcf82444068eb69af5914f807><eb02abeb598888d09b29904b2ccd87e9>] >>
+startxref
+2255
+%%EOF

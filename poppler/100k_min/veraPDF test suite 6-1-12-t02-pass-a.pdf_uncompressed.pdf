@@ -1,0 +1,128 @@
+%PDF-1.7
+%ø˜¢˛
+1 0 obj
+<< /AcroForm 5 0 R /Metadata 10 0 R /Outlines 12 0 R /OutputIntents [ ] /PageMode /UseOutlines /Pages 20 0 R /Perms << /DocMDP 21 0 R >> /Type /Catalog >>
+endobj
+2 0 obj
+<< /Type /ObjStm /Length 184 /N 1 /First 4 >>
+stream
+3 0
+<< /Author (veraPDF Consortium) /CreationDate (D:20160625140508+03'00') /Creator (veraPDF Test Builder) /ModDate (D:20160625140508+03'00') /Producer (veraPDF Test Builder 1.0 ) >>
+endstream
+endobj
+4 0 obj
+<< /Type /ObjStm /Length 472 /N 5 /First 28 >>
+stream
+5 0 6 145 7 155 8 297 9 365
+<< /DA (/Helv 0 Tf 0 g ) /DR << /Encoding << /PDFDocEncoding 25 0 R >> /Font << /Helv 23 0 R /ZaDb 24 0 R >> >> /Fields [ 7 0 R ] /SigFlags 3 >>
+[ 7 0 R ]
+<< /F 132 /FT /Sig /Ff 1 /Lock 8 0 R /MK << >> /P 26 0 R /Rect [ 0.0 0.0 0.0 0.0 ] /Subtype /Widget /T (Signature2) /Type /Annot /V 21 0 R >>
+<< /Action /Include /Fields [ (Signature2) ] /Type /SigFieldLock >>
+<< /Action /Include /Fields [ (Signature2) ] /Type /TransformParams /V /1.2 >>
+endstream
+endobj
+10 0 obj
+<< /Subtype /XML /Type /Metadata /Length 3708 >>
+stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.2-c001 63.139439, 2010/09/27-13:37:26        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>veraPDF Consortium</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+         <xmp:CreatorTool>veraPDF Test Builder</xmp:CreatorTool>
+         <xmp:CreateDate>2016-06-25T14:05:08+03:00</xmp:CreateDate>
+         <xmp:ModifyDate>2016-06-25T14:05:08+03:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2016-06-25T14:05:08+03:00</xmp:MetadataDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>veraPDF Test Builder 1.0 </pdf:Producer>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+         <pdfaid:part>2</pdfaid:part>
+         <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xmpMM:DocumentID>uuid:4cbc08b1-3455-4ff8-bca7-a0f70c1fad4c</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:cde9d0ba-f269-46f7-89f6-423668a2f73e</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstream
+endobj
+11 0 obj
+<< /Type /ObjStm /Length 651 /N 7 /First 46 >>
+stream
+12 0 13 58 14 162 15 219 16 395 17 473 18 540
+<< /Count 1 /First 13 0 R /Last 13 0 R /Type /Outlines >>
+<< /Count 5 /First 14 0 R /Last 15 0 R /Parent 12 0 R /Title (veraPDF test suite: 6-1-12-t02-pass-a) >>
+<< /Next 18 0 R /Parent 13 0 R /Title (clause 6-1-12) >>
+<< /Parent 13 0 R /Prev 16 0 R /Title (expected message: The Signature References dictionary does not contain any of the keys DigestLocation, DigestMethod, and DigestValue) >>
+<< /Next 15 0 R /Parent 13 0 R /Prev 17 0 R /Title (expected result: pass) >>
+<< /Next 16 0 R /Parent 13 0 R /Prev 18 0 R /Title (instance a) >>
+<< /Next 17 0 R /Parent 13 0 R /Prev 14 0 R /Title (topic 02) >>
+endstream
+endobj
+19 0 obj
+<< /Type /ObjStm /Length 50 /N 1 /First 5 >>
+stream
+20 0
+<< /Count 1 /Kids [ 26 0 R ] /Type /Pages >>
+endstream
+endobj
+21 0 obj
+<< /ByteRange [ 0 1022 4862 6654 ] /Contents (0\202\003˙\006\t*\206H\206˜\r\001\007\002†\202\003Î0\202\003Á\002\001\0011\0170\r\006\t`\206H\001e\003\004\002\001\005\0000\013\006\t*\206H\206˜\r\001\007\001†\202\002Q0\202\002M0\202\001∂†\003\002\001\002\002\n˘¸\030π?:∏^\207a0\r\006\t*\206H\206˜\r\001\001\005\005\0000W1\0200\016\006\003U\004\003\023\007veraPDF1\t0\007\006\003U\004\n\023\0001\t0\007\006\003U\004\013\023\0001 0\036\006\t*\206H\206˜\r\001\t\001\026\021admin@verapdf.org1\0130\t\006\003U\004\006\023\002US0\036\027\r160625110115Z\027\r210625110115Z0W1\0200\016\006\003U\004\003\023\007veraPDF1\t0\007\006\003U\004\n\023\0001\t0\007\006\003U\004\013\023\0001 0\036\006\t*\206H\206˜\r\001\t\001\026\021admin@verapdf.org1\0130\t\006\003U\004\006\023\002US0\201\2370\r\006\t*\206H\206˜\r\001\001\001\005\000\003\201\215\0000\201\211\002\201\201\000œŒG`\236˘Ωc\216b≤–w.÷E∫/|˘s\024 ~§\017∂DQˆ˜?A\203",S\222ß˘\n\214\212œ»\210\034\0248\030™m\221\0019\n\206\202≤µ\224ß™c\202W\210\215¿∏\005'ª9ÔJ\033\)+\022Îrjj@ ¶asÃu>\000\032j ’X\236Ø\021=ø∑\034WMª\035L\177œF˙ﬂ\213\033¡Û\215hæ¶zY`/\037\002\003\001\000\001£ 0\0360\017\006\t*\206H\206˜/\001\001\n\004\002\005\0000\013\006\003U\035\017\004\004\003\002\007\2000\r\006\t*\206H\206˜\r\001\001\005\005\000\003\201\201\000\020[\216¸¶\233øs5˙∑jª\231T\211÷|\t\227+‘G\tR9ÏxIi\0005‡7EÊ3\t]Â\025<∏ı˛+ÃK∏∑∆ƒ†fÃ$¢wq\205\bŸ;˚\021#\032c≤∞\t\200ƒ™\237’\016∂\2137&“ˇK\206I\234\200`\tÈ\003ª≠\034Ræ_9Ø\206¸\202\203\224øzgcb\206Œƒ\031∞\220\220&∑∂Õd¿9\033u\016Á1\202\001m0\202\001i\002\001\0010e0W1\0200\016\006\003U\004\003\023\007veraPDF1\t0\007\006\003U\004\n\023\0001\t0\007\006\003U\004\013\023\0001 0\036\006\t*\206H\206˜\r\001\t\001\026\021admin@verapdf.org1\0130\t\006\003U\004\006\023\002US\002\n˘¸\030π?:∏^\207a0\r\006\t`\206H\001e\003\004\002\001\005\000†\\0\017\006\t*\206H\206˜/\001\001\b1\0020\0000\030\006\t*\206H\206˜\r\001\t\0031\013\006\t*\206H\206˜\r\001\007\0010/\006\t*\206H\206˜\r\001\t\0041"\004 \234∏z¢_\007Ó\001J\037ÈË∫ß\026\223 \013N≈–\237<π\203TaW¡∂°–0\r\006\t*\206H\206˜\r\001\001\013\005\000\004\201\200\021Ë\027’\n™\206R\022¨Ì„ \002∫\226\177D˝a◊&\202cG\206 Jc\f©jÏn0\)-∫∑∂\036Ωˇ¿s\210\231\217.µ!5\220µ\225S\230zŸÁ\030˘>∑—‡\222`*2h\\bX\022‹*\225«ip\017£q˜\0379o¢STP\225U¬kµ\033\200∞ˇ*ÎßÚIÆ\206˝*W‹\035–ı\r¨37¨\215€\177„\216º—˛\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000\000) /Filter /Adobe.PPKLite /M (D:20160625140508+03'00') /Name (veraPDF) /Prop_Build << /App << /Name /Exchange-Pro /OS [ /Win ] /R 655631 /REx (10.1.15) /TrustedMode false >> /Filter << /Date (Jun 26 2015 22:44:22) /Name /Adobe.PPKLite /R 131104 /V 2 >> /PubSec << /Date (Jun 26 2015 22:44:22) /NonEFontNoWarn true /R 131104 >> >> /Reference [ << /Data 1 0 R /TransformMethod /DocMDP /TransformParams << /P 2 /Type /TransformParams /V /1.2 >> /Type /SigRef >> << /Data 1 0 R /TransformMethod /FieldMDP /TransformParams 9 0 R /Type /SigRef >> ] /SubFilter /adbe.pkcs7.detached /Type /Sig >>
+endobj
+22 0 obj
+<< /Type /ObjStm /Length 1483 /N 3 /First 18 >>
+stream
+23 0 24 84 25 154
+<< /BaseFont /Helvetica /Encoding 25 0 R /Name /Helv /Subtype /Type1 /Type /Font >>
+<< /BaseFont /ZapfDingbats /Name /ZaDb /Subtype /Type1 /Type /Font >>
+<< /Differences [ 24 /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde 39 /quotesingle 96 /grave 128 /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron 160 /Euro 164 /currency 166 /brokenbar 168 /dieresis /copyright /ordfeminine 172 /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu 183 /periodcentered /cedilla /onesuperior /ordmasculine 188 /onequarter /onehalf /threequarters 192 /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+endstream
+endobj
+26 0 obj
+<< /Annots 6 0 R /CropBox [ 0 0 500 500 ] /MediaBox [ 0 0 500 500 ] /Parent 20 0 R /ProcSet [ /PDF /Text ] /Resources << >> /Rotate 0 /Type /Page >>
+endobj
+27 0 obj
+<< /Type /XRef /Length 112 /W [ 1 2 1 ] /Info 3 0 R /Root 1 0 R /Size 28 /ID [<d6cf927dcf82444068eb69af5914f807><469b513837df49b753d7cf28d3ecd341>] >>
+stream
+       π   ø       Ê ¥         è    /`     5| 6! 
+endstream
+endobj
+startxref
+13857
+%%EOF

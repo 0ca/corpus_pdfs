@@ -1,0 +1,161 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 3 0 R /OpenAction 4 0 R /Outlines 5 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 6 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /CreationDate (D:20071102190326+01'00') /ModDate (D:20071102190326+01'00') /Producer (PDFlib Personalization Server 7.0.2 \(Win32\)) >>
+endobj
+3 0 obj
+<< /Subtype /XML /Type /Metadata /Length 1167 >>
+stream
+<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+  <x:xmpmeta xmlns:x="adobe:ns:meta/">
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                                                                                      
+        <xmpMM:DocumentID>uuid:B8065E04-D3A9-5543-59B7-0FC00EC5EEBE</xmpMM:DocumentID>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+        <xmp:ModifyDate>2007-11-02T19:03:26+01:00</xmp:ModifyDate>
+        <xmp:MetadataDate>2007-11-02T19:03:26+01:00</xmp:MetadataDate>
+        <xmp:CreateDate>2007-11-02T19:03:26+01:00</xmp:CreateDate>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+        <pdfaid:part>1</pdfaid:part>
+        <pdfaid:conformance>B</pdfaid:conformance>
+      </rdf:Description>
+      <rdf:Description about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+        <pdf:Producer>PDFlib Personalization Server 7.0.2 (Win32)</pdf:Producer>
+      </rdf:Description>
+    </rdf:RDF>
+  </x:xmpmeta>
+<?xpacket end="r"?>endstream
+endobj
+4 0 obj
+<< /D [ 7 0 R /Fit ] /S /GoTo /Type /Action >>
+endobj
+5 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R >>
+endobj
+6 0 obj
+<< /Count 1 /Kids [ 7 0 R ] /Type /Pages >>
+endobj
+7 0 obj
+<< /Contents 9 0 R /MediaBox [ 0 0 595 842 ] /Parent 6 0 R /Resources 10 0 R /Type /Page >>
+endobj
+8 0 obj
+<< /Count 5 /Dest [ 7 0 R /Fit ] /First 11 0 R /Last 12 0 R /Parent 5 0 R /Title (PDF/A test suite: isartor-6-3-4-t01-fail-g) >>
+endobj
+9 0 obj
+<< /Length 91 >>
+stream
+/C3 CS 0 0 0 SCN
+/C3 cs 0 0 0 scn
+q
+1 0 0 1 50 700 cm
+BT
+/F1 24 Tf
+24 TL
+0 0 Td
+(A)Tj
+ET
+Q
+endstream
+endobj
+10 0 obj
+<< /ColorSpace << /C3 13 0 R >> /Font << /F1 14 0 R >> /ProcSet 15 0 R >>
+endobj
+11 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 16 0 R /Parent 8 0 R /Title (clause 6-3-4 Embedded font programs) >>
+endobj
+12 0 obj
+<< /Dest [ 7 0 R /Fit ] /Parent 8 0 R /Prev 17 0 R /Title (expected message: font 'Helvetica' for Type 3 font glyph not embedded) >>
+endobj
+13 0 obj
+[ /Lab << /Range [ -128 127 -128 127 ] /WhitePoint [ 0.9642 1 0.8249 ] >> ]
+endobj
+14 0 obj
+<< /CharProcs 18 0 R /Encoding 19 0 R /FirstChar 65 /FontBBox [ 0 0 0 0 ] /FontMatrix [ 0.001 0 0 0.001 0 0 ] /LastChar 65 /Name /HelveticaCloneT3.winansi /Resources 20 0 R /Subtype /Type3 /Type /Font /Widths [ 667 ] >>
+endobj
+15 0 obj
+[ /PDF /ImageB /ImageC /ImageI /Text ]
+endobj
+16 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 21 0 R /Parent 8 0 R /Prev 11 0 R /Title (topic 01 ) >>
+endobj
+17 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 12 0 R /Parent 8 0 R /Prev 21 0 R /Title (expected result: fail) >>
+endobj
+18 0 obj
+<< /.notdef 22 0 R /A 23 0 R >>
+endobj
+19 0 obj
+<< /Differences [ 0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /Euro /.notdef /quotesinglbase /florin /quotedblbase /ellipsis /dagger /daggerdbl /circumflex /perthousand /Scaron /guilsinglleft /OE /.notdef /Zcaron /.notdef /.notdef /quoteleft /quoteright /quotedblleft /quotedblright /bullet /endash /emdash /tilde /trademark /scaron /guilsinglright /oe /.notdef /zcaron /Ydieresis /nbspace /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /sfthyphen /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis ] /Type /Encoding >>
+endobj
+20 0 obj
+<< /Font << /F0 24 0 R >> /ProcSet 15 0 R >>
+endobj
+21 0 obj
+<< /Dest [ 7 0 R /Fit ] /Next 17 0 R /Parent 8 0 R /Prev 16 0 R /Title (instance g ) >>
+endobj
+22 0 obj
+<< /Length 17 >>
+stream
+278 0 0 0 0 0 d1
+endstream
+endobj
+23 0 obj
+<< /Length 83 >>
+stream
+667 0 14 0 654 718 d1
+BT
+/F0 1000 Tf
+0 Tr
+1000 TL
+0 Tc
+100 Tz
+0 Ts
+0 0 Td
+(A)Tj
+ET
+endstream
+endobj
+24 0 obj
+<< /BaseFont /Helvetica /Encoding /WinAnsiEncoding /FirstChar 0 /FontDescriptor 25 0 R /LastChar 255 /Subtype /Type1 /Type /Font /Widths [ 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 278 355 556 556 889 667 191 333 333 389 584 278 333 278 278 556 556 556 556 556 556 556 556 556 556 278 278 584 584 584 556 1015 667 667 722 722 667 611 778 722 278 500 667 556 833 722 778 667 778 722 667 611 722 667 944 667 667 611 278 278 278 469 556 333 556 556 500 556 556 278 556 556 222 222 500 222 833 556 556 556 556 333 500 278 556 500 722 500 500 500 334 260 334 584 278 556 278 222 556 333 1000 556 556 333 1000 667 333 1000 278 611 278 278 222 222 333 333 350 556 1000 333 1000 500 333 944 278 500 667 278 333 556 556 556 556 260 556 333 737 370 556 584 333 737 552 400 549 333 333 333 576 537 278 333 333 365 556 834 834 834 611 667 667 667 667 667 667 1000 722 667 667 667 667 278 278 278 278 722 722 778 778 778 778 778 584 778 722 722 722 722 667 667 611 556 556 556 556 556 556 889 500 556 556 556 556 278 278 278 278 556 556 556 556 556 556 556 549 611 556 556 556 556 500 556 500 ] >>
+endobj
+25 0 obj
+<< /Ascent 718 /CapHeight 718 /Descent -207 /Flags 32 /FontBBox [ -665 -325 2028 1037 ] /FontName /Helvetica /ItalicAngle 0 /StemV 88 /Type /FontDescriptor /XHeight 523 >>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000161 00000 n 
+0000000315 00000 n 
+0000001563 00000 n 
+0000001625 00000 n 
+0000001680 00000 n 
+0000001739 00000 n 
+0000001846 00000 n 
+0000001990 00000 n 
+0000002130 00000 n 
+0000002220 00000 n 
+0000002335 00000 n 
+0000002484 00000 n 
+0000002576 00000 n 
+0000002812 00000 n 
+0000002867 00000 n 
+0000002969 00000 n 
+0000003083 00000 n 
+0000003131 00000 n 
+0000005269 00000 n 
+0000005330 00000 n 
+0000005434 00000 n 
+0000005501 00000 n 
+0000005634 00000 n 
+0000006825 00000 n 
+trailer << /Info 2 0 R /Root 1 0 R /Size 26 /ID [<aeada5381d07a4135992917862fb181c><053be553171f2c50c142dd75443d3db0>] >>
+startxref
+7013
+%%EOF

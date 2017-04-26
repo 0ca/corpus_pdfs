@@ -1,0 +1,91 @@
+%PDF-1.4
+%¿÷¢þ
+1 0 obj
+<< /Metadata 2 0 R /OpenAction [ 3 0 R /Fit ] /Outlines 4 0 R /PageLayout /SinglePage /PageMode /UseOutlines /Pages 5 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Subtype /XML /Type /Metadata /Length 889 >>
+stream
+<?xpacket begin="" id="W5M0MpCehiHzreSzNTczkc9d"?>
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="" xmlns:pdfaid="http://www.aiim.org/pdfa/ns/id/">
+   <pdfaid:part>1</pdfaid:part>
+   <pdfaid:conformance>B</pdfaid:conformance>
+  </rdf:Description>
+  <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+   <pdf:Producer>3-Heights(TM) PDF Producer 1.7.0.5 (http://www.pdf-tools.com)</pdf:Producer>
+  </rdf:Description>
+  <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+   <xmp:CreatorTool>3-Heights(TM) PDF Creator 1.7.0.5 (http://www.pdf-tools.com)</xmp:CreatorTool>
+   <xmp:CreateDate>2008-02-28T12:42:36+00:00</xmp:CreateDate>
+   <xmp:ModifyDate>2008-02-28T12:42:36+00:00</xmp:ModifyDate>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>
+
+
+endstream
+endobj
+3 0 obj
+<< /Contents 6 0 R /CropBox [ 0 0 595 842 ] /MediaBox [ 0 0 595 842 ] /Parent 5 0 R /Resources << /XObject << /X0 7 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Count 1 /First 8 0 R /Last 8 0 R /Type /Outlines >>
+endobj
+5 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /Type /Pages >>
+endobj
+6 0 obj
+<< /Length 7 >>
+stream
+/X0 Do
+endstream
+endobj
+7 0 obj
+<< /BBox [ 0 0 100 100 ] /FormType 1 /OPI << /1.3 << /F (image.tiff) /Position [ 200 100 200 150 250 150 250 100 ] /Size [ 200 200 ] /Type /OPI /Version 1.3 >> >> /Resources << >> /Subtype /Form /Type /XObject /Length 4 >>
+stream
+q
+Q
+endstream
+endobj
+8 0 obj
+<< /Count 5 /First 9 0 R /Last 10 0 R /Parent 4 0 R /Title (PDF/A test suite: isartor-6-2-5-t01-fail-a) >>
+endobj
+9 0 obj
+<< /Count 0 /Next 11 0 R /Parent 8 0 R /Title (clause 6-2-5) >>
+endobj
+10 0 obj
+<< /Count 0 /Parent 8 0 R /Prev 12 0 R /Title (expected message: XObject with OPI used.) >>
+endobj
+11 0 obj
+<< /Count 0 /Next 13 0 R /Parent 8 0 R /Prev 9 0 R /Title (topic 01) >>
+endobj
+12 0 obj
+<< /Count 0 /Next 10 0 R /Parent 8 0 R /Prev 13 0 R /Title (expected result: fail) >>
+endobj
+13 0 obj
+<< /Count 0 /Next 12 0 R /Parent 8 0 R /Prev 11 0 R /Title (instance a) >>
+endobj
+xref
+0 14
+0000000000 65535 f 
+0000000015 00000 n 
+0000000170 00000 n 
+0000001139 00000 n 
+0000001295 00000 n 
+0000001366 00000 n 
+0000001425 00000 n 
+0000001480 00000 n 
+0000001739 00000 n 
+0000001861 00000 n 
+0000001940 00000 n 
+0000002048 00000 n 
+0000002136 00000 n 
+0000002238 00000 n 
+trailer << /Root 1 0 R /Size 14 /ID [<467cec39af34afb1671fe0ec249ef620><7a20ce9110bf1a01f71a917e78b75fc5>] >>
+startxref
+2329
+%%EOF

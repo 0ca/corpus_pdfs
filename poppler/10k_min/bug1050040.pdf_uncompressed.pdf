@@ -1,0 +1,28 @@
+%PDF-1.7
+%¿÷¢þ
+1 0 obj
+<< /Pages 2 0 R /Type /Catalog >>
+endobj
+2 0 obj
+<< /Count 1 /Kids [ 3 0 R ] /MediaBox [ 0 0 200 50 ] /Type /Pages >>
+endobj
+3 0 obj
+<< /Contents 4 0 R /MediaBox [ 0 0 200 50 ] /Parent 2 0 R /Resources << /Font << /F1 5 0 R >> >> /Type /Page >>
+endobj
+4 0 obj
+<< /Length 45 >>
+stream
+BT
+10 20 TD
+/F1 20 Tf
+(“Bug 1050040” ) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /BaseFont /BMDGHB+TimesNewRoman /Encoding /WinAnsiEncoding /FirstChar 32 /FontDescriptor 6 0 R /LastChar 239 /Subtype /TrueType /Type /Font /Widths [ 250 333 408 500 0 833 0 180 333 333 500 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 564 0 444 921 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 722 722 611 333 0 333 0 500 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 1000 0 0 0 0 0 0 0 0 0 0 0 0 333 444 444 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 278 ] >>
+endobj
+6 0 obj
+<< /Ascent 891 /CapHeight 656 /Descent -216 /Flags 34 /FontBBox [ -568 -307 2028 1007 ] /FontFile2 7 0 R /FontName /BMDGHB+TimesNewRoman /ItalicAngle 0 /StemV 94 /Type /FontDescriptor /XHeight 0 >>
+endobj
+7 0 obj
